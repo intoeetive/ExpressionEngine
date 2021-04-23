@@ -47,7 +47,8 @@ jobs:
 
           - name: Copy config.php
             working-directory: build-tools/builds/ExpressionEngine${{ env.BUILD_VERSION }}
-            run: php -r "file_exists('system/user/config/config.php') || copy('tests/cypress/support/config/config.php', 'system/user/config/config.php');"
+            run: |
+              cp -n tests/cypress/support/config/config.php system/user/config/config.php
 
           - name: Setup Permissions
             working-directory: build-tools/builds/ExpressionEngine${{ steps.build_json.outputs.BUILD_VERSION }}
