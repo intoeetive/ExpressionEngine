@@ -106,9 +106,9 @@ jobs:
                 path: build-tools/builds/ExpressionEngine
                 key: cache-ee-build
 
-            - name: See what we have here
+            - name: Move files to webroot
               run: |
-                ls -la
+                mv build-tools/builds/ExpressionEngine/* ./
 
             - name: Setup PHP
               uses: shivammathur/setup-php@v2
@@ -143,12 +143,12 @@ jobs:
               uses: actions/upload-artifact@v2
               if: failure()
               with:
-                name: cypress-tests-admin
+                name: cypress-tests-admin-PHP${{ matrix.php }}
                 path: build-tools/builds/ExpressionEngine/tests/cypress/cypress/screenshots/
 
             - name: Archive server errors
               uses: actions/upload-artifact@v2
               if: failure()
               with:
-                name: admin.error.log
+                name: admin.error.PHP${{ matrix.php }}.log
                 path: /home/runner/php_errors.log
