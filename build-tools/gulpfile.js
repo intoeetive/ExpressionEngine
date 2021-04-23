@@ -638,36 +638,6 @@ var deleteFiles = function(path, filesToDelete) {
 				))
 				.pipe(gulp.dest('system/ee/legacy/libraries/', {cwd: path}));
 		},
-		function() {
-			var file = path + '/tests/cypress/support/config.php';
-
-			fs.open(file, 'r', function (err, fd) {
-				if (err) throw err;
-			});
-
-			return gulp.src(file)
-				.pipe(plugin.replace(
-					/\$config\['app_version'\].*$/gim,
-					"$config['app_version'] = '" + properties.version + "';"
-				))
-				.pipe(gulp.dest('tests/cypress/support/', {cwd: path}));
-		},
-		function () {
-			if (properties.major_version == 6) {
-				var file = path + '/tests/cypress/support/config.ee6.php';
-
-				fs.open(file, 'r', function (err, fd) {
-					if (err) throw err;
-				});
-
-				return gulp.src(file)
-					.pipe(plugin.replace(
-						/\$config\['app_version'\].*$/gim,
-						"$config['app_version'] = '" + properties.version + "';"
-					))
-					.pipe(gulp.dest('tests/cypress/support/', { cwd: path }));
-			}
-		},
 		function () {
 			var file = path + '/tests/cypress/support/config/config.php';
 
@@ -681,20 +651,6 @@ var deleteFiles = function(path, filesToDelete) {
 					"$config['app_version'] = '" + properties.version + "';"
 				))
 				.pipe(gulp.dest('tests/cypress/support/config/', { cwd: path }));
-		},
-		function() {
-			var file = path + '/tests/docker/config.php';
-
-			fs.open(file, 'r', function (err, fd) {
-				if (err) throw err;
-			});
-
-			return gulp.src(file)
-				.pipe(plugin.replace(
-					/\$config\['app_version'\].*$/gim,
-					"$config['app_version'] = '" + properties.version + "';"
-				))
-				.pipe(gulp.dest('tests/docker/', {cwd: path}));
 		},
 		function() {
 			var file = path + '/system/ee/installer/controllers/wizard.php';
