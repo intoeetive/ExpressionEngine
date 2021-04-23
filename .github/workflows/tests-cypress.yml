@@ -88,7 +88,10 @@ jobs:
         name: Admin, PHP${{ matrix.php }} - ${{ matrix.os }}
 
         steps:
-
+            - name: see what we have
+              run: |
+                ls -la
+                
             - name: Get version
               id: build_json
               working-directory: build-tools
