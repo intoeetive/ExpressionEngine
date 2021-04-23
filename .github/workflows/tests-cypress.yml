@@ -33,7 +33,7 @@ jobs:
           - name: Get version
             id: build_json
             run: |
-              content = node -pe 'JSON.parse(process.argv[1]).tag' "$(cat build-tools/build.json)"
+              content=`node -pe 'JSON.parse(process.argv[1]).tag' "$(cat build-tools/build.json)"`
               echo "::set-env name=BUILD_VERSION::$content"
 
           - name: Run build process
