@@ -45,28 +45,6 @@ jobs:
               APP_REPO_PATH: ${{ github.workspace }}
             run: gulp build-app --local --head --skip-lint --version=${{ steps.build_json.outputs.BUILD_VERSION }}
 
-          - name: Copy config.php
-            working-directory: build-tools/builds/ExpressionEngine${{ steps.build_json.outputs.BUILD_VERSION }}
-            run: |
-              cat tests/cypress/support/config/config.php
-              rm -f system/user/config/config.php
-              cp -f tests/cypress/support/config/config.php system/user/config/config.php
-
-          - name: Setup Permissions
-            working-directory: build-tools/builds/ExpressionEngine${{ steps.build_json.outputs.BUILD_VERSION }}
-            run: |
-                cp tests/cypress/support/ExpressionEngineUpdate.pub system/ee/ExpressionEngine
-                sudo chmod 666 system/user/config/config.php
-                sudo chmod 777 system/user/config
-                sudo chmod -R 777 system/user/cache
-                sudo chmod -R 777 system/user/templates
-                sudo chmod -R 777 system/user/language
-                sudo chmod -R 777 tests/cypress/support/tmp
-                sudo chmod -R 777 tests/cypress/support/file-sync/uploads
-                sudo chmod -R 777 images
-                sudo chmod -R 777 themes/user
-                sudo chmod -R 777 tests/cypress/cypress/screenshots
-
           - name: Rename build directory
             working-directory: build-tools/builds
             run: |
@@ -112,7 +90,26 @@ jobs:
               run: |
                 cp -R build-tools/builds/ExpressionEngine/* ./
                 rm -rf build-tools
+
+            - name: Copy config.php
+              run: |
+                rm -f system/user/config/config.php
+                cp -f tests/cypress/support/config/config.php system/user/config/config.php
                 cat system/user/config/config.php
+
+            - name: Setup Permissions
+              run: |
+                  cp tests/cypress/support/ExpressionEngineUpdate.pub system/ee/ExpressionEngine
+                  sudo chmod 666 system/user/config/config.php
+                  sudo chmod 777 system/user/config
+                  sudo chmod -R 777 system/user/cache
+                  sudo chmod -R 777 system/user/templates
+                  sudo chmod -R 777 system/user/language
+                  sudo chmod -R 777 tests/cypress/support/tmp
+                  sudo chmod -R 777 tests/cypress/support/file-sync/uploads
+                  sudo chmod -R 777 images
+                  sudo chmod -R 777 themes/user
+                  sudo chmod -R 777 tests/cypress/cypress/screenshots
 
             - name: Setup PHP
               uses: shivammathur/setup-php@v2
