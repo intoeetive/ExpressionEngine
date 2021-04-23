@@ -108,7 +108,8 @@ jobs:
 
             - name: Move files to webroot
               run: |
-                mv build-tools/builds/ExpressionEngine/* /home/runner/work/ExpressionEngine/ExpressionEngine/
+                cp -R build-tools/builds/ExpressionEngine/* ./
+                rm -rf build-tools
 
             - name: Setup PHP
               uses: shivammathur/setup-php@v2
