@@ -69,7 +69,7 @@ jobs:
             working-directory: build-tools/builds
             run: |
               mv ExpressionEngine${{ steps.build_json.outputs.BUILD_VERSION }} ExpressionEngine
-              ls -la build-tools/builds/ExpressionEngine/system/user/config
+              ls -la ExpressionEngine/system/user/config
 
           - name: Cache built EE version
             uses: actions/cache@v2
