@@ -4,10 +4,10 @@ on:
   pull_request:
     types: [opened, synchronize, reopened, ready_for_review]
     branches:
-      - 6.dev
+      - 66.dev
   push:
     branches:
-      - 6.dev
+      - 66.dev
 
 jobs:
     php-tests:
