@@ -69,6 +69,7 @@ jobs:
             working-directory: build-tools/builds
             run: |
               mv ExpressionEngine${{ steps.build_json.outputs.BUILD_VERSION }} ExpressionEngine
+              ls -la build-tools/builds/ExpressionEngine/system/user/config
 
           - name: Cache built EE version
             uses: actions/cache@v2
@@ -110,7 +111,7 @@ jobs:
               run: |
                 cp -R build-tools/builds/ExpressionEngine/* ./
                 rm -rf build-tools
-                ls -la
+                ls -la system/user/config
 
             - name: Setup PHP
               uses: shivammathur/setup-php@v2
