@@ -1,0 +1,138 @@
+name: Cypress Tests
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, ready_for_review]
+    branches:
+      - 6.dev
+
+jobs:
+    build-for-testing:
+
+        name: Build EE for testing
+
+        runs-on: ubuntu-latest
+        steps:
+          - name: Checkout code
+            uses: actions/checkout@v2
+
+          - name: Get version
+            id: build_json
+            run: |
+              content=`cat build-tools/build.json`
+              # the following lines are only required for multi line json
+              content="${content//'%'/'%25'}"
+              content="${content//$'\n'/'%0A'}"
+              content="${content//$'\r'/'%0D'}"
+              # end of optional handling for multi line json
+              echo "::set-output name=buildJson::$content"
+
+          - name: Setup asdf
+            uses: asdf-vm/actions/setup@v1
+
+          - name: Install asdf dependencies
+            working-directory: build-tools
+            run: |
+              asdf plugin-add nodejs https://github.com/asdf-vm/asdf-nodejs.git
+              bash -c '${ASDF_DATA_DIR:=$HOME/.asdf}/plugins/nodejs/bin/import-release-team-keyring'
+              asdf install
+
+          - name: Install build tool dependencies
+            working-directory: build-tools
+            run: npm install
+
+          - name: Run build process
+            working-directory: build-tools
+            env:
+              RELEASE_KEY: ${{ secrets.RELEASE_KEY }}
+              RELEASE_KEY_PASSWORD: ${{ secrets.RELEASE_KEY_PASSWORD }}
+              APP_REPO_PATH: ${{ github.workspace }}
+            run: gulp build-app --local --head --skip-lint --version=${{ fromJson(steps.build_json.outputs.buildJson).tag }}
+
+          - name: Copy config.php
+            working-directory: build-tools/builds/ExpressioneEngine${{ fromJson(steps.build_json.outputs.buildJson).tag }}
+            run: php -r "file_exists('system/user/config/config.php') || copy('tests/cypress/support/config/config.php', 'system/user/config/config.php');"
+
+          - name: Setup Permissions
+            working-directory: build-tools/builds/ExpressioneEngine${{ fromJson(steps.build_json.outputs.buildJson).tag }}
+            run: |
+                cp tests/cypress/support/ExpressionEngineUpdate.pub system/ee/ExpressionEngine
+                sudo chmod 666 system/user/config/config.php
+                sudo chmod 777 system/user/config
+                sudo chmod -R 777 system/user/cache
+                sudo chmod -R 777 system/user/templates
+                sudo chmod -R 777 system/user/language
+                sudo chmod -R 777 tests/cypress/support/tmp
+                sudo chmod -R 777 tests/cypress/support/file-sync/uploads
+                sudo chmod -R 777 images
+                sudo chmod -R 777 themes/user
+                sudo chmod -R 777 tests/cypress/cypress/screenshots
+
+          - name: Directory Listing on Failure
+            if: failure()
+            run: |
+              ls -latr build-tools/builds
+
+    cypress-admin:
+        needs: build-for-testing
+        defaults:
+          run:
+            working-directory: build-tools/builds/ExpressioneEngine${{ fromJson(steps.build_json.outputs.buildJson).tag }}
+
+        runs-on: ${{ matrix.os }}
+
+        strategy:
+            fail-fast: false
+            matrix:
+                php: [7.2, 7.1, 5.6, 8.0]
+                os: [ubuntu-18.04]
+                include:
+                  - php: 7.4
+                    os: ubuntu-20.04 #is using mysql8
+
+        name: Admin, PHP${{ matrix.php }} - ${{ matrix.os }}
+
+        steps:
+
+            - name: Setup PHP
+              uses: shivammathur/setup-php@v2
+              with:
+                  php-version: ${{ matrix.php }}
+                  extensions: dom, curl, sqlite, libxml, mbstring, zip, pcntl, pdo, mysql, bcmath, soap, intl, gd, exif, iconv, imagick
+                  coverage: none
+                  ini-values: error_log=/home/runner/php_errors.log, memory_limit=128M                
+
+            - name: Configure MySQL
+              run: |
+                sudo systemctl start mysql
+                mysql -u root -proot -e 'CREATE DATABASE `ee-test`;'
+                mysql -u root -proot -e 'SET GLOBAL sql_mode="ONLY_FULL_GROUP_BY,STRICT_ALL_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION";'
+
+            - name: Install PHP dependencies
+              working-directory: tests/cypress
+              run: composer install
+
+            - name: Start PHP Server
+              run: php -S localhost:8888 &
+
+            - name: Run Cypress Tests
+              uses: cypress-io/github-action@v2
+              with:
+                browser: chrome
+                headless: true
+                working-directory: tests/cypress
+                config-file: admin.cypress.json
+
+            - name: Archive screenshots
+              uses: actions/upload-artifact@v2
+              if: failure()
+              with:
+                name: cypress-tests-admin
+                path: tests/cypress/cypress/screenshots/
+
+            - name: Archive server errors
+              uses: actions/upload-artifact@v2
+              if: failure()
+              with:
+                name: admin.error.log
+                path: /home/runner/php_errors.log
