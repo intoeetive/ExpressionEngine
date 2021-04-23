@@ -109,7 +109,6 @@ jobs:
             - name: Move files to webroot
               run: |
                 cp -R build-tools/builds/ExpressionEngine/* ./
-                ls -la
                 rm -rf build-tools
                 ls -la
 
@@ -128,7 +127,7 @@ jobs:
                 mysql -u root -proot -e 'SET GLOBAL sql_mode="ONLY_FULL_GROUP_BY,STRICT_ALL_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION";'
 
             - name: Install PHP dependencies
-              working-directory: build-tools/builds/ExpressionEngine/tests/cypress
+              working-directory: tests/cypress
               run: composer install
 
             - name: Start PHP Server
@@ -139,7 +138,7 @@ jobs:
               with:
                 browser: chrome
                 headless: true
-                working-directory: build-tools/builds/ExpressionEngine/tests/cypress
+                working-directory: tests/cypress
                 config-file: admin.cypress.json
 
             - name: Archive screenshots
@@ -147,7 +146,7 @@ jobs:
               if: failure()
               with:
                 name: cypress-tests-admin-PHP${{ matrix.php }}
-                path: build-tools/builds/ExpressionEngine/tests/cypress/cypress/screenshots/
+                path: tests/cypress/cypress/screenshots/
 
             - name: Archive server errors
               uses: actions/upload-artifact@v2
