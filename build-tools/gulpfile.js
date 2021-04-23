@@ -65,7 +65,8 @@ gulp.task('default', ['docs', 'app'], function () {
 gulp.task('app', ['_preflight'], function (cb) {
 	// Kick off the build
 	var filesToDelete = [
-		'build/'
+		'build/',
+		'tests/'
 	];
 
 	deleteFiles(paths.app, filesToDelete)
@@ -308,7 +309,6 @@ gulp.task('_delete_files', function (cb) {
 		'!themes/ee/*/default',
 		'!themes/ee/wiki/azure',
 
-		'tests/',
 		'system/ee/EllisLab/Tests/',
 		'system/ee/ExpressionEngine/Tests/',
 	];
