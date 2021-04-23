@@ -111,6 +111,7 @@ jobs:
               run: |
                 cp -R build-tools/builds/ExpressionEngine/* ./
                 rm -rf build-tools
+                cat system/user/config/config.php
 
             - name: Setup PHP
               uses: shivammathur/setup-php@v2
