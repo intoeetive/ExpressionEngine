@@ -68,7 +68,7 @@ jobs:
             if: failure()
             run: |
               ls -latr build-tools/builds
-              ls -latr build-tools/builds/ExpressioneEngine${{ steps.build_json.outputs.BUILD_VERSION }}
+              ls -latr build-tools/builds/ExpressionEngine${{ steps.build_json.outputs.BUILD_VERSION }}
 
     cypress-admin:
         needs: build-for-testing
