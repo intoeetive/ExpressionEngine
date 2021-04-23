@@ -48,7 +48,7 @@ jobs:
           - name: Copy config.php
             working-directory: build-tools/builds/ExpressionEngine${{ steps.build_json.outputs.BUILD_VERSION }}
             run: |
-              cp -n tests/cypress/support/config/config.php system/user/config/config.php
+              cp tests/cypress/support/config/config.php system/user/config/config.php
 
           - name: Setup Permissions
             working-directory: build-tools/builds/ExpressionEngine${{ steps.build_json.outputs.BUILD_VERSION }}
@@ -69,7 +69,6 @@ jobs:
             working-directory: build-tools/builds
             run: |
               mv ExpressionEngine${{ steps.build_json.outputs.BUILD_VERSION }} ExpressionEngine
-              ls -la ExpressionEngine/system/user/config
 
           - name: Cache built EE version
             uses: actions/cache@v2
@@ -111,7 +110,6 @@ jobs:
               run: |
                 cp -R build-tools/builds/ExpressionEngine/* ./
                 rm -rf build-tools
-                ls -la system/user/config
 
             - name: Setup PHP
               uses: shivammathur/setup-php@v2
