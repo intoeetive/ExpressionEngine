@@ -35,7 +35,7 @@ jobs:
             working-directory: build-tools
             run: |
               content=`node -pe 'JSON.parse(process.argv[1]).tag' "$(cat build.json)"`
-              echo "::set-env name=BUILD_VERSION::$content"
+              echo "::set-output name=BUILD_VERSION::$content"
 
           - name: Run build process
             working-directory: build-tools
@@ -43,14 +43,14 @@ jobs:
               RELEASE_KEY: ${{ secrets.RELEASE_KEY }}
               RELEASE_KEY_PASSWORD: ${{ secrets.RELEASE_KEY_PASSWORD }}
               APP_REPO_PATH: ${{ github.workspace }}
-            run: gulp build-app --local --head --skip-lint --version=${{ env.BUILD_VERSION }}
+            run: gulp build-app --local --head --skip-lint --version=${{ steps.build_json.outputs.BUILD_VERSION }}
 
           - name: Copy config.php
             working-directory: build-tools/builds/ExpressioneEngine${{ env.BUILD_VERSION }}
             run: php -r "file_exists('system/user/config/config.php') || copy('tests/cypress/support/config/config.php', 'system/user/config/config.php');"
 
           - name: Setup Permissions
-            working-directory: build-tools/builds/ExpressioneEngine${{ env.BUILD_VERSION }}
+            working-directory: build-tools/builds/ExpressioneEngine${{ steps.build_json.outputs.BUILD_VERSION }}
             run: |
                 cp tests/cypress/support/ExpressionEngineUpdate.pub system/ee/ExpressionEngine
                 sudo chmod 666 system/user/config/config.php
@@ -71,9 +71,6 @@ jobs:
 
     cypress-admin:
         needs: build-for-testing
-        defaults:
-          run:
-            working-directory: build-tools/builds/ExpressioneEngine${{ env.BUILD_VERSION }}
 
         runs-on: ${{ matrix.os }}
 
@@ -90,6 +87,13 @@ jobs:
 
         steps:
 
+            - name: Get version
+              id: build_json
+              working-directory: build-tools
+              run: |
+                content=`node -pe 'JSON.parse(process.argv[1]).tag' "$(cat build.json)"`
+                echo "::set-output name=BUILD_VERSION::$content"
+
             - name: Setup PHP
               uses: shivammathur/setup-php@v2
               with:
@@ -105,7 +109,7 @@ jobs:
                 mysql -u root -proot -e 'SET GLOBAL sql_mode="ONLY_FULL_GROUP_BY,STRICT_ALL_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION";'
 
             - name: Install PHP dependencies
-              working-directory: tests/cypress
+              working-directory: build-tools/builds/ExpressioneEngine${{ steps.build_json.outputs.BUILD_VERSION }}/tests/cypress
               run: composer install
 
             - name: Start PHP Server
@@ -116,7 +120,7 @@ jobs:
               with:
                 browser: chrome
                 headless: true
-                working-directory: tests/cypress
+                working-directory: build-tools/builds/ExpressioneEngine${{ steps.build_json.outputs.BUILD_VERSION }}/tests/cypress
                 config-file: admin.cypress.json
 
             - name: Archive screenshots
@@ -124,7 +128,7 @@ jobs:
               if: failure()
               with:
                 name: cypress-tests-admin
-                path: tests/cypress/cypress/screenshots/
+                path: build-tools/builds/ExpressioneEngine${{ steps.build_json.outputs.BUILD_VERSION }}/tests/cypress/cypress/screenshots/
 
             - name: Archive server errors
               uses: actions/upload-artifact@v2
