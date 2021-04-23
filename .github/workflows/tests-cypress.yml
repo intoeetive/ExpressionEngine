@@ -26,6 +26,7 @@ jobs:
               content="${content//$'\r'/'%0D'}"
               # end of optional handling for multi line json
               echo "::set-output name=buildJson::$content"
+              echo "::set-env name=BUILD_VERSION::$content"
 
           - name: Setup asdf
             uses: asdf-vm/actions/setup@v1
@@ -47,10 +48,10 @@ jobs:
               RELEASE_KEY: ${{ secrets.RELEASE_KEY }}
               RELEASE_KEY_PASSWORD: ${{ secrets.RELEASE_KEY_PASSWORD }}
               APP_REPO_PATH: ${{ github.workspace }}
-            run: gulp build-app --local --head --skip-lint --version=${{ fromJson(steps.build_json.outputs.buildJson).tag }}
+            run: gulp build-app --local --head --skip-lint --version=${{ fromJson(env.BUILD_VERSION).tag }}
 
           - name: Copy config.php
-            working-directory: build-tools/builds/ExpressioneEngine${{ fromJson(steps.build_json.outputs.buildJson).tag }}
+            working-directory: build-tools/builds/ExpressioneEngine${{ fromJson(env.BUILD_VERSION).tag }}
             run: php -r "file_exists('system/user/config/config.php') || copy('tests/cypress/support/config/config.php', 'system/user/config/config.php');"
 
           - name: Setup Permissions
@@ -77,7 +78,7 @@ jobs:
         needs: build-for-testing
         defaults:
           run:
-            working-directory: build-tools/builds/ExpressioneEngine${{ fromJson(steps.build_json.outputs.buildJson).tag }}
+            working-directory: build-tools/builds/ExpressioneEngine${{ fromJson(env.BUILD_VERSION).tag }}
 
         runs-on: ${{ matrix.os }}
 
