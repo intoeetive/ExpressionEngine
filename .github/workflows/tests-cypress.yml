@@ -49,7 +49,8 @@ jobs:
             working-directory: build-tools/builds/ExpressionEngine${{ steps.build_json.outputs.BUILD_VERSION }}
             run: |
               cat tests/cypress/support/config/config.php
-              \cp -f tests/cypress/support/config/config.php system/user/config/config.php
+              rm -f system/user/config/config.php
+              cp -f tests/cypress/support/config/config.php system/user/config/config.php
 
           - name: Setup Permissions
             working-directory: build-tools/builds/ExpressionEngine${{ steps.build_json.outputs.BUILD_VERSION }}
