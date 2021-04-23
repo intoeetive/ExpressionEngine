@@ -46,14 +46,8 @@ jobs:
             run: gulp build-app --local --head --skip-lint --version=${{ steps.build_json.outputs.BUILD_VERSION }}
 
           - name: Copy config.php
-            working-directory: build-tools/builds/ExpressionEngine${{ env.BUILD_VERSION }}
             run: |
-              ls -latr tests
-              ls -latr tests/cypress
-              ls -latr tests/cypress/support
-              ls -latr tests/cypress/support/config
-              cat tests/cypress/support/config/config.php
-              cp -n tests/cypress/support/config/config.php system/user/config/config.php
+              cp -n build-tools/builds/ExpressionEngine${{ env.BUILD_VERSION }}/tests/cypress/support/config/config.php build-tools/builds/ExpressionEngine${{ env.BUILD_VERSION }}/system/user/config/config.php
 
           - name: Setup Permissions
             working-directory: build-tools/builds/ExpressionEngine${{ steps.build_json.outputs.BUILD_VERSION }}
