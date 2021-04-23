@@ -48,6 +48,8 @@ jobs:
           - name: Copy config.php
             working-directory: build-tools/builds/ExpressionEngine${{ env.BUILD_VERSION }}
             run: |
+              ls -latr tests/cypress/support/config
+              cat tests/cypress/support/config/config.php
               cp -n tests/cypress/support/config/config.php system/user/config/config.php
 
           - name: Setup Permissions
