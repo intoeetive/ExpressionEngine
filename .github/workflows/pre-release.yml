@@ -9,7 +9,7 @@ on:
 jobs:
   build:
     if: ${{ github.actor == 'intoeetive' }}
-    name: Build Release
+    name: Pre-Release
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
