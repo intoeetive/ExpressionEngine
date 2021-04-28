@@ -57,7 +57,10 @@ jobs:
         with:
           artifacts: "build-tools/builds/ExpressionEngine*,build-tools/builds/EEDocs*"
           name: ExpressionEngine ${{ steps.tagName.outputs.tag }}
+          allowUpdates: true
           token: ${{ secrets.ORG_ACCESS_TOKEN }}
+          #prerelease: true
+          body: ExpressionEngine ${{ steps.tagName.outputs.tag }}
 
       - name: Directory Listing on Failure
         if: failure()
