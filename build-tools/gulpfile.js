@@ -67,6 +67,7 @@ gulp.task('app', ['_preflight'], function (cb) {
 	var filesToDelete = [
 		'build/',
 		'tests/',
+		'build-tools/',
 		
 		'images/*/*',
 		'images/about',

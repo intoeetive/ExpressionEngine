@@ -64,6 +64,7 @@ jobs:
       - name: Add artifact links to pull request
         uses: tonyhallett/artifacts-url-comments@v1.1.0
         with:
+            token: ${{ secrets.ORG_ACCESS_TOKEN }}
             prefix: 'Files: '
             format: name
             addTo: pull
