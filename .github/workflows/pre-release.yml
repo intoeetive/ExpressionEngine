@@ -4,12 +4,12 @@ on:
   pull_request:
     types: [opened, synchronize, reopened, ready_for_review]
     branches:
-      - 6.dev
+      - 6.x
 
 jobs:
   build:
-    if: ${{ github.actor == 'intoeetive' }}
-    name: Pre-Release
+    #if: ${{ github.actor == 'intoeetive' }}
+    name: TEST BUILD
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -60,15 +60,6 @@ jobs:
         with:
           name: EE${{ steps.build_json.outputs.BUILD_VERSION }}
           path: build-tools/builds
-
-      - name: Add artifact links to pull request
-        uses: tonyhallett/artifacts-url-comments@v1.1.0
-        env:
-            token: ${{ secrets.ORG_ACCESS_TOKEN }}
-        with:
-            prefix: 'Files: '
-            format: name
-            addTo: pull
 
       - name: Directory Listing on Failure
         if: failure()
