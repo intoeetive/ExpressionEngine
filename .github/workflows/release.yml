@@ -55,7 +55,7 @@ jobs:
 
       - uses: ncipollo/release-action@v1
         with:
-          artifacts: "build-tools/builds/ExpressionEngine*"
+          artifacts: "build-tools/builds/ExpressionEngine*,build-tools/builds/EEDocs*"
           name: ExpressionEngine ${{ steps.tagName.outputs.tag }}
           token: ${{ secrets.ORG_ACCESS_TOKEN }}
 
