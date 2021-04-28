@@ -10,7 +10,7 @@
     "watchForFileChanges": false,
     "chromeWebSecurity": false,
     "redirectionLimit": 200,
-    "testFiles": "z_installer/*.ee6.js",
+    "testFiles": "updater/*.ee6.js",
     "env": {
         "USER_EMAIL": "admin",
         "USER_PASSWORD": "password",

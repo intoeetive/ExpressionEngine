@@ -66,7 +66,13 @@ gulp.task('app', ['_preflight'], function (cb) {
 	// Kick off the build
 	var filesToDelete = [
 		'build/',
-		'tests/'
+		'tests/',
+		
+		'images/*/*',
+		'images/about',
+		'!images/*/index.html',
+		'!images/smileys/*',
+		'!images/avatars/*',
 	];
 
 	deleteFiles(paths.app, filesToDelete)
@@ -288,12 +294,6 @@ gulp.task('_delete_files', function (cb) {
 		'README.md',
 		'scripts/',
 		'system/ee/legacy/libraries/Ldap.php',
-
-		'images/*/*',
-		'images/about',
-		'!images/*/index.html',
-		'!images/smileys/*',
-		'!images/avatars/*',
 
 		'system/user/*/*',
 		'!system/user/*/index.html',
