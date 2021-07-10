@@ -2,148 +2,148 @@
 
 $lang = array(
 
-    'system_logs' => 'System Logs',
+    'system_logs' => 'Registros del sistema',
 
     /* Sidebar */
-    'all_consent_logs' => 'All %d Consent Audit Logs',
+    'all_consent_logs' => 'Todos los registros de auditoría de consentimiento %d',
 
-    'all_cp_logs' => 'All %d Control Panel Logs',
+    'all_cp_logs' => 'Todos los registros del panel de control %d',
 
-    'all_developer_logs' => 'All %d Developer Logs',
+    'all_developer_logs' => 'Todos los registros del desarrollador %d',
 
-    'all_email_logs' => 'All %d Email Logs',
+    'all_email_logs' => 'Todos los %d registros de correo',
 
-    'all_search_logs' => 'All %d Search Logs',
+    'all_search_logs' => 'Todos los registros de búsqueda %d',
 
-    'all_throttle_logs' => 'All %d Throttling Logs',
+    'all_throttle_logs' => 'Todos los %d registros de lanzamiento',
 
-    'clear_cp_logs' => 'Delete all CP Access Logs',
+    'clear_cp_logs' => 'Borrar todos los registros de acceso de CP',
 
-    'consent_log' => 'Consent',
+    'consent_log' => 'Consentimiento',
 
-    'cp_log' => 'Control Panel',
+    'cp_log' => 'Panel de control',
 
-    'date_logged' => 'Date logged',
+    'date_logged' => 'Fecha de registro',
 
-    'developer_log' => 'Developer',
+    'developer_log' => 'Desarrollador',
 
-    'email_log' => 'Email',
+    'email_log' => 'E-mail',
 
-    'logs_deleted' => 'Logs Deleted',
+    'logs_deleted' => 'Registros eliminados',
 
-    'logs_deleted_desc' => '<b>%d</b> log(s) deleted from <b>%s</b> logs',
+    'logs_deleted_desc' => '<b>%d</b> registro(s) eliminado(s) de <b>%s</b> registros',
 
-    'no_consent_logs_found' => 'No <b>Consent audit logs</b> found.',
+    'no_consent_logs_found' => 'No se encontraron <b>registros de auditoría consentida</b>.',
 
     'no_control_panel_logs_found' => 'No <b>Control panel logs</b> found.',
 
-    'search_log' => 'Search',
+    'search_log' => 'Buscar',
 
-    'search_logs_button' => 'search logs',
+    'search_logs_button' => 'buscar registros',
 
-    'search_results' => 'Search Results',
+    'search_results' => 'Resultados de búsqueda',
 
-    'search_terms' => 'Search Terms',
+    'search_terms' => 'Buscar términos',
 
-    'searched_in' => 'Searched In',
+    'searched_in' => 'Buscado en',
 
-    'site_search' => 'Site',
+    'site_search' => 'Sitio',
 
-    'throttle_log' => 'Throttling',
+    'throttle_log' => 'Lanzamiento',
 
-    'view_consent_log' => 'Consent Audit Logs',
+    'view_consent_log' => 'Registros de auditoría de consentimiento',
 
-    'view_cp_log' => 'Control Panel Access Logs',
+    'view_cp_log' => 'Registros de Acceso al Panel de Control',
 
-    'view_developer_log' => 'Developer Logs',
+    'view_developer_log' => 'Registros del desarrollador',
 
-    'view_email_logs' => 'Email Logs',
+    'view_email_logs' => 'Registros de Email',
 
-    'view_search_log' => 'Search Logs',
+    'view_search_log' => 'Buscar registros',
 
-    'view_throttle_log' => 'Access Throttling Logs',
+    'view_throttle_log' => 'Registros de Throttling de Acceso',
 
     /* Developer Log */
-    'clear_developer_logs' => 'Delete all Developer Logs',
+    'clear_developer_logs' => 'Borrar todos los registros del desarrollador',
 
-    'deprecated_function' => 'Deprecated function %s called',
+    'deprecated_function' => 'Función obsoleta %s llamada',
 
-    'deprecated_hook' => 'Deprecated extension hook called by the following extensions (Class::method) <ul>%s</ul>',
+    'deprecated_hook' => 'Hook de extensión desaprobado llamado por las siguientes extensiones (Class::method) <ul>%s</ul>',
 
-    'deprecated_meaning' => '<p>One of two things has happened:</p>
+    'deprecated_meaning' => '<p>Ha ocurrido una de dos cosas:</p>
 <ol>
- <li>The system has detected native code or an add-on that is using outdated code that may stop working or cause issues with the system. This means an add-on in your installation is accessing a part of ExpressionEngine\'s core code which Packet Tide plans to remove in the future in order to improve the quality of the product.</li>
- <li>A warning or message was raised by native code or an add-on for the Super Admin to view.</li>
+ <li>El sistema ha detectado código nativo o un complemento que está usando código anticuado que puede dejar de funcionar o causar problemas con el sistema. Esto significa que un complemento de su instalación está accediendo a una parte del código central de ExpressionEngine que tiene previsto eliminar en el futuro para mejorar la calidad del producto.</li>
+ <li>Un mensaje o advertencia fue lanzado por código nativo o un complemento para que el Super Admin visualizara.</li>
 </ol>
-<p>To remedy this notice, you may need to do any of the following:</p>
+<p>Para remediar este aviso puede que necesite hacer cualquiera de los siguientes:</p>
 <ul>
- <li>Contact the developer who manages your ExpressionEngine installation for help</li>
- <li>Make sure you have the latest version of all your installed add-ons</li>
- <li>Contact the developer of the offending add-on to make sure they\'re aware of the problem and plans to issue an update</li>
+ <li>Contacte al desarrollador que administra su instalación de ExpressionEngine en busca de ayuda</li>
+ <li>Asegúrese de que tiene la última versión de todos sus complementos instalados</li>
+ <li>Póngase en contacto con el desarrollador del complemento ofensivo para asegurarse de que están al tanto del problema y planea realizar una actualización</li>
 </ul>',
 
-    'deprecated_on_line' => 'in %s on line %d.',
+    'deprecated_on_line' => 'en %s en la línea %d.',
 
-    'deprecated_since' => 'Deprecated since %s.',
+    'deprecated_since' => 'Obsoleto desde %s.',
 
-    'deprecated_snippets' => 'This tag may have been parsed from one of these snippets: %s',
+    'deprecated_snippets' => 'Esta etiqueta puede haber sido analizada desde uno de estos fragmentos: %s',
 
-    'deprecated_template' => 'From template tag %s in %s.',
+    'deprecated_template' => 'Desde la etiqueta de plantilla %s en %s.',
 
-    'deprecated_use_instead' => 'Use %s instead.',
+    'deprecated_use_instead' => 'Usar %s en su lugar.',
 
-    'deprecation_detected' => 'This is a log for developers to bring notices or warnings to the attention of the Super Admins.',
+    'deprecation_detected' => 'Este es un registro para que los desarrolladores puedan llamar la atención de los superadministradores sobre avisos o avisos.',
 
-    'dev_log_help' => 'What does this mean?',
+    'dev_log_help' => '¿Qué significa esto?',
 
-    'dev_log_view_report' => 'View report',
+    'dev_log_view_report' => 'Ver informe',
 
     'log_id' => 'Log ID',
 
-    'log_message' => 'Message',
+    'log_message' => 'Mensaje',
 
-    'no_developer_logs_found' => 'No <b>Developer logs</b> found.',
+    'no_developer_logs_found' => 'No se encontraron <b>registros de desarrollador</b>.',
 
     /* Email Log */
-    'clear_email_logs' => 'Delete all Email Logs',
+    'clear_email_logs' => 'Borrar todos los registros de email',
 
-    'no_email_logs_found' => 'No <b>Email logs</b> found.',
+    'no_email_logs_found' => 'No se encontraron <b>registros de correo electrónico</b>.',
 
-    'sent_to' => 'Sent Email to',
+    'sent_to' => 'Correo enviado a',
 
-    'subject' => 'Subject',
+    'subject' => 'Asunto',
 
     /* Search Log */
-    'clear_search_logs' => 'Delete all Search Logs',
+    'clear_search_logs' => 'Borrar todos los registros de búsqueda',
 
-    'no_search_logs_found' => 'No <b>Search logs</b> found.',
+    'no_search_logs_found' => 'No se encontraron <b>registros de búsqueda</b>.',
 
-    'searched_for' => 'Searched for',
+    'searched_for' => 'Buscado por',
 
     /* Throttle Log */
 
-    'clear_throttle_logs' => 'Delete all Throttling Logs',
+    'clear_throttle_logs' => 'Borrar todos los registros de Throttling',
 
-    'enable_throttling' => 'Turn Throttling On',
+    'enable_throttling' => 'Activar lanzamiento',
 
-    'front_end_requests' => 'Front End Requests',
+    'front_end_requests' => 'Solicitudes de Front End',
 
-    'last_activity' => 'Last Activity',
+    'last_activity' => 'Última actividad',
 
-    'no_throttle_logs' => 'No IPs are currently being throttled by the system.',
+    'no_throttle_logs' => 'El sistema no está acelerando actualmente ninguna IMA.',
 
-    'no_throttling_logs_found' => 'No <b>Throttling logs</b> found.',
+    'no_throttling_logs_found' => 'No se encontraron <b>registros de lanzamiento</b>.',
 
-    'throttling_disabled' => '<b>Throttling</b> Disabled',
+    'throttling_disabled' => '<b>Arrotaje</b> Desactivado',
 
     /* Filters */
-    'custom_date' => 'custom date',
+    'custom_date' => 'fecha personalizada',
 
-    'custom_limit' => 'custom limit',
+    'custom_limit' => 'límite personalizado',
 
-    'filter_by_site' => 'filter sites',
+    'filter_by_site' => 'filtrar sitios',
 
-    'filter_by_username' => 'filter username',
+    'filter_by_username' => 'nombre de usuario de filtro',
 
 );
 
