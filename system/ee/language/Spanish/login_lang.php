@@ -3,61 +3,61 @@
 $lang = array(
 
     /* Log-in */
-    'credential_missmatch' => 'That is the wrong username or password',
+    'credential_missmatch' => 'Este es el nombre de usuario o contraseña incorrectos',
 
-    'locked' => 'Locked',
+    'locked' => 'Bloqueado',
 
-    'multi_login_warning' => 'Someone is already logged in using this account',
+    'multi_login_warning' => 'Alguien ya ha iniciado sesión usando esta cuenta',
 
-    'new_password_request' => 'New Password Request',
+    'new_password_request' => 'Nueva solicitud de contraseña',
 
-    'no_email' => 'You must submit your email address.',
+    'no_email' => 'Debes enviar tu dirección de correo electrónico.',
 
-    'no_password' => 'The password field is required',
+    'no_password' => 'El campo contraseña es obligatorio',
 
-    'no_username' => 'The username field is required',
+    'no_username' => 'El campo nombre de usuario es obligatorio',
 
-    'password_lockout_in_effect' => 'You are only permitted to make four login attempts every %d minute(s)',
+    'password_lockout_in_effect' => 'Solo puedes hacer cuatro intentos de inicio de sesión cada %d minuto(s)',
 
-    'remember_me' => 'Keep me logged in.',
+    'remember_me' => 'Mantenerme conectado.',
 
-    'return_to_login' => 'Return to login',
+    'return_to_login' => 'Volver al login',
 
-    'session_auto_timeout' => 'Your session has timed out due to inactivity',
+    'session_auto_timeout' => 'Tu sesión ha expirado debido a la inactividad',
 
-    'unauthorized_request' => 'You are not authorized to perform this action',
+    'unauthorized_request' => 'No está autorizado a realizar esta acción',
 
-    'email_address' => 'e-mail address',
+    'email_address' => 'dirección de e-mail',
 
-    'enter_new_password' => 'Enter a New Password',
+    'enter_new_password' => 'Introduzca una nueva contraseña',
 
-    'remind_me' => 'Remind me',
+    'remind_me' => 'Recordarme',
 
-    'id_not_found' => 'The code number you submitted was not found in the database.',
+    'id_not_found' => 'El número de código enviado no se encontró en la base de datos.',
 
-    'log_into' => 'Log into',
+    'log_into' => 'Iniciar sesión',
 
-    'login' => 'Log In',
+    'login' => 'Iniciar sesión',
 
-    'new_password' => 'New password',
+    'new_password' => 'Nueva contraseña',
 
-    'new_password_confirm' => 'Confirm new password',
+    'new_password_confirm' => 'Confirmar nueva contraseña',
 
-    'no_reset_id' => 'The password reset token does not appear to be valid. Please check the link you followed.',
+    'no_reset_id' => 'El token de restablecimiento de contraseña no parece ser válido. Por favor, compruebe el enlace que ha seguido.',
 
-    'password_changed' => 'Password Successfully Changed',
+    'password_changed' => 'Contraseña cambiada correctamente',
 
-    'reset_password' => 'Reset Password',
+    'reset_password' => 'Restablecer contraseña',
 
-    'successfully_changed_password' => 'You have successfully changed your password. Please login using your new password.',
+    'successfully_changed_password' => 'Has cambiado tu contraseña correctamente. Por favor, inicia sesión usando tu nueva contraseña.',
 
-    'send_request' => 'Send Request',
+    'send_request' => 'Enviar Solicitud',
 
-    'sending' => 'sending...',
+    'sending' => 'enviando...',
 
-    'change_password' => 'Change Password',
+    'change_password' => 'Cambiar contraseña',
 
-    'updating' => 'updating...',
+    'updating' => 'actualizando...',
 
 );
 
