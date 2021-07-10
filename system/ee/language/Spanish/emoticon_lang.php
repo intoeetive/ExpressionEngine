@@ -4,17 +4,17 @@ $lang = array(
 
     'emoticon_alt' => 'Alt tag',
 
-    'emoticon_glyph' => 'Glyph',
+    'emoticon_glyph' => 'Glifo',
 
-    'emoticon_heading' => 'Emoticons',
+    'emoticon_heading' => 'Emoticonos',
 
-    'emoticon_height' => 'Height',
+    'emoticon_height' => 'Altura',
 
-    'emoticon_image' => 'Image',
+    'emoticon_image' => 'Imagen',
 
-    'emoticon_module_description' => 'Emoticon (smiley) module',
+    'emoticon_module_description' => 'Módulo Emoticon (sonrisa)',
 
-    'emoticon_module_name' => 'Emoticon',
+    'emoticon_module_name' => 'Emoticono',
 
     'emoticon_width' => 'Width',
 
