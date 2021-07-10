@@ -2,37 +2,37 @@
 
 $lang = array(
 
-    'upload_bad_filename' => 'The file name you submitted already exists on the server.',
+    'upload_bad_filename' => 'El nombre de archivo enviado ya existe en el servidor.',
 
-    'upload_destination_error' => 'A problem was encountered while attempting to move the uploaded file to the final destination.',
+    'upload_destination_error' => 'Se ha encontrado un problema al intentar mover el archivo subido al destino final.',
 
-    'upload_file_exceeds_form_limit' => 'The uploaded file exceeds the maximum size allowed by the submission form.',
+    'upload_file_exceeds_form_limit' => 'El archivo subido excede el tamaño máximo permitido por el formulario de envío.',
 
-    'upload_file_exceeds_limit' => 'The uploaded file exceeds the maximum allowed size in your PHP configuration file.',
+    'upload_file_exceeds_limit' => 'El archivo subido excede el tamaño máximo permitido en su archivo de configuración PHP.',
 
-    'upload_file_partial' => 'The file was only partially uploaded.',
+    'upload_file_partial' => 'El archivo fue subido parcialmente.',
 
-    'upload_invalid_dimensions' => 'The image you are attempting to upload exceedes the maximum height or width.',
+    'upload_invalid_dimensions' => 'La imagen que está intentando subir excede la altura o anchura máxima.',
 
-    'upload_invalid_file' => 'File not allowed.',
+    'upload_invalid_file' => 'Archivo no permitido.',
 
-    'upload_invalid_filesize' => 'The file you are attempting to upload is larger than the permitted size.',
+    'upload_invalid_filesize' => 'El archivo que estás intentando subir es mayor que el tamaño permitido.',
 
-    'upload_no_file_selected' => 'You did not select a file to upload.',
+    'upload_no_file_selected' => 'No ha seleccionado un archivo para subir.',
 
-    'upload_no_file_types' => 'You have not specified any allowed file types.',
+    'upload_no_file_types' => 'No ha especificado ningún tipo de archivo permitido.',
 
-    'upload_no_filepath' => 'The upload path does not appear to be valid.',
+    'upload_no_filepath' => 'La ruta de subida parece no ser válida.',
 
-    'upload_no_temp_directory' => 'The temporary folder is missing.',
+    'upload_no_temp_directory' => 'Falta la carpeta temporal.',
 
-    'upload_not_writable' => 'The upload destination folder does not appear to be writable.',
+    'upload_not_writable' => 'La carpeta de destino de subida parece no tener permisos de escritura.',
 
-    'upload_stopped_by_extension' => 'The file upload was stopped by extension.',
+    'upload_stopped_by_extension' => 'La extensión detuvo la subida del archivo.',
 
-    'upload_unable_to_write_file' => 'The file could not be written to disk.',
+    'upload_unable_to_write_file' => 'El archivo no se pudo escribir en el disco.',
 
-    'upload_userfile_not_set' => 'Unable to find a post variable called userfile.',
+    'upload_userfile_not_set' => 'No se puede encontrar una variable de entrada llamada archivo de usuario.',
 
 );
 
