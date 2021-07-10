@@ -2,71 +2,71 @@
 
 $lang = array(
 
-    'cont_category_management' => 'Category Management',
+    'cont_category_management' => 'Gestión de categorías',
 
-    'cont_field_group_management' => 'Field Group Management',
+    'cont_field_group_management' => 'Gestión de grupos de campos',
 
-    'data_clear_caching' => 'Clear Caching',
+    'data_clear_caching' => 'Limpiar caché',
 
     'data_php_info' => 'PHP Info',
 
-    'data_recount_stats' => 'Recount Stats',
+    'data_recount_stats' => 'Estadísticas del recuento',
 
-    'data_search_and_replace' => 'Search and Replace',
+    'data_search_and_replace' => 'Buscar y reemplazar',
 
-    'data_sql_manager' => 'Sql Manager',
+    'data_sql_manager' => 'Gestor Sql',
 
-    'design_email_notification' => 'Email Notification Template',
+    'design_email_notification' => 'Plantilla de notificación por email',
 
-    'design_member_profile_templates' => 'Member Profile Template',
+    'design_member_profile_templates' => 'Plantilla de perfil de miembro',
 
-    'design_system_offline' => 'System Offline Template',
+    'design_system_offline' => 'Plantilla sin conexión del sistema',
 
-    'design_user_message' => 'User Message Template',
+    'design_user_message' => 'Plantilla de mensaje de usuario',
 
-    'exte_index' => 'Extensions',
+    'exte_index' => 'Extensiones',
 
-    'file_index' => 'File Manager',
+    'file_index' => 'Gestor de archivos',
 
-    'logs_view_cp_log' => 'View Control Panel Log',
+    'logs_view_cp_log' => 'Ver Panel de Control',
 
-    'logs_view_email_log' => 'View Email Log',
+    'logs_view_email_log' => 'Ver Registro de Email',
 
-    'logs_view_search_log' => 'View Search Log',
+    'logs_view_search_log' => 'Ver registro de búsqueda',
 
-    'logs_view_throttle_log' => 'View Throttle Log',
+    'logs_view_throttle_log' => 'Ver Throttle Log',
 
-    'member_banning' => 'Member Banning',
+    'member_banning' => 'Bloqueo de miembros',
 
-    'member_config' => 'Member Configuration',
+    'member_config' => 'Configuración del miembro',
 
-    'member_custom_profile_fields' => 'Custom Member Fields',
+    'member_custom_profile_fields' => 'Campos de miembros personalizados',
 
-    'member_group_manager' => 'Member Group Manager',
+    'member_group_manager' => 'Gestor de Grupos de Miembros',
 
-    'member_ip_search' => 'Member IP Search',
+    'member_ip_search' => 'Búsqueda IP de miembros',
 
-    'member_register_member' => 'Register Member',
+    'member_register_member' => 'Registrar miembro',
 
-    'member_search' => 'Member Search',
+    'member_search' => 'Búsqueda de miembros',
 
-    'member_validation' => 'Member Validation',
+    'member_validation' => 'Validación de miembros',
 
-    'member_view_members' => 'View Members',
+    'member_view_members' => 'Ver Miembros',
 
-    'members_custom_profile_fields' => 'Custom Member Profile Fields',
+    'members_custom_profile_fields' => 'Campos de perfil de miembros personalizados',
 
-    'members_member_group_manager' => 'Member Group Management',
+    'members_member_group_manager' => 'Gestión de grupos de miembros',
 
-    'modu_index' => 'Modules',
+    'modu_index' => 'Módulos',
 
     'plug_index' => 'Plugins',
 
-    'util_import_from_xml' => 'Import From XML',
+    'util_import_from_xml' => 'Importar desde XML',
 
-    'util_member_import' => 'Member Import',
+    'util_member_import' => 'Importar miembros',
 
-    'util_translation_tool' => 'Translation Utility',
+    'util_translation_tool' => 'Utilidad de traducción',
 
 );
 
