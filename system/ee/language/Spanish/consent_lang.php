@@ -2,65 +2,65 @@
 
 $lang = [
 
-    'consent_module_name' => 'Consent',
+    'consent_module_name' => 'Consentimiento',
 
-    'consent_app_created' => '(App Created)',
+    'consent_app_created' => '(App creada)',
 
-    'consent_granted_by_log_msg' => 'consent granted by %s via %s',
+    'consent_granted_by_log_msg' => 'consentimiento concedido por %s a través de %s',
 
-    'consent_granted_log_msg' => 'consent granted via %s',
+    'consent_granted_log_msg' => 'consentimiento concedido a través de %s',
 
-    'consent_list_versions' => 'Versions',
+    'consent_list_versions' => 'Versiones',
 
-    'consent_name' => 'Consent Name',
+    'consent_name' => 'Nombre del Consentimiento',
 
-    'consent_prefs_saved' => 'Your consent preferences have been saved for: %s',
+    'consent_prefs_saved' => 'Sus preferencias de consentimiento se han guardado para: %s',
 
-    'consent_request' => 'Consent Request',
+    'consent_request' => 'Solicitud de consentimiento',
 
-    'consent_request_created' => 'Consent Request Created',
+    'consent_request_created' => 'Solicitud de consentimiento creada',
 
-    'consent_request_created_desc' => 'The consent request <b>%s</b> has been created.',
+    'consent_request_created_desc' => 'La solicitud de consentimiento <b>%s</b> ha sido creada.',
 
-    'consent_request_not_created' => 'Cannot Create Consent Request',
+    'consent_request_not_created' => 'No se puede crear la solicitud de consentimiento',
 
-    'consent_request_not_created_desc' => 'We were unable to create this consent request, please review and fix errors below.',
+    'consent_request_not_created_desc' => 'No hemos podido crear esta solicitud de consentimiento, por favor revise y corrija los errores a continuación.',
 
-    'consent_request_not_updated' => 'Cannot Update Consent Request',
+    'consent_request_not_updated' => 'No se puede actualizar la solicitud de consentimiento',
 
-    'consent_request_not_updated_desc' => 'We were unable to update this consent request, please review and fix errors below.',
+    'consent_request_not_updated_desc' => 'No hemos podido actualizar esta solicitud de consentimiento, por favor revise y corrija los errores a continuación.',
 
-    'consent_request_updated' => 'Consent Request Updated',
+    'consent_request_updated' => 'Solicitud de consentimiento actualizada',
 
-    'consent_request_updated_desc' => 'The consent request <b>%s</b> has been updated.',
+    'consent_request_updated_desc' => 'La solicitud de consentimiento <b>%s</b> ha sido actualizada.',
 
-    'consent_requests_deleted' => 'Consent requests deleted',
+    'consent_requests_deleted' => 'Solicitudes de consentimiento eliminadas',
 
-    'consent_requests_deleted_desc' => '%d consent requests were deleted.',
+    'consent_requests_deleted_desc' => '%d solicitudes de consentimiento fueron eliminadas.',
 
-    'consent_title' => 'Consent Title',
+    'consent_title' => 'Título del consentimiento',
 
-    'consent_withdrawn_by_log_msg' => 'consent withdrawn by %s',
+    'consent_withdrawn_by_log_msg' => 'consentimiento retirado por %s',
 
-    'consent_withdrawn_log_msg' => 'consent withdrawn',
+    'consent_withdrawn_log_msg' => 'consentimiento retirado',
 
-    'consents' => 'Consents',
+    'consents' => 'Consenso',
 
-    'create_consent_request' => 'Create Consent Request',
+    'create_consent_request' => 'Crear Solicitud de Consentimiento',
 
-    'edit_consent_request' => 'Edit Consent Request',
+    'edit_consent_request' => 'Editar solicitud de consentimiento',
 
-    'new_consent_version_destructive' => 'This is a destructive and irreversible action.',
+    'new_consent_version_destructive' => 'Se trata de una acción destructiva e irreversible.',
 
-    'new_consent_version_notice' => 'Editing this Consent Request will result in all prior consents granted for this Request being universally revoked.',
+    'new_consent_version_notice' => 'La edición de esta Solicitud de Consentimiento dará como resultado que todos los consentimientos previos concedidos para esta Solicitud sean revocados universalmente.',
 
-    'all_consents' => 'All %d consents',
+    'all_consents' => 'Todos los %d consentimientos',
 
     'opt_in' => 'Opt In',
 
-    'opt_out' => 'Opt Out',
+    'opt_out' => 'Desactivar',
 
-    'request' => 'Request',
+    'request' => 'Solicitud',
 
 ];
 
