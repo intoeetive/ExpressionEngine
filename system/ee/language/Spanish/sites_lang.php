@@ -2,65 +2,65 @@
 
 $lang = array(
 
-    'btn_site_limit_reached' => 'Site Limit reached',
+    'btn_site_limit_reached' => 'Límite del sitio alcanzado',
 
-    'cannot_remove_site_1' => 'You cannot remove site <b>%s</b>.',
+    'cannot_remove_site_1' => 'No puede eliminar el sitio <b>%s</b>.',
 
-    'create_site' => 'Create Site',
+    'create_site' => 'Crear sitio',
 
-    'create_site_error' => 'Cannot Create Site',
+    'create_site_error' => 'No se puede crear el sitio',
 
-    'create_site_error_desc' => 'We were unable to create this site, please review and fix errors below.',
+    'create_site_error_desc' => 'No hemos podido crear este sitio, por favor revise y corrija los errores a continuación.',
 
-    'create_site_success' => 'Site Created',
+    'create_site_success' => 'Sitio creado',
 
-    'create_site_success_desc' => 'The site <b>%s</b> has been created.',
+    'create_site_success_desc' => 'El sitio <b>%s</b> ha sido creado.',
 
-    'description_desc' => 'A brief description of this site.',
+    'description_desc' => 'Una breve descripción de este sitio.',
 
-    'edit_site' => 'Edit Site',
+    'edit_site' => 'Editar sitio',
 
-    'edit_site_error' => 'Cannot Update Site',
+    'edit_site_error' => 'No se puede actualizar el sitio',
 
-    'edit_site_error_desc' => 'We were unable to update this site, please review and fix errors below.',
+    'edit_site_error_desc' => 'No hemos podido actualizar este sitio, por favor revise y corrija los errores a continuación.',
 
-    'edit_site_success' => 'Site Updated',
+    'edit_site_success' => 'Sitio actualizado',
 
-    'edit_site_success_desc' => 'The site <b>%s</b> has been updated.',
+    'edit_site_success_desc' => 'El sitio <b>%s</b> ha sido actualizado.',
 
-    'invalid_short_name' => 'Your site name must contain only alpha-numeric characters, underscroes, dashes, and no spaces.',
+    'invalid_short_name' => 'El nombre de su sitio debe contener sólo caracteres alfanuméricos, guiones bajos y sin espacios.',
 
-    'name_desc' => 'Full descriptive name of this site.',
+    'name_desc' => 'Nombre descriptivo completo de este sitio.',
 
-    'offline' => 'Offline',
+    'offline' => 'Desconectado',
 
-    'online' => 'Online',
+    'online' => 'En línea',
 
-    'short_name' => 'Short Name',
+    'short_name' => 'Nombre corto',
 
-    'short_name_desc' => 'Short name for this site.<br><i>No spaces. Underscores and dashes are allowed.</i>',
+    'short_name_desc' => 'Nombre corto para este sitio.<br><i>No hay espacios. Se permiten guiones y guiones.</i>',
 
-    'site' => 'Site',
+    'site' => 'Sitio',
 
-    'site_created' => 'Site Created',
+    'site_created' => 'Sitio creado',
 
-    'site_deleted' => 'Site Deleted',
+    'site_deleted' => 'Sitio eliminado',
 
-    'site_limit_reached' => 'Site limit reached',
+    'site_limit_reached' => 'Límite del sitio alcanzado',
 
-    'site_limit_reached_desc' => 'Site manager allows you to manage additional websites from a single ExpressionEngine installation. You have reached this limit.</p><p>You can <a href="%s" rel="external">purchase additional site licenses</a> at expressionengine.com.',
+    'site_limit_reached_desc' => 'El administrador del sitio le permite administrar sitios web adicionales desde una única instalación de ExpressionEngine. Ha alcanzado este límite.</p><p>Puedes <a href="%s" rel="external">comprar licencias adicionales de sitio</a> en expressionengine.com.',
 
-    'site_online' => 'Website online?',
+    'site_online' => 'Sitio web en línea?',
 
-    'site_online_desc' => 'When disabled, only Super Admins and member groups with permissions will be able to browse this website.',
+    'site_online_desc' => 'Cuando esté desactivado, sólo los Super Admins y los grupos de miembros con permisos podrán navegar por este sitio web.',
 
-    'site_updated' => 'Site Updated',
+    'site_updated' => 'Sitio actualizado',
 
-    'sites' => 'Sites',
+    'sites' => 'Sitios',
 
-    'sites_deleted_desc' => 'The following sites were deleted',
+    'sites_deleted_desc' => 'Los siguientes sitios fueron eliminados',
 
-    'switch_to' => 'Switch to',
+    'switch_to' => 'Cambiar a',
 
 );
 
