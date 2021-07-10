@@ -3,184 +3,184 @@
 $lang = array(
 
     /* Sidebar Menu */
-    'addon' => 'Add-On',
+    'addon' => 'Añadir',
 
-    'addon_manager' => 'Add-Ons',
+    'addon_manager' => 'Añadidos',
 
-    'updates' => 'Updates',
+    'updates' => 'Actualizaciones',
 
-    'add-on-store' => 'Add-On Store',
+    'add-on-store' => 'Tienda de complementos',
 
-    'addons' => 'Add-Ons',
+    'addons' => 'Añadidos',
 
-    'all_addons' => 'All Add-Ons',
+    'all_addons' => 'Todos los complementos',
 
-    'author' => 'Author',
+    'author' => 'Autor',
 
-    'available_parameters' => 'Available Parameters',
+    'available_parameters' => 'Parámetros disponibles',
 
-    'example_usage' => 'Example Usage',
+    'example_usage' => 'Ejemplo de uso',
 
-    'manage_addon_extensions' => 'Manage Add-on Extensions',
+    'manage_addon_extensions' => 'Administrar extensiones de complementos',
 
-    'manage_extensions' => 'Manage Extensions',
+    'manage_extensions' => 'Administrar extensiones',
 
     'manual' => 'Manual',
 
-    'no_addon_extensions_search_results' => 'No <b>Add-on Extensions</b> Found',
+    'no_addon_extensions_search_results' => 'No <b>extensiones de complementos</b> encontradas',
 
-    'no_addon_search_results' => 'No <b>Add-Ons</b> Found',
+    'no_addon_search_results' => 'No se encontraron <b>complementos</b>',
 
-    'requested_module_not_installed' => 'The requested module is not installed:',
+    'requested_module_not_installed' => 'El módulo solicitado no está instalado:',
 
-    'search_addons_button' => 'search add-ons',
+    'search_addons_button' => 'buscar complementos',
 
-    'show_all_addons' => 'All %d Add-Ons',
+    'show_all_addons' => 'Todos los %d complementos',
 
-    'third_party_addons' => 'Third Party Add-Ons',
+    'third_party_addons' => 'Añadidos de terceros',
 
-    'update' => 'Update',
+    'update' => 'Actualizar',
 
-    'update_to_version' => 'Update to %s',
+    'update_to_version' => 'Actualizar a %s',
 
     /* confirm uninstall modal */
-    'btn_confirm_and_uninstall' => 'Confirm, and Uninstall',
+    'btn_confirm_and_uninstall' => 'Confirmar y desinstalar',
 
-    'btn_confirm_and_uninstall_working' => 'Uninstalling...',
+    'btn_confirm_and_uninstall_working' => 'Desinstalando...',
 
-    'confirm_uninstall' => 'Confirm Uninstall',
+    'confirm_uninstall' => 'Confirmar desinstalación',
 
-    'confirm_uninstall_desc' => 'You are attempting to uninstall the following items, please confirm this action.',
+    'confirm_uninstall_desc' => 'Está intentando desinstalar los siguientes elementos, por favor confirme esta acción.',
 
     /* Filters */
-    'addons_installed' => 'Add-Ons Installed',
+    'addons_installed' => 'Añadidos instalados',
 
-    'addons_installed_desc' => 'The following add-on(s) have been installed: ',
+    'addons_installed_desc' => 'Se han instalado los siguientes complementos: ',
 
-    'addons_not_installed' => 'Add-Ons Not Installed',
+    'addons_not_installed' => 'Complementos no instalados',
 
-    'existing_consent_request' => 'The following add-on(s) could not be installed due to an existing Consent Request which the add-on(s) are trying to create:',
+    'existing_consent_request' => 'Los siguientes complemento(s) no pudieron ser instalados debido a una solicitud de consentimiento existente que el complemento(s) están intentando crear:',
 
-    'contact_developer' => 'Please contact the add-on developer(s) for assistance.',
+    'contact_developer' => 'Por favor, contacta con el/los desarrollador(es) del complemento para asistencia.',
 
-    'addons_uninstalled' => 'Add-Ons Uninstalled',
+    'addons_uninstalled' => 'Añadidos desinstalados',
 
-    'addons_uninstalled_desc' => 'The following add-on(s) have been uninstalled: ',
+    'addons_uninstalled_desc' => 'Los siguientes complemento(s) han sido desinstalados: ',
 
-    'addons_updated' => 'Add-Ons Updated',
+    'addons_updated' => 'Añadidos Actualizados',
 
-    'addons_updated_desc' => 'The following add-on(s) have been updated: ',
+    'addons_updated_desc' => 'Los siguientes complemento(s) han sido actualizados: ',
 
-    'btn_save_settings' => 'Save Settings',
+    'btn_save_settings' => 'Guardar ajustes',
 
-    'custom_limit' => 'custom limit',
+    'custom_limit' => 'límite personalizado',
 
-    'developer' => 'developer',
+    'developer' => 'desarrollador',
 
-    'entries' => 'Entries',
+    'entries' => 'Entradas',
 
-    'extension_class_does_not_exist' => 'Class %c does not exist in (%f)',
+    'extension_class_does_not_exist' => 'La clase %c no existe en (%f)',
 
-    'filter_by_status' => 'status',
+    'filter_by_status' => 'estado',
 
-    'install' => 'Install',
+    'install' => 'Instalar',
 
-    'installed' => 'Installed',
+    'installed' => 'Instalado',
 
-    'needs_updates' => 'Needs Updates',
+    'needs_updates' => 'Necesita actualizaciones',
 
-    'settings_saved' => 'Settings Saved',
+    'settings_saved' => 'Ajustes guardados',
 
-    'settings_saved_desc' => 'The settings for %s have been saved.',
+    'settings_saved_desc' => 'Los ajustes para %s han sido guardados.',
 
-    'uninstall' => 'Uninstall',
+    'uninstall' => 'Desinstalar',
 
-    'uninstalled' => 'Uninstalled',
+    'uninstalled' => 'Desinstalado',
 
     /* 2.x */
-    'addons_extensions' => 'Extensions',
+    'addons_extensions' => 'Extensiones',
 
-    'addons_fieldtypes' => 'Fieldtypes',
+    'addons_fieldtypes' => 'Tipos de campo',
 
-    'addons_modules' => 'Modules',
+    'addons_modules' => 'Módulos',
 
     'addons_plugins' => 'Plugins',
 
-    'and_more' => 'and %x more...',
+    'and_more' => 'y %x más...',
 
-    'available_to_member_groups' => 'Available to Member Groups',
+    'available_to_member_groups' => 'Disponible para grupos de miembros',
 
-    'component' => 'Component',
+    'component' => 'Componente',
 
-    'configuration' => 'Configuration',
+    'configuration' => 'Configuración',
 
-    'current_status' => 'Current Status',
+    'current_status' => 'Estado actual',
 
-    'delete_fieldtype' => 'Remove Fieldtype',
+    'delete_fieldtype' => 'Eliminar tipo de campo',
 
-    'delete_fieldtype_confirm' => 'Are you sure you want to remove this fieldtype?',
+    'delete_fieldtype_confirm' => '¿Está seguro que desea eliminar este tipo de campo?',
 
-    'description' => 'Description',
+    'description' => 'Descripción',
 
-    'ext_disabled_short' => 'disabled',
+    'ext_disabled_short' => 'deshabilitado',
 
-    'ext_enabled_short' => 'enabled',
+    'ext_enabled_short' => 'activado',
 
-    'extension' => 'Extension',
+    'extension' => 'Extensión',
 
-    'extension_disabled' => 'Extension Disabled',
+    'extension_disabled' => 'Extensión desactivada',
 
-    'extension_enabled' => 'Extension Enabled',
+    'extension_enabled' => 'Extensión habilitada',
 
-    'extensions' => 'Extensions',
+    'extensions' => 'Extensiones',
 
-    'extensions_disabled' => 'Extensions Disabled',
+    'extensions_disabled' => 'Extensiones desactivadas',
 
-    'extensions_disabled_desc' => 'Extensions have been disabled.',
+    'extensions_disabled_desc' => 'Las extensiones han sido desactivadas.',
 
-    'extensions_disabled_message' => 'Extensions have been disabled in system configuration, therefore they are not present in this list.',
+    'extensions_disabled_message' => 'Las extensiones han sido desactivadas en la configuración del sistema, por lo tanto no están presentes en esta lista.',
 
-    'extensions_disabled_warning' => 'In order to install this add-on you need to enable extensions. Do you want to enable extensions?',
+    'extensions_disabled_warning' => 'Para instalar este complemento necesitas habilitar las extensiones. ¿Quieres habilitar las extensiones?',
 
-    'extensions_enabled' => 'Extensions Enabled',
+    'extensions_enabled' => 'Extensiones habilitadas',
 
-    'extensions_enabled_desc' => 'Extensions have been enabled.',
+    'extensions_enabled_desc' => 'Las extensiones han sido habilitadas.',
 
-    'fieldtype' => 'Fieldtype',
+    'fieldtype' => 'Tipo de campo',
 
-    'fieldtype_data_will_be_lost' => 'All data associated with this fieldtype, including all associated channel data, will be permanently deleted!',
+    'fieldtype_data_will_be_lost' => '¡Todos los datos asociados con este tipo de campo, incluyendo todos los datos de canal asociados, serán eliminados permanentemente!',
 
-    'fieldtype_name' => 'Fieldtype Name',
+    'fieldtype_name' => 'Nombre del tipo de campo',
 
-    'global_settings_saved' => 'Settings Saved',
+    'global_settings_saved' => 'Ajustes guardados',
 
-    'member_group_assignment' => 'Assigned Member Groups',
+    'member_group_assignment' => 'Grupos de miembros asignados',
 
-    'module' => 'Module',
+    'module' => 'Módulo',
 
-    'modules' => 'Modules',
+    'modules' => 'Módulos',
 
-    'no_extension_id' => 'No Extension Specified',
+    'no_extension_id' => 'Ninguna extensión especificada',
 
-    'none' => 'None',
+    'none' => 'Ninguna',
 
-    'not_installed' => 'Not Installed',
+    'not_installed' => 'No instalado',
 
-    'package_settings' => 'Package Settings',
+    'package_settings' => 'Ajustes del paquete',
 
-    'page_assignment' => 'Assigned Pages',
+    'page_assignment' => 'Páginas asignadas',
 
     'plugins' => 'Plugins',
 
-    'plugins_not_available' => 'Plugin Feed Disabled in Beta Version.',
+    'plugins_not_available' => 'Plugin Feed desactivado en versión beta.',
 
-    'remove' => 'Remove',
+    'remove' => 'Eliminar',
 
-    'required_by' => 'Required by:',
+    'required_by' => 'Requerido por:',
 
-    'specific_page' => 'Specific Page?',
+    'specific_page' => 'Página específica?',
 
-    'version' => 'Version',
+    'version' => 'Versión',
 
 );
 
