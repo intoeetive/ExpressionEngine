@@ -3,141 +3,141 @@
 $lang = array(
 
     'fatal_error_caught' =>
-    'We\'ve encountered an unxpected error. Below is the raw text of the error which you can provide to ExpressionEngine support.',
+    'Hemos encontrado un error inesperado. A continuación se muestra el texto sin formato del error que puede proporcionar al soporte ExpressionEngine.',
 
     'could_not_complete' =>
-    'Oops, looks like the updater couldn\'t&nbsp;complete.',
+    'Vaya, parece que el actualizador no pudo&nbsp;completarse.',
 
     'we_stopped_on' =>
-    'We stopped on <b>%s</b>.',
+    'Nos detuvimos en <b>%s</b>.',
 
     'manually_rollback' =>
-    '<a href="%s">Click here</a> for instructions to manually rollback from this point.',
+    '<a href="%s">Haga clic aquí</a> para obtener instrucciones para deshacer manualmente desde este punto.',
 
     'troubleshoot' =>
-    'Troubleshoot, then <a href="#" data-post-url="%s">Continue</a>',
+    'Solución de problemas, luego <a href="#" data-post-url="%s">Continuar</a>',
 
     'or_return_to_cp' =>
-    'Or, <a href="%s">return to the control panel</a>.',
+    'O, <a href="%s">vuelve al panel de control</a>.',
 
     'rollback_to' =>
-    'Rollback to %s',
+    'Volver a %s',
 
     'cannot_rollback' =>
-    'Having trouble rolling back? <a href="%s" target="_blank">Find out</a> how to get your install back up and running again.',
+    '¿Tienes problemas para dar marcha atrás? <a href="%s" target="_blank">Descubre</a> cómo hacer que la instalación se vuelva a instalar y funcionar.',
 
     'view_stack_trace' =>
-    'view stack trace',
+    'ver stack trace',
 
     'update_stopped' =>
-    'Update Stopped',
+    'Actualización detenida',
 
     'updating_to_from' =>
-    'Updating <b>%s</b> from %s to %s',
+    'Actualizando <b>%s</b> de %s a %s',
 
     'preflight_step' =>
-    'Preflight check',
+    'Comprobación previa',
 
     'download_step' =>
-    'Downloading update',
+    'Descargando actualización',
 
     'unpack_step' =>
-    'Unpacking update',
+    'Desempaquetando actualización',
 
     'updateFiles_step' =>
-    'Updating files',
+    'Actualizando archivos',
 
     'updateAddons_step' =>
-    'Checking addons for automatic updates',
+    'Comprobando complementos para actualizaciones automáticas',
 
     'turnSystemOn_step' =>
-    'Turning system on',
+    'Encender sistema',
 
     'theme_folder_path_invalid' =>
-    'The following theme folder path is not valid:
+    'La siguiente ruta de la carpeta del tema no es válida:
 
 %s
 
-Please set it to correct value as described in <a href="%s" target="_blank">the documentation</a>.',
+Por favor, establezca el valor correcto como se describe en <a href="%s" target="_blank">la documentación</a>.',
 
     'files_not_writable' =>
-    'The following paths are not writable:
+    'Las siguientes rutas no son escribibles:
 
 %s
 
-To troubleshoot, visit the documentation on <a href="%s" target="_blank">updating ExpressionEngine</a>.',
+Para solucionar problemas, visite la documentación sobre <a href="%s" target="_blank">actualizar ExpressionEngine</a>.',
 
     'could_not_download' =>
-    'Could not download update. Your internet connection may be down, or otherwise cannot reach the ExpressionEngine servers.
+    'No se pudo descargar la actualización. Su conexión a internet puede estar caída, o de lo contrario no puede llegar a los servidores de ExpressionEngine.
 
-Status code returned: %s',
+Código de estado devuelto: %s',
 
     'unexpected_mime' =>
-    'Could not download update. The server returned an unexpected content type:
+    'No se pudo descargar la actualización. El servidor devolvió un tipo de contenido inesperado:
 
 %s',
 
     'missing_signature_header' =>
-    'Could not verify update file, "Package-Signature" header was not found in the response.',
+    'No se pudo verificar el archivo de actualización, la cabecera "Package-Signature" no se encontró en la respuesta.',
 
     'could_not_verify_download' =>
-    'Could not verify the signature or integrity of the downloaded update file. Got hash:
+    'No se pudo verificar la firma o integridad del archivo de actualización descargado. hash obtenido:
 
 %s',
 
     'try_again_later' =>
-    'Try again in a few minutes or contact support if the problem persists.',
+    'Inténtelo de nuevo en unos minutos o póngase en contacto con el servicio de asistencia si el problema persiste.',
 
     'could_not_unzip' =>
-    'Could not unzip update archive. ZipArchive returned error code: %s',
+    'No se pudo descomprimir el archivo de actualización. ZipArchive devolvió el código de error: %s',
 
     'could_not_find_files' =>
-    'The following files could not be found:
+    'No se han podido encontrar los siguientes archivos:
 
 %s',
 
     'could_not_verify_file_integrity' =>
-    'The integrity of the following files could not be verified:
+    'La integridad de los siguientes archivos no pudo ser verificada:
 
 %s',
 
     'failed_verifying_extracted_archive' =>
-    'There was a problem verifying the integrity of the extracted update file.
+    'Hubo un problema al verificar la integridad del archivo de actualización extraído.
 
 %s',
 
     'failed_moving_updater' =>
-    'There was a problem moving the updater into place.
+    'Hubo un problema al mover el actualizador a su lugar.
 
 %s',
 
     'requirements_failed' =>
-    'Your server has failed the requirements for this version of ExpressionEngine:
+    'Su servidor ha fallado los requisitos para esta versión de ExpressionEngine:
 
 - %s
 
-Correct the issues above and try updating again.',
+Corrija los problemas anteriores e intente actualizar de nuevo.',
 
     'out_of_date_admin_php' =>
-    'It looks like your ExpressionEngine installation is using an out-of-date /admin.php or /system/index.php file.
+    'Parece que la instalación de ExpressionEngine está usando un archivo /admin.php o /system/index.php.
 
-Please make sure you have the latest version of each file in place and then try upgrading again.',
+Por favor, asegúrese de que tiene instalada la última versión de cada archivo y vuelva a intentar actualizarlo.',
 
     'update_completed' =>
-    'ExpressionEngine has been successfully updated to version %s!',
+    '¡ExpressionEngine se ha actualizado correctamente a la versión %s!',
 
     'update_completed_desc' =>
     'To see what\'s new in ExpressionEngine %s, take a look at the <a href=\'%s\' rel=\'external\'>changelog</a>.',
 
     'update_rolledback' =>
-    'ExpressionEngine has been rolled back to version %s',
+    'ExpressionEngine ha sido revertido a la versión %s',
 
     'update_rolledback_desc' =>
-    'Contact support if you continue having trouble updating, or you can <a href=\'%s\' rel=\'external\'>manually update</a>.',
+    'Póngase en contacto con el soporte técnico si continúa teniendo problemas de actualización, o puede <a href=\'%s\' rel=\'external\'>actualizar manualmente</a>.',
 
-    'update_version_warning' => 'Please check system online status',
+    'update_version_warning' => 'Por favor, compruebe el estado de conexión del sistema',
 
-    'update_version_warning_desc' => 'Your current system status is set to <b>%s</b>. If you need to change that, please visit System Settings.',
+    'update_version_warning_desc' => 'Su estado actual del sistema está establecido en <b>%s</b>. Si necesita cambiarlo, por favor visite Configuración del sistema.',
 
     '' => ''
 );
