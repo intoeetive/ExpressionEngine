@@ -2,53 +2,53 @@
 
 $lang = array(
 
-    'all_modules_up_to_date' => 'All modules are up to date.',
+    'all_modules_up_to_date' => 'Todos los módulos están actualizados.',
 
-    'data_will_be_lost' => 'All data associated with this module will be permanently deleted!',
+    'data_will_be_lost' => '¡Todos los datos asociados con este módulo serán eliminados permanentemente!',
 
-    'deinstall' => 'Remove',
+    'deinstall' => 'Eliminar',
 
-    'delete_module' => 'Uninstall Module',
+    'delete_module' => 'Desinstalar módulo',
 
-    'delete_module_confirm' => 'Are you sure you want to remove the following module:',
+    'delete_module_confirm' => '¿Está seguro que desea eliminar el siguiente módulo:',
 
-    'install' => 'Install',
+    'install' => 'Instalar',
 
-    'installed' => 'Installed',
+    'installed' => 'Instalado',
 
-    'module_access' => 'Edit Module',
+    'module_access' => 'Editar módulo',
 
-    'module_action' => 'Action',
+    'module_action' => 'Accin',
 
-    'module_backend' => 'User CP',
+    'module_backend' => 'Usuario CP',
 
-    'module_can_not_be_found' => 'Unable to locate the files needed to install this module',
+    'module_can_not_be_found' => 'No se pueden localizar los archivos necesarios para instalar este módulo',
 
-    'module_description' => 'Description',
+    'module_description' => 'Descripción',
 
-    'module_has_been_installed' => 'Module installed:',
+    'module_has_been_installed' => 'Módulo instalado:',
 
-    'module_has_been_removed' => 'Module removed:',
+    'module_has_been_removed' => 'Módulo eliminado:',
 
-    'module_name' => 'Module Name',
+    'module_name' => 'Nombre del módulo',
 
-    'module_no_access' => 'You are not allowed to access any modules',
+    'module_no_access' => 'No tienes permisos para acceder a ningún módulo',
 
-    'module_status' => 'Status',
+    'module_status' => 'Estado',
 
-    'module_version' => 'Version',
+    'module_version' => 'Versión',
 
-    'not_installed' => 'Not Installed',
+    'not_installed' => 'No instalado',
 
-    'requested_module_not_installed' => 'The requested module is not installed:',
+    'requested_module_not_installed' => 'El módulo solicitado no está instalado:',
 
-    'requested_page_not_found' => 'The requested module page could not be found.',
+    'requested_page_not_found' => 'No se ha encontrado la página del módulo solicitado.',
 
-    'update_modules' => 'Run Module Updates',
+    'update_modules' => 'Ejecutar actualizaciones de módulo',
 
-    'updated' => 'Updated',
+    'updated' => 'Actualizado',
 
-    'updated_to_version' => 'updated to version',
+    'updated_to_version' => 'actualizado a la versión',
 
 );
 
