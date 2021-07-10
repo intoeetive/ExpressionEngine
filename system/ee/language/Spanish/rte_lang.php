@@ -3,271 +3,271 @@
 $lang = array(
 
     // Settings
-    'rte_file_browser' => 'File Browser',
-    'rte_file_browser_desc' => 'Which file browser should be used when browsing for images and files from your RTE fields?',
+    'rte_file_browser' => 'Navegador de archivos',
+    'rte_file_browser_desc' => '¿Qué explorador de archivos debe utilizarse al navegar por imágenes y archivos de sus campos RTE?',
 
     // Configs
-    'rte_clone' => 'Clone',
-    'rte_no_configs' => 'There are currently no configurations.',
+    'rte_clone' => 'Clonar',
+    'rte_no_configs' => 'Actualmente no hay configuraciones.',
 
     // Edit Config
-    'rte_basic_settings' => 'Basic Settings',
-    'rte_create_config' => 'Create a New Configuration',
-    'rte_edit_config' => 'Edit Configuration',
-    'rte_config_settings' => 'Configuration Settings',
-    'rte_config_name' => 'Configuration Name',
-    'rte_toolbar' => 'Customize the Toolbar',
-    'rte_height' => 'Height',
-    'rte_upload_dir' => 'Upload Directory',
-    'rte_advanced_settings' => 'Advanced Settings',
-    'rte_config_saved' => 'Configuration Saved!',
-    'rte_config_saved_desc' => 'Your configuration saved successfully.',
+    'rte_basic_settings' => 'Ajustes básicos',
+    'rte_create_config' => 'Crear una nueva configuración',
+    'rte_edit_config' => 'Editar configuración',
+    'rte_config_settings' => 'Configuración',
+    'rte_config_name' => 'Nombre de configuración',
+    'rte_toolbar' => 'Personalizar la barra de herramientas',
+    'rte_height' => 'Altura',
+    'rte_upload_dir' => 'Carpeta de carga',
+    'rte_advanced_settings' => 'Configuración Avanzada',
+    'rte_config_saved' => '¡Configuración guardada!',
+    'rte_config_saved_desc' => 'La configuración se ha guardado correctamente.',
 
     // Delete Config
-    'rte_delete_config' => 'Delete Configuration',
-    'rte_delete_config_confirm' => 'Are you sure you want to permanently delete this configuration?',
-    'rte_config_deleted' => 'Configuration Deleted',
-    'rte_config_deleted_desc' => 'Your configuration was deleted successfully.',
+    'rte_delete_config' => 'Eliminar configuración',
+    'rte_delete_config_confirm' => '¿Está seguro que desea eliminar permanentemente esta configuración?',
+    'rte_config_deleted' => 'Configuración eliminada',
+    'rte_config_deleted_desc' => 'La configuración se ha eliminado correctamente.',
 
     // -------------------------------------------
     //  Field Settings
     // -------------------------------------------
 
-    'rte_editor_config' => 'Editor Configuration',
-    'rte_edit_configs' => 'Edit&nbsp;Configurations',
-    'rte_defer' => 'Defer CKEditor initialization?',
-    'rte_defer_desc' => 'If you select “Yes”, RTE won’t initialize CKEditor until the field is clicked on.',
+    'rte_editor_config' => 'Configuración del editor',
+    'rte_edit_configs' => 'Editar&nbsp;Configuraciones',
+    'rte_defer' => '¿Aplazar la inicialización del CKEditor?',
+    'rte_defer_desc' => 'Si selecciona "Sí", RTE no inicializará CKEditor hasta que se haga clic en el campo.',
 
     // RTE
 
-    'available_tool_sets' => 'Available Tool Sets',
+    'available_tool_sets' => 'Conjuntos de Herramientas disponibles',
 
-    'btn_save_settings' => 'Save Settings',
+    'btn_save_settings' => 'Guardar ajustes',
 
-    'choose_tools' => 'Include tools',
+    'choose_tools' => 'Incluye herramientas',
 
-    'configuration' => 'Configuration',
+    'configuration' => 'Configuración',
 
-    'create_new' => 'Create New',
+    'create_new' => 'Crear nuevo',
 
-    'create_tool_set' => 'Create Tool Set',
+    'create_tool_set' => 'Crear conjunto de herramientas',
 
-    'create_tool_set_header' => 'Create <abbr title="Rich Text Editor">RTE</abbr> Tool Set',
+    'create_tool_set_header' => 'Crear <abbr title="Rich Text Editor">RTE</abbr> conjunto de herramientas',
 
-    'edit_tool_set' => 'Edit Tool Set',
+    'edit_tool_set' => 'Editar conjunto de herramientas',
 
-    'edit_tool_set_header' => 'Edit <abbr title="Rich Text Editor">RTE</abbr> Tool Set',
+    'edit_tool_set_header' => 'Editar <abbr title="Rich Text Editor">RTE</abbr> conjunto de herramientas',
 
-    'no_tool_sets' => 'No Tool Sets Found',
+    'no_tool_sets' => 'No se encontraron conjuntos de herramienta',
 
     'rte_module_description' => '',
 
-    'rte_module_name' => 'Rich Text Editor',
+    'rte_module_name' => 'Editor de texto enriquecido',
 
-    'status' => 'Status',
+    'status' => 'Estado',
 
-    'tool_set' => 'Tool Set',
+    'tool_set' => 'Set de Herramientas',
 
-    'tool_set_name' => 'Name',
+    'tool_set_name' => 'Nombre',
 
     /* Headings */
-    'create_new_toolset' => 'Create a New Tool Set',
+    'create_new_toolset' => 'Crear un nuevo conjunto de herramientas',
 
-    'edit_my_toolset' => 'Edit My Tool Set',
+    'edit_my_toolset' => 'Editar Mi Set de Herramientas',
 
-    'edit_toolset' => 'Edit Tool Set',
+    'edit_toolset' => 'Editar conjunto de herramientas',
 
-    'my_toolset' => 'My Tool Set',
+    'my_toolset' => 'Mi conjunto de herramientas',
 
-    'nav_rte_settings' => 'Rich Text Editor Settings',
+    'nav_rte_settings' => 'Ajustes del Editor de Texto Enriquecido',
 
-    'nav_rte_settings_short_desc' => 'Manage Rich Text Editor Tools and Tool Sets',
+    'nav_rte_settings_short_desc' => 'Administrar herramientas y conjuntos de herramientas de editor de texto enriquecido',
 
-    'rte_prefs' => 'Rich Text Editor Preferences',
+    'rte_prefs' => 'Preferencias del editor de texto enriquecido',
 
-    'rte_settings' => 'Site Preferences',
+    'rte_settings' => 'Preferencias del sitio',
 
-    'tools' => 'Tools',
+    'tools' => 'Herramientas',
 
-    'toolsets' => 'Tool Sets',
+    'toolsets' => 'Conjunto de herramientas',
 
     /* Snippets */
-    'cancel' => 'Cancel',
+    'cancel' => 'Cancelar',
 
-    'delete' => 'Delete',
+    'delete' => 'Eliminar',
 
-    'tool' => 'Tool',
+    'tool' => 'Herramienta',
 
-    'toolset' => 'Tool Set',
+    'toolset' => 'Set de Herramientas',
 
     /* Flashes */
 
-    'cannot_remove_default_toolset' => 'The default RTE tool set cannot be removed',
+    'cannot_remove_default_toolset' => 'El conjunto de herramientas RTE por defecto no puede ser eliminado',
 
-    'disable_fail_desc' => 'The following tool sets were <b>not</b> disabled',
+    'disable_fail_desc' => 'Los siguientes conjuntos de herramientas no estaban <b></b> deshabilitados',
 
-    'disable_success_desc' => 'The following tool sets were disabled',
+    'disable_success_desc' => 'Se desactivaron los siguientes conjuntos de herramientas',
 
-    'enable_fail_desc' => 'The following tool sets were <b>not</b> enabled',
+    'enable_fail_desc' => 'Los siguientes conjuntos de herramientas no estaban <b>habilitados</b>',
 
-    'enable_success_desc' => 'The following tool sets were enabled',
+    'enable_success_desc' => 'Se han activado los siguientes conjuntos de herramientas',
 
-    'name_required' => 'The tool set name is required.',
+    'name_required' => 'Se requiere el nombre del conjunto de herramientas.',
 
-    'remove_fail_desc' => 'The following tool sets were <b>not</b> removed',
+    'remove_fail_desc' => 'Los siguientes conjuntos de herramientas no fueron <b>eliminados</b>',
 
-    'remove_success_desc' => 'The following tool sets were removed',
+    'remove_success_desc' => 'Se eliminaron los siguientes conjuntos de herramientas',
 
-    'settings_error' => 'Error saving settings',
+    'settings_error' => 'Error al guardar la configuración',
 
-    'settings_error_desc' => 'Your Rich Text Editor Settings could not be saved. Please try again.',
+    'settings_error_desc' => 'No se han podido guardar los ajustes del editor de texto enriquecido. Inténtalo de nuevo.',
 
-    'settings_saved' => 'Settings saved',
+    'settings_saved' => 'Ajustes guardados',
 
-    'settings_saved_desc' => 'Your Rich Text Editor Settings have been saved.',
+    'settings_saved_desc' => 'Se han guardado los ajustes del editor de texto enriquecido.',
 
-    'tool_updated' => 'Tool updated',
+    'tool_updated' => 'Herramienta actualizada',
 
-    'toolset_created' => 'Tool set created',
+    'toolset_created' => 'Juego de herramientas creado',
 
-    'toolset_created_desc' => '<b>%s</b> has been successfully created.',
+    'toolset_created_desc' => '<b>%s</b> se ha creado correctamente.',
 
-    'toolset_updated_desc' => '<b>%s</b> has been successfully updated.',
+    'toolset_updated_desc' => '<b>%s</b> se ha actualizado correctamente.',
 
-    'toolset_deleted' => 'Tool set deleted successfully.',
+    'toolset_deleted' => 'Juego de herramientas eliminado con éxito.',
 
-    'toolset_edit_failed' => 'Tool set could not be opened for editing.',
+    'toolset_edit_failed' => 'No se pudo abrir el conjunto de herramientas para editar.',
 
-    'toolset_error' => 'Tool set error',
+    'toolset_error' => 'Error al establecer herramienta',
 
-    'toolset_error_desc' => 'We were unable to save the tool set, please review and fix errors below.',
+    'toolset_error_desc' => 'No hemos podido guardar el conjunto de herramientas, por favor revise y corrija los errores a continuación.',
 
-    'toolset_not_deleted' => 'Tool set could not be deleted.',
+    'toolset_not_deleted' => 'No se ha podido eliminar el conjunto de herramientas.',
 
-    'toolset_update_failed' => 'Tool set update failed. Please try again.',
+    'toolset_update_failed' => 'Error al actualizar el conjunto de herramientas. Por favor, inténtalo de nuevo.',
 
-    'toolset_updated' => 'Tool set updated',
+    'toolset_updated' => 'Juego de herramientas actualizado',
 
-    'toolsets_removed' => 'Tool sets removed',
+    'toolsets_removed' => 'Conjuntos de herramientas eliminados',
 
-    'toolsets_removed_desc' => '%d tool sets were removed.',
+    'toolsets_removed_desc' => 'Se eliminaron %d conjuntos de herramientas.',
 
-    'toolsets_updated' => 'Tool sets updated',
+    'toolsets_updated' => 'Conjuntos de herramientas actualizados',
 
-    'unique_name_required' => 'The tool set name must be unique.',
+    'unique_name_required' => 'El nombre del conjunto de herramientas debe ser único.',
 
-    'valid_name_required' => 'The tool set name must not include special characters.',
+    'valid_name_required' => 'El nombre del conjunto de herramientas no debe incluir caracteres especiales.',
 
-    'valid_url_required' => 'A valid URL is required.',
+    'valid_url_required' => 'Se requiere una URL válida.',
 
     /* Labels */
-    'available_tools' => 'Available Tools (not being used)',
+    'available_tools' => 'Herramientas disponibles (no se está usando)',
 
-    'default_toolset' => 'Default <abbr title="Rich Text Editor">RTE</abbr> tool set',
+    'default_toolset' => 'Predeterminado <abbr title="Rich Text Editor">RTE</abbr> conjunto de herramientas',
 
-    'default_toolset_details' => 'Shown for users that have not created their own or chosen another.',
+    'default_toolset_details' => 'Se muestra para usuarios que no han creado sus propios o escogidos otros.',
 
-    'enable_rte_for_field' => 'Enable Rich Text Editor',
+    'enable_rte_for_field' => 'Habilitar editor de texto enriquecido',
 
-    'enable_rte_globally' => 'Enable Rich Text Editor',
+    'enable_rte_globally' => 'Habilitar editor de texto enriquecido',
 
-    'enable_rte_in_forum' => 'Enable the Rich Text Editor for use in the Forums?',
+    'enable_rte_in_forum' => '¿Habilitar el editor de texto enriquecido para su uso en los foros?',
 
-    'enable_rte_myaccount' => 'Enable Rich Text Editor',
+    'enable_rte_myaccount' => 'Habilitar editor de texto enriquecido',
 
-    'rte_image_caption' => 'Image Caption:',
+    'rte_image_caption' => 'Título de la imagen:',
 
-    'rte_relationship' => 'Relationship',
+    'rte_relationship' => 'Relación',
 
-    'rte_selection_error' => 'Please select some text or images first.',
+    'rte_selection_error' => 'Por favor, seleccione primero algún texto o imágenes.',
 
-    'rte_title' => 'Title',
+    'rte_title' => 'Título',
 
     'rte_url' => 'URL',
 
-    'tools_in_toolset' => 'In This Tool set',
+    'tools_in_toolset' => 'En este conjunto de herramientas',
 
-    'toolset_builder_instructions' => 'Select one or more tools and drag them to the desired location.',
+    'toolset_builder_instructions' => 'Seleccione una o más herramientas y arrástrelas a la ubicación deseada.',
 
-    'toolset_builder_label' => 'Which tools should be availble in this Tool set?',
+    'toolset_builder_label' => '¿Qué herramientas deberían estar disponibles en este conjunto de herramientas?',
 
-    'toolset_name' => 'Tool set Name',
+    'toolset_name' => 'Nombre del conjunto de herramientas',
 
     /* tool names */
 
-    'paragraph_rte' => 'Paragraph',
+    'paragraph_rte' => 'Párrafo',
 
-    'heading_h1_rte' => 'Heading H1',
+    'heading_h1_rte' => 'Encabezado H1',
 
-    'heading_h2_rte' => 'Heading H2',
+    'heading_h2_rte' => 'Encabezado H2',
 
-    'heading_h3_rte' => 'Heading H3',
+    'heading_h3_rte' => 'Encabezado H3',
 
-    'heading_h4_rte' => 'Heading H4',
+    'heading_h4_rte' => 'Encabezado H4',
 
-    'heading_h5_rte' => 'Heading H5',
+    'heading_h5_rte' => 'Encabezado H5',
 
-    'heading_h6_rte' => 'Heading H6',
+    'heading_h6_rte' => 'Encabezado H6',
 
     'bold_rte' => 'Bold',
 
     'italic_rte' => 'Italic',
 
-    'strikethrough_rte' => 'Strikethrough',
+    'strikethrough_rte' => 'Tachado',
 
-    'underline_rte' => 'Underline',
+    'underline_rte' => 'Bajo línea',
 
     'subscript_rte' => 'Subscript',
 
-    'superscript_rte' => 'Superscript',
+    'superscript_rte' => 'Superíndice',
 
-    'code_rte' => 'Code',
+    'code_rte' => 'Código',
 
-    'blockquote_rte' => 'Block quote',
+    'blockquote_rte' => 'Bloquear cita',
 
-    'heading_rte' => 'Heading',
+    'heading_rte' => 'Encabezado',
 
-    'removeFormat_rte' => 'Remove formatting',
+    'removeFormat_rte' => 'Eliminar formato',
 
-    'undo_rte' => 'Undo',
+    'undo_rte' => 'Deshacer',
 
-    'redo_rte' => 'Redo',
+    'redo_rte' => 'Rehacer',
 
-    'numberedList_rte' => 'Numbered list',
+    'numberedList_rte' => 'Lista numerada',
 
-    'bulletedList_rte' => 'Bulleted list',
+    'bulletedList_rte' => 'Lista de viñetas',
 
-    'outdent_rte' => 'Decrease indent',
+    'outdent_rte' => 'Reducir sangría',
 
-    'indent_rte' => 'Increase indent',
+    'indent_rte' => 'Aumentar sangría',
 
-    'link_rte' => 'Link',
+    'link_rte' => 'Enlace',
 
-    'filemanager_rte' => 'Image',
+    'filemanager_rte' => 'Imagen',
 
-    'insertTable_rte' => 'Table',
+    'insertTable_rte' => 'Tabla',
 
-    'mediaEmbed_rte' => 'Media',
+    'mediaEmbed_rte' => 'Medios',
 
     'alignment:left_rte' => 'Align left',
 
-    'alignment:right_rte' => 'Align right',
+    'alignment:right_rte' => 'Alinear derecha',
 
     'alignment:center_rte' => 'Align center',
 
-    'alignment:justify_rte' => 'Justify',
+    'alignment:justify_rte' => 'Justificar',
 
-    'horizontalLine_rte' => 'Horizontal line',
+    'horizontalLine_rte' => 'Línea horizontal',
 
-    'specialCharacters_rte' => 'Special characters',
+    'specialCharacters_rte' => 'Caracteres especiales',
 
-    'readMore_rte' => '"Read More" separator',
+    'readMore_rte' => 'Separador "Leer más"',
 
     'fontColor_rte' => 'Font color',
 
-    'fontBackgroundColor_rte' => 'Font background',
+    'fontBackgroundColor_rte' => 'Fondo de fuente',
 
-    'open_in_new_tab' => 'Open in a new tab',
+    'open_in_new_tab' => 'Abrir en una nueva pestaña',
 
     '' => ''
 );
