@@ -6,41 +6,41 @@ $lang = array(
 
     'profiler_cookie' => '$_COOKIE',
 
-    'profiler_duplicate_queries' => 'Duplicate Queries',
+    'profiler_duplicate_queries' => 'Duplicar consultas',
 
     'profiler_get' => '$_GET',
 
-    'profiler_gigabytes' => 'GB',
+    'profiler_gigabytes' => 'GR',
 
     'profiler_kilobytes' => 'KB',
 
-    'profiler_load' => 'Load',
+    'profiler_load' => 'Cargar',
 
-    'profiler_megabytes' => 'MB',
+    'profiler_megabytes' => 'Mb',
 
-    'profiler_memory' => 'Memory Usage',
+    'profiler_memory' => 'Uso de memoria',
 
-    'profiler_no_duplicate_queries' => 'No duplicate queries.',
+    'profiler_no_duplicate_queries' => 'No hay consultas duplicadas.',
 
-    'profiler_no_memory' => 'Memory Usage Unavailable',
+    'profiler_no_memory' => 'Uso de memoria no disponible',
 
-    'profiler_no_queries' => 'No queries were run',
+    'profiler_no_queries' => 'No se han ejecutado consultas',
 
-    'profiler_no_variables' => 'No <code><b>%s</b></code> variables found.',
+    'profiler_no_variables' => 'No se encontraron variables <code><b>%s</b></code>.',
 
-    'profiler_performance' => 'Performance',
+    'profiler_performance' => 'Rendimiento',
 
     'profiler_post' => '$_POST',
 
-    'profiler_queries' => 'Queries',
+    'profiler_queries' => 'Consultas',
 
-    'profiler_query_time' => 'Database Execution Time',
+    'profiler_query_time' => 'Tiempo de ejecución de la base de datos',
 
     'profiler_server' => '$_SERVER',
 
-    'profiler_template' => 'Templates',
+    'profiler_template' => 'Plantillas',
 
-    'profiler_userdata' => 'Userdata',
+    'profiler_userdata' => 'Datos de usuario',
 
     'profiler_variables' => 'Variables',
 
