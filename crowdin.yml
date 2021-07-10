@@ -1,0 +1,3 @@
+files:
+  - source: /system/ee/language/english/*.php
+    translation: /system/ee/language/%language%/%original_file_name%
