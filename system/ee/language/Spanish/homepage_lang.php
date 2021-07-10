@@ -2,79 +2,79 @@
 
 $lang = array(
 
-    'and' => 'and',
+    'and' => 'y',
 
-    'are' => 'are',
+    'are' => 'están',
 
-    'awaiting_moderation' => 'awaiting moderation',
+    'awaiting_moderation' => 'esperando moderación',
 
-    'banned_members' => 'Banned Members',
+    'banned_members' => 'Miembros prohibidos',
 
-    'channels' => 'Channels',
+    'channels' => 'Canales',
 
-    'channels_desc' => 'Channels are used to store content for your website. For example, if you want a blog you would first need to create a Channel to store the entries. Think of Channels as folders or directories.',
+    'channels_desc' => 'Los canales se utilizan para almacenar contenido para tu sitio web. Por ejemplo, si quieres un blog primero necesitarás crear un Canal para almacenar las entradas. Piense en los Canales como carpetas o directorios.',
 
-    'closed_entries_with_comments' => '<b>%d</b> Closed entries with %d comments.',
+    'closed_entries_with_comments' => '<b>%d</b> Entradas cerradas con %d comentarios.',
 
-    'comments' => 'Comments',
+    'comments' => 'Comentarios',
 
-    'content' => 'Content',
+    'content' => 'Contenido',
 
-    'content_desc' => 'Channel entries, why folks visit.',
+    'content_desc' => 'Entradas del canal, por qué la gente visita.',
 
-    'create_new' => 'Create New',
+    'create_new' => 'Crear nuevo',
 
-    'eecms_news' => 'ExpressionEngine News',
+    'eecms_news' => 'Noticias del Motor de Expresión',
 
-    'entries_with_comments' => '<b>%d</b> Entries with %d comments',
+    'entries_with_comments' => '<b>%d</b> Entradas con %d comentarios',
 
-    'field_groups' => 'Field Groups',
+    'field_groups' => 'Grupos de campo',
 
-    'flagged_as_spam' => 'flagged as spam',
+    'flagged_as_spam' => 'marcado como spam',
 
-    'commented_on' => 'commented on',
+    'commented_on' => 'comentado en',
 
-    'has' => 'has',
+    'has' => 'tiene',
 
-    'have_been' => 'have been',
+    'have_been' => 'han sido',
 
-    'latest_news_and_articles' => 'Latest News and Articles',
+    'latest_news_and_articles' => 'Últimas noticias y artículos',
 
-    'members' => 'Members',
+    'members' => 'Miembros',
 
-    'members_desc' => 'Members are registered users of your site. You <em>must</em> have at least one member, an administrator.',
+    'members_desc' => 'Los miembros son usuarios registrados de su sitio. Usted <em>debe</em> tener al menos un miembro, un administrador.',
 
-    'new_comments' => 'new comments',
+    'new_comments' => 'nuevos comentarios',
 
-    'new_members_permission_desc' => 'You may <a href="%s">change the settings</a> to allow or disallow, new member registrations.',
+    'new_members_permission_desc' => 'Puedes <a href="%s">cambiar la configuración</a> para permitir o no permitir nuevos registros de miembros.',
 
-    'new_spam' => 'new items in the Spam queue',
+    'new_spam' => 'nuevos elementos en la cola de Spam',
 
-    'news_fetch_failure' => 'Oops, we couldn\'t fetch the news.',
+    'news_fetch_failure' => 'Vaya, no pudimos obtener las noticias.',
 
-    'overview' => 'Overview',
+    'overview' => 'Resumen',
 
-    'register_new' => 'Register New',
+    'register_new' => 'Registrar nuevo',
 
-    'review_all' => 'Review All',
+    'review_all' => 'Revisar todo',
 
-    'review_all_new' => 'Review All New',
+    'review_all_new' => 'Revisar todo nuevo',
 
     'rss' => 'RSS',
 
-    'search_content' => 'search content',
+    'search_content' => 'buscar contenido',
 
-    'settings' => 'settings',
+    'settings' => 'ajustes',
 
-    'since_last_login' => 'since your last login',
+    'since_last_login' => 'desde tu último inicio de sesión',
 
     'spam' => 'Spam',
 
-    'there_are' => 'There are',
+    'there_are' => 'Hay',
 
-    'there_were' => 'There were',
+    'there_were' => 'Había',
 
-    'type_phrase' => 'type phrase...',
+    'type_phrase' => 'escribe frase...',
 
 );
 
