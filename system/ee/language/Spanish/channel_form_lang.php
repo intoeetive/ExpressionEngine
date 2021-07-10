@@ -2,58 +2,58 @@
 
 $lang = array(
 
-    'channel_form_author_only' => 'You are not the author of this entry.',
+    'channel_form_author_only' => 'No eres el autor de esta entrada.',
 
-    'channel_form_invalid_author' => 'This entry does not have a valid author for submission.',
+    'channel_form_invalid_author' => 'Esta entrada no tiene un autor válido para su envío.',
 
-    'channel_form_invalid_guest_member_id' => 'The provided member id to use for guest submissions is invalid.',
+    'channel_form_invalid_guest_member_id' => 'El id de miembro proporcionado a usar para envíos de invitados no es válido.',
 
-    'channel_form_no_channel' => 'No channel was specified.',
+    'channel_form_no_channel' => 'No se ha especificado ningún canal.',
 
-    'channel_form_require_entry' => 'You must specify a valid entry to edit.',
+    'channel_form_require_entry' => 'Debe especificar una entrada válida para editar.',
 
-    'channel_form_unknown_channel' => 'The specified channel does not exist.',
+    'channel_form_unknown_channel' => 'El canal especificado no existe.',
 
     /* rules */
-    'alpha' => 'The %s field may only contain alphabetical characters.',
+    'alpha' => 'El campo %s sólo puede contener caracteres alfabéticos.',
 
-    'alpha_dash' => 'The %s field may only contain alpha-numeric characters, underscores, and dashes.',
+    'alpha_dash' => 'El campo %s sólo puede contener caracteres alfanuméricos, guiones bajos y guiones.',
 
-    'alpha_numeric' => 'The %s field may only contain alpha-numeric characters.',
+    'alpha_numeric' => 'El campo %s sólo puede contener caracteres alfanuméricos.',
 
-    'exact_length' => 'The %s field must be exactly %s characters in length.',
+    'exact_length' => 'El campo %s debe tener exactamente %s caracteres de largo.',
 
-    'form_decryption_failed' => 'Decryption of form settings failed.',
+    'form_decryption_failed' => 'Error al descifrar la configuración del formulario.',
 
-    'integer' => 'The %s field must contain an integer.',
+    'integer' => 'El campo %s debe contener un entero.',
 
-    'is_natural' => 'The %s field must contain only positive numbers.',
+    'is_natural' => 'El campo %s debe contener sólo números positivos.',
 
-    'is_natural_no_zero' => 'The %s field must contain a number greater than zero.',
+    'is_natural_no_zero' => 'El campo %s debe contener un número mayor que cero.',
 
-    'is_numeric' => 'The %s field must contain only numeric characters.',
+    'is_numeric' => 'El campo %s debe contener sólo caracteres numéricos.',
 
-    'isset' => 'The %s field must have a value.',
+    'isset' => 'El campo %s debe tener un valor.',
 
-    'matches' => 'The %s field does not match the %s field.',
+    'matches' => 'El campo %s no coincide con el campo %s.',
 
-    'max_length' => 'The %s field cannot exceed %s characters in length.',
+    'max_length' => 'El campo %s no puede exceder los %s caracteres de longitud.',
 
-    'min_length' => 'The %s field must be at least %s characters in length.',
+    'min_length' => 'El campo %s debe tener al menos %s caracteres de longitud.',
 
-    'numeric' => 'The %s field must contain only numbers.',
+    'numeric' => 'El campo %s debe contener sólo números.',
 
-    'required' => 'The %s field is required.',
+    'required' => 'El campo %s es requerido.',
 
-    'valid_date' => 'The %s you submitted was not formatted correctly (year-month-day hour:minute)',
+    'valid_date' => 'El %s que enviaste no fue formateado correctamente (hora del mes del día:minuto)',
 
-    'valid_email' => 'The %s field must contain a valid email address.',
+    'valid_email' => 'El campo %s debe contener una dirección de correo electrónico válida.',
 
-    'valid_emails' => 'The %s field must contain all valid email addresses.',
+    'valid_emails' => 'El campo %s debe contener todas las direcciones de correo electrónico válidas.',
 
-    'valid_ip' => 'The %s field must contain a valid IP.',
+    'valid_ip' => 'El campo %s debe contener una IP válida.',
 
-    'valid_url' => 'The %s field must contain a valid URL.',
+    'valid_url' => 'El campo %s debe contener una URL válida.',
 
 );
 
