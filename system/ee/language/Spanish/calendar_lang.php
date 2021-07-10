@@ -4,93 +4,93 @@ $lang = array(
 
     'cal_su' => 'Su',
 
-    'cal_mo' => 'Mo',
+    'cal_mo' => 'Ma',
 
     'cal_tu' => 'Tu',
 
-    'cal_we' => 'We',
+    'cal_we' => 'A',
 
     'cal_th' => 'Th',
 
-    'cal_fr' => 'Fr',
+    'cal_fr' => 'Sr',
 
     'cal_sa' => 'Sa',
 
-    'cal_sun' => 'Sun',
+    'cal_sun' => 'Sol',
 
     'cal_mon' => 'Mon',
 
     'cal_tue' => 'Tue',
 
-    'cal_wed' => 'Wed',
+    'cal_wed' => 'Mié',
 
     'cal_thu' => 'Thu',
 
-    'cal_fri' => 'Fri',
+    'cal_fri' => 'Vie',
 
-    'cal_sat' => 'Sat',
+    'cal_sat' => 'Sáb',
 
-    'cal_sunday' => 'Sunday',
+    'cal_sunday' => 'Domingo',
 
-    'cal_monday' => 'Monday',
+    'cal_monday' => 'Lunes',
 
-    'cal_tuesday' => 'Tuesday',
+    'cal_tuesday' => 'Martes',
 
-    'cal_wednesday' => 'Wednesday',
+    'cal_wednesday' => 'Miércoles',
 
-    'cal_thursday' => 'Thursday',
+    'cal_thursday' => 'Jueves',
 
-    'cal_friday' => 'Friday',
+    'cal_friday' => 'Viernes',
 
-    'cal_saturday' => 'Saturday',
+    'cal_saturday' => 'Sábado',
 
-    'cal_jan' => 'Jan',
+    'cal_jan' => 'Ene',
 
     'cal_feb' => 'Feb',
 
     'cal_mar' => 'Mar',
 
-    'cal_apr' => 'Apr',
+    'cal_apr' => 'Abril',
 
-    'cal_may' => 'May',
+    'cal_may' => 'Mayo',
 
     'cal_jun' => 'Jun',
 
     'cal_jul' => 'Jul',
 
-    'cal_aug' => 'Aug',
+    'cal_aug' => 'Ago',
 
-    'cal_sep' => 'Sep',
+    'cal_sep' => 'Septiembre',
 
     'cal_oct' => 'Oct',
 
     'cal_nov' => 'Nov',
 
-    'cal_dec' => 'Dec',
+    'cal_dec' => 'Dic',
 
-    'cal_january' => 'January',
+    'cal_january' => 'Enero',
 
-    'cal_february' => 'February',
+    'cal_february' => 'Febrero',
 
-    'cal_march' => 'March',
+    'cal_march' => 'Marzo',
 
-    'cal_april' => 'April',
+    'cal_april' => 'Abril',
 
-    'cal_mayl' => 'May',
+    'cal_mayl' => 'Mayo',
 
-    'cal_june' => 'June',
+    'cal_june' => 'Junio',
 
-    'cal_july' => 'July',
+    'cal_july' => 'Julio',
 
-    'cal_august' => 'August',
+    'cal_august' => 'Agosto',
 
-    'cal_september' => 'September',
+    'cal_september' => 'Septiembre',
 
-    'cal_october' => 'October',
+    'cal_october' => 'Octubre',
 
-    'cal_november' => 'November',
+    'cal_november' => 'Noviembre',
 
-    'cal_december' => 'December',
+    'cal_december' => 'Diciembre',
 
 );
 
