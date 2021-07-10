@@ -2,99 +2,99 @@
 
 $lang = array(
 
-    'advanced_users_only' => 'Advanced Users Only',
+    'advanced_users_only' => 'Solo usuarios avanzados',
 
-    'all_caching' => 'All caches',
+    'all_caching' => 'Todos los cachés',
 
-    'choose_translation_file' => 'Choose a file to translate',
+    'choose_translation_file' => 'Elija un archivo para traducir',
 
-    'clear_caching' => 'Clear Cached Data',
+    'clear_caching' => 'Limpiar datos de caché',
 
-    'communicate' => 'Communicate',
+    'communicate' => 'Comienza',
 
-    'config_editor' => 'Config File Manager',
+    'config_editor' => 'Administrador de archivos de configuración',
 
-    'db_caching' => 'Database cache files',
+    'db_caching' => 'Archivos de caché de base de datos',
 
-    'english' => 'English',
+    'english' => 'Inglés',
 
-    'european' => 'European',
+    'european' => 'Europeo',
 
-    'import_utilities' => 'Import Utilities',
+    'import_utilities' => 'Importar utilidades',
 
-    'invalid_path' => 'The path you submitted is not valid:',
+    'invalid_path' => 'La ruta enviada no es válida:',
 
-    'member_import' => 'Member Import Utility',
+    'member_import' => 'Utilidad para importar miembros',
 
-    'missing_password_type' => 'The required type attribute is missing in the password element for user: %x. Please consult the documentation for the correct import format.',
+    'missing_password_type' => 'Falta el atributo de tipo requerido en el elemento de contraseña para el usuario: %x. Por favor, consulte la documentación para el formato de importación correcto.',
 
-    'no_lang_file' => 'No Language File Provided',
+    'no_lang_file' => 'Archivo de idioma no proporcionado',
 
-    'no_lang_keys' => 'No Language Keys Exist to Translate',
+    'no_lang_keys' => 'No existen claves de idioma para traducir',
 
-    'no_search_results' => 'No Results Found',
+    'no_search_results' => 'No se encontraron resultados',
 
-    'page_caching' => 'Page (template) cache files',
+    'page_caching' => 'Página (plantilla) archivos de caché',
 
     'php_info' => 'PHP Info',
 
-    'recount_stats' => 'Recount Statistics',
+    'recount_stats' => 'Estadísticas de recuento',
 
-    'replace_term' => 'And replace it with this text',
+    'replace_term' => 'Y reemplázalo con este texto',
 
-    'replace_where' => 'In what database field do you want the replacement to occur?',
+    'replace_where' => '¿En qué campo de base de datos desea que ocurra el reemplazo?',
 
-    'sandr_instructions' => 'These forms enable you to search for specific text and replace it with different text',
+    'sandr_instructions' => 'Estos formularios le permiten buscar un texto específico y reemplazarlo por un texto diferente',
 
-    'search_and_replace' => 'Search and Replace',
+    'search_and_replace' => 'Buscar y reemplazar',
 
-    'search_replace_disclaimer' => 'Depending on the syntax used, this function can produce undesired results. Consult the manual and backup your database.',
+    'search_replace_disclaimer' => 'Dependiendo de la sintaxis utilizada, esta función puede producir resultados no deseados. Consulte el manual y la copia de seguridad de su base de datos.',
 
-    'search_results' => 'Search Results',
+    'search_results' => 'Resultados de búsqueda',
 
-    'search_term' => 'Search for this text',
+    'search_term' => 'Buscar este texto',
 
-    'search_terms' => 'Search Terms',
+    'search_terms' => 'Buscar términos',
 
-    'searched_in' => 'Searched In',
+    'searched_in' => 'Buscado en',
 
-    'site_search' => 'Site',
+    'site_search' => 'Sitio',
 
-    'sql_manager' => 'SQL Manager',
+    'sql_manager' => 'Administrador SQL',
 
-    'tag_caching' => 'Tag cache files',
+    'tag_caching' => 'Archivos de caché de etiquetas',
 
-    'tools' => 'Tools',
+    'tools' => 'Herramientas',
 
-    'tools_data' => 'Data',
+    'tools_data' => 'Datos',
 
-    'tools_logs' => 'Logs',
+    'tools_logs' => 'Registros',
 
-    'tools_utilities' => 'Utilities',
+    'tools_utilities' => 'Utilidades',
 
-    'trans_file_not_writable' => 'Translation file is not writeable.',
+    'trans_file_not_writable' => 'El archivo de traducción no tiene permisos de escritura.',
 
-    'translation' => 'Translation',
+    'translation' => 'Traducción',
 
-    'translation_tool' => 'Translation Utility',
+    'translation_tool' => 'Utilidad de traducción',
 
-    'united_states' => 'United States',
+    'united_states' => 'Estados Unidos',
 
     /* Config Editor */
     'false' => 'False',
 
-    'preference' => 'Preference',
+    'preference' => 'Preferencia',
 
-    'preferences_updated' => 'Preferences Updated',
+    'preferences_updated' => 'Preferencias actualizadas',
 
-    'setting' => 'Setting',
+    'setting' => 'Ajustes',
 
-    'true' => 'True',
+    'true' => 'Verdadero',
 
     /* Translation */
-    'screen_name' => 'Screen Name',
+    'screen_name' => 'Nombre de usuario',
 
-    'translation_dir_unwritable' => 'Warning: Your translation directory is not writable.',
+    'translation_dir_unwritable' => 'Advertencia: Su directorio de traducción no tiene permisos de escritura.',
 
 );
 
