@@ -2,29 +2,29 @@
 
 $lang = array(
 
-    'current_version' => '&nbsp;&nbsp;&nbsp;Latest: %v',
+    'current_version' => '&nbsp;&nbsp;&nbsp;Último: %v',
 
-    'documentation' => 'User Guide',
+    'documentation' => 'Guía de usuario',
 
-    'downloads' => 'My ExpressionEngine Downloads',
+    'downloads' => 'Mis descargas de ExpressionEngine',
 
-    'error_getting_version' => 'You are using ExpressionEngine %v. Unable to determine if a newer version is available at this time.',
+    'error_getting_version' => 'Estás usando ExpressionEngine %v. No se puede determinar si una nueva versión está disponible en este momento.',
 
-    'expressionengine_info' => 'ExpressionEngine Info',
+    'expressionengine_info' => 'Información del Motor de Expresión',
 
-    'installed_version' => 'Installed: %v',
+    'installed_version' => 'Instalado: %v',
 
-    'resources' => 'Resources',
+    'resources' => 'Recursos',
 
-    'running_current' => 'ExpressionEngine is up to date (%v)',
+    'running_current' => 'ExpressionEngine está actualizado (%v)',
 
-    'support_resources' => 'Technical Support',
+    'support_resources' => 'Soporte técnico',
 
-    'version_and_build' => 'Current Version',
+    'version_and_build' => 'Versión actual',
 
-    'version_update_available' => 'A newer version of ExpressionEngine is available!',
+    'version_update_available' => '¡Una nueva versión de ExpressionEngine está disponible!',
 
-    'version_update_inst' => '<a class="update" href="%d" title="Download Here" rel="external">Download the latest version</a> and follow the <a class="update" href="%i" title="Update Instructions" rel="external">Update Instructions</a>.',
+    'version_update_inst' => '<a class="update" href="%d" title="Download Here" rel="external">Descargue la última versión</a> y siga las <a class="update" href="%i" title="Update Instructions" rel="external">instrucciones de actualización</a>.',
 
 );
 
