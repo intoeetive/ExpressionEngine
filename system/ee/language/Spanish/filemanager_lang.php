@@ -2,215 +2,215 @@
 
 $lang = array(
 
-    'all_files' => 'All Files',
+    'all_files' => 'Todos los archivos',
 
-    'append' => 'Append numeral to <strong>newer</strong> file <i>&mdash; example: %s</i>',
+    'append' => 'Añadir numeral a <strong>archivo</strong> más nuevo <i>&mdash; ejemplo: %s</i>',
 
-    'btn_cancel_upload' => 'Cancel Upload',
+    'btn_cancel_upload' => 'Cancelar subida',
 
-    'delete_file' => 'Delete File',
+    'delete_file' => 'Eliminar archivo',
 
-    'btn_edit_file_meta' => 'Save File Meta',
+    'btn_edit_file_meta' => 'Guardar archivo Meta',
 
-    'btn_finish_upload' => 'Finish Upload',
+    'btn_finish_upload' => 'Finalizar subida',
 
-    'categories' => 'Categories',
+    'categories' => 'Categorías',
 
-    'credit' => 'Credit',
+    'credit' => 'Crédito',
 
-    'custom_limit' => 'custom limit',
+    'custom_limit' => 'límite personalizado',
 
-    'date_added' => 'Date Added',
+    'date_added' => 'Fecha añadida',
 
-    'description' => 'Description',
+    'description' => 'Descripción',
 
-    'download' => 'Download',
+    'download' => 'Descargar',
 
-    'edit_file_metadata' => 'Edit File Meta Data',
+    'edit_file_metadata' => 'Editar archivo Meta Data',
 
-    'edit_file_metadata_error' => 'Cannot Update File Meta Data',
+    'edit_file_metadata_error' => 'No se puede actualizar archivo Meta Data',
 
-    'edit_file_metadata_error_desc' => 'We were unable to update the meta data, please review and fix errors below.',
+    'edit_file_metadata_error_desc' => 'No hemos podido actualizar los metadatos, por favor revise y corrija los errores a continuación.',
 
-    'edit_file_metadata_success' => 'File Meta Data Updated',
+    'edit_file_metadata_success' => 'Archivo Meta Datos Actualizado',
 
-    'edit_file_metadata_success_desc' => 'The meta data for the file <b>%s</b> has been updated.',
+    'edit_file_metadata_success_desc' => 'Los meta datos del archivo <b>%s</b> han sido actualizados.',
 
-    'exceeds_max_dimensions' => 'File exceeds maximum dimensions and is not resizable.',
+    'exceeds_max_dimensions' => 'El archivo excede las dimensiones máximas y no es redimensionable.',
 
-    'file' => 'File',
+    'file' => 'Fichero',
 
-    'file_conflict' => 'File conflict found',
+    'file_conflict' => 'Conflicto de archivo encontrado',
 
-    'file_conflict_desc' => 'A file named <b>%s</b> already exists in this directory.',
+    'file_conflict_desc' => 'Ya existe un archivo llamado <b>%s</b> en este directorio.',
 
-    'file_data' => 'File Data',
+    'file_data' => 'Datos de archivo',
 
-    'file_manager' => 'Files',
+    'file_manager' => 'Archivos',
 
-    'file_not_added_to_db' => 'File could not be recorded in the database',
+    'file_not_added_to_db' => 'No se pudo grabar el archivo en la base de datos',
 
-    'file_type' => 'File Type',
+    'file_type' => 'Tipo de archivo',
 
-    'file_upload_stopped' => 'File Upload Stopped',
+    'file_upload_stopped' => 'Carga de archivo detenida',
 
-    'files' => 'Files',
+    'files' => 'Archivos',
 
-    'filter_upload_directories' => 'filter upload directories',
+    'filter_upload_directories' => 'filtrar directorios de subida',
 
-    'gd_not_installed' => 'Thumbnail could not be created for the image. GD is required for creating thumbnails.',
+    'gd_not_installed' => 'No se pudo crear miniatura para la imagen. Se requiere GD para crear miniaturas.',
 
-    'invalid_directory' => 'You specified an invalid directory',
+    'invalid_directory' => 'Has especificado un directorio no válido',
 
-    'invalid_filename' => 'The image file name may only contain alpha-numeric characters, dashes and underscores.',
+    'invalid_filename' => 'El nombre del archivo de imagen sólo puede contener caracteres alfanuméricos, guiones y guiones bajos.',
 
-    'invalid_mime' => 'Invalid mime type, file could not be processed',
+    'invalid_mime' => 'Tipo de mime inválido, el archivo no pudo ser procesado',
 
-    'invalid_short_name' => 'The image manipulation short name may only contain alpha-numeric characters, dashes and underscores, and cannot be named "thumbs".',
+    'invalid_short_name' => 'El nombre corto de la manipulación de la imagen sólo puede contener caracteres alfa, guiones y guiones bajos, y no puede ser llamado "miniaturas".',
 
-    'location' => 'Location',
+    'location' => 'Ubicación',
 
-    'no_file' => 'No file selected',
+    'no_file' => 'Ningún archivo seleccionado',
 
-    'no_filename' => 'A new filename was not submitted.',
+    'no_filename' => 'Un nuevo nombre de archivo no fue enviado.',
 
-    'no_path_or_dir' => 'You must specify both a file path and a directory ID to save a file',
+    'no_path_or_dir' => 'Debe especificar tanto una ruta de archivo como un ID de directorio para guardar un archivo',
 
-    'no_permission' => 'You do not have permission to save a file',
+    'no_permission' => 'No tiene permiso para guardar un archivo',
 
-    'no_upload_destination' => 'No upload destination found',
+    'no_upload_destination' => 'No se encontró destino de subida',
 
-    'not_an_image' => 'Selected file is not an image',
+    'not_an_image' => 'El archivo seleccionado no es una imagen',
 
     'pixels' => 'pixels',
 
-    'problem_downloading_file' => 'An error occurred when attempting to download the selected file. Please verify the file exists on the server.',
+    'problem_downloading_file' => 'Se ha producido un error al descargar el archivo seleccionado. Por favor, compruebe que el archivo existe en el servidor.',
 
-    'problem_downloading_files' => 'An error occurred when attempting to download the selected files. Please verify the files exist on the server.',
+    'problem_downloading_files' => 'Se ha producido un error al intentar descargar los archivos seleccionados. Por favor, compruebe que los archivos existen en el servidor.',
 
-    'rename' => 'Rename <strong>newer</strong> file',
+    'rename' => 'Renombrar <strong>archivo</strong> más nuevo',
 
-    'replace' => 'Replace <strong>older</strong> file only <i>&mdash; destructive action</i>',
+    'replace' => 'Reemplazar <strong>archivo</strong> antiguo solo <i>&mdash; acción destructiva</i>',
 
-    'replace_no_metadata' => 'Only the file was replaced. The Title, Description, Credit, Location, and Categories were not updated.',
+    'replace_no_metadata' => 'Sólo el archivo fue reemplazado. El título, la descripción, el crédito, la ubicación y las categorías no fueron actualizados.',
 
-    'search_files' => 'Search Files',
+    'search_files' => 'Buscar archivos',
 
-    'security_failure' => 'The file type you are attempting to upload is not allowed.',
+    'security_failure' => 'El tipo de archivo que está intentando subir no está permitido.',
 
-    'show_all_files' => 'All %d files',
+    'show_all_files' => 'Todos los archivos %d',
 
-    'thumb_not_created' => 'Thumbnail could not be created for the image. Please make sure the thumbnail directory is writable.',
+    'thumb_not_created' => 'No se pudo crear la miniatura para la imagen. Por favor, asegúrese de que el directorio de miniaturas tiene permisos de escritura.',
 
-    'title' => 'Title',
+    'title' => 'Título',
 
-    'title_or_name' => 'Title/Name',
+    'title_or_name' => 'Título / Nombre',
 
-    'upload_directories' => 'Upload Directories',
+    'upload_directories' => 'Subir Directorios',
 
-    'upload_directory' => 'Upload Directory',
+    'upload_directory' => 'Carpeta de carga',
 
-    'upload_new_file' => 'Upload New File',
+    'upload_new_file' => 'Subir nuevo archivo',
 
-    'upload_options' => 'Upload options',
+    'upload_options' => 'Opciones de subida',
 
     /* sidebar */
-    'zero_directories_found' => 'No <b>Directories</b> found',
+    'zero_directories_found' => 'No se encontraron <b>directorios</b>',
 
     /* modal */
-    '90_degrees_left' => '90 degrees, left',
+    '90_degrees_left' => '90 grados, izquierda',
 
-    '90_degrees_right' => '90 degrees, right',
+    '90_degrees_right' => '90 grados, derecha',
 
-    'btn_crop' => 'Crop, Rotate &amp; Resize',
+    'btn_crop' => 'Recortar, rotar &amp; Redimensionar',
 
-    'btn_crop_and_save_image' => 'Crop &amp; Save Image',
+    'btn_crop_and_save_image' => 'Recortar &amp; Guardar imagen',
 
-    'btn_resize_and_save_image' => 'Resize &amp; Save Image',
+    'btn_resize_and_save_image' => 'Redimensionar &amp; Guardar imagen',
 
-    'btn_rotate_and_save_image' => 'Rotate &amp; Save Image',
+    'btn_rotate_and_save_image' => 'Rotar &amp; Guardar imagen',
 
-    'btn_upload_file' => 'Upload File',
+    'btn_upload_file' => 'Subir archivo',
 
-    'btn_uploading' => 'Uploading...',
+    'btn_uploading' => 'Subiendo...',
 
-    'check_upload_settings' => 'Check the <a href="%s">settings</a> for this upload directory.',
+    'check_upload_settings' => 'Compruebe la <a href="%s">configuración</a> para este directorio de subidas.',
 
-    'constraints' => 'Constraints',
+    'constraints' => 'Restricciones',
 
-    'coordiantes_desc' => 'x (horizontal) and y (vertical) axis coordinates to start the crop from.',
+    'coordiantes_desc' => 'Coordenadas x (horizontal) y y (vertical) para comenzar el recorte.',
 
-    'coordinates' => 'Coordinates',
+    'coordinates' => 'Coordenadas',
 
-    'crop_constraints_desc' => 'Maximum width and height to crop this image down to.',
+    'crop_constraints_desc' => 'Ancho y altura máximos a los que recortar esta imagen.',
 
-    'crop_file' => 'Crop, Rotate &amp; Resize "%s"',
+    'crop_file' => 'Recortar, rotar &amp; Redimensionar "%s"',
 
-    'crop_file_error' => 'Cannot %s File',
+    'crop_file_error' => 'No se puede %s archivo',
 
-    'crop_file_error_desc' => 'We were unable to %s the file, please review and fix errors below.',
+    'crop_file_error_desc' => 'No hemos podido %s el archivo, por favor revise y corrija los errores a continuación.',
 
-    'crop_file_success' => 'File %s Success',
+    'crop_file_success' => 'Archivo %s Éxito',
 
-    'crop_file_success_desc' => 'The file <b>%s</b> was %s successfully.',
+    'crop_file_success_desc' => 'El archivo <b>%s</b> fue %s con éxito.',
 
-    'cropped' => 'cropped',
+    'cropped' => 'recortado',
 
-    'dir_not_writable' => 'Directory Not Writable',
+    'dir_not_writable' => 'Directorio no escribible',
 
-    'dir_not_writable_desc' => 'Cannot write to the directory <b>%s</b>.<br>Check your file permissions on the server.',
+    'dir_not_writable_desc' => 'No se puede escribir en el directorio <b>%s</b>.<br>Comprueba los permisos de tu archivo en el servidor.',
 
-    'directory_not_found' => 'Cannot find the directory <b>%s</b>.',
+    'directory_not_found' => 'No se puede encontrar el directorio <b>%s</b>.',
 
-    'edit_file_name' => 'Edit "%s"',
+    'edit_file_name' => 'Editar "%s"',
 
-    'error_cannot_add_file_to_zip' => 'We were unable to add <b>%s</b> to the zip archive.',
+    'error_cannot_add_file_to_zip' => 'No hemos podido añadir <b>%s</b> al archivo zip.',
 
-    'error_cannot_create_zip' => 'Cannot create a .zip file',
+    'error_cannot_create_zip' => 'No se puede crear un archivo .zip',
 
-    'error_export' => 'Cannot Export',
+    'error_export' => 'No se puede exportar',
 
-    'export_all' => 'Export All Files',
+    'export_all' => 'Exportar todos los archivos',
 
-    'file_categories_desc' => 'Categorize this file.',
+    'file_categories_desc' => 'Categorizar este archivo.',
 
-    'file_desc' => 'Choose a file to upload.',
+    'file_desc' => 'Elija un archivo para subir.',
 
-    'file_not_found' => 'File Not Found',
+    'file_not_found' => 'Archivo no encontrado',
 
-    'file_not_found_desc' => 'Cannot find the file <b>%s</b>.',
+    'file_not_found_desc' => 'No se puede encontrar el archivo <b>%s</b>.',
 
-    'file_not_writable' => 'File Not Writable',
+    'file_not_writable' => 'Archivo no escribible',
 
-    'file_not_writable_desc' => 'Cannot write to the file <b>%s</b>.<br>Check your file permissions on the server.',
+    'file_not_writable_desc' => 'No se puede escribir en el archivo <b>%s</b>.<br>Compruebe los permisos de su archivo en el servidor.',
 
-    'files_in_directory' => 'Files in <b>%s</b>',
+    'files_in_directory' => 'Archivos en <b>%s</b>',
 
-    'files_not_found' => 'Files Not Found',
+    'files_not_found' => 'Archivos no encontrados',
 
-    'files_not_found_desc' => 'Highlighted files cannot be found on the server.',
+    'files_not_found_desc' => 'No se pueden encontrar archivos destacados en el servidor.',
 
-    'files_deleted_desc' => 'The following files were deleted',
+    'files_deleted_desc' => 'Los siguientes archivos fueron eliminados',
 
-    'flip_horizontally' => 'Flip, horizontally',
+    'flip_horizontally' => 'Voltear, horizontalmente',
 
-    'flip_vertically' => 'Flip, vertically',
+    'flip_vertically' => 'Voltear, verticalmente',
 
-    'height' => 'height',
+    'height' => 'altura',
 
-    'no_categories_assigned_file_desc' => 'There are no categories assigned to this file. <a href="%s" rel="external">Assign a category group.</a>',
+    'no_categories_assigned_file_desc' => 'No hay categorías asignadas a este archivo. <a href="%s" rel="external">Asignar un grupo de categorías.</a>',
 
-    'no_uploaded_files' => 'No files have been uploaded to this directory.',
+    'no_uploaded_files' => 'No se han subido archivos a este directorio.',
 
-    'resize_constraints_desc' => 'Maximum width and height to resize this image to.',
+    'resize_constraints_desc' => 'Anchura y altura máxima a la que redimensionar esta imagen.',
 
-    'resized' => 'resized',
+    'resized' => 'redimensionado',
 
-    'rotated' => 'rotated',
+    'rotated' => 'girado',
 
-    'rotation' => 'Rotation',
+    'rotation' => 'Rotación',
 
-    'rotation_desc' => 'Image will be rotated to match choice.',
+    'rotation_desc' => 'La imagen se rotará para que coincida con la elección.',
 
     'size_b' => ' bytes',
 
@@ -222,394 +222,394 @@ $lang = array(
 
     'size_tb' => '<abbr title="Terabyte">tb</abbr>',
 
-    'success' => 'Success',
+    'success' => 'Éxito',
 
-    'upload_directory_deleted' => 'Upload directory deleted',
+    'upload_directory_deleted' => 'Carpeta de subida eliminada',
 
-    'upload_directory_deleted_desc' => 'The upload directory <b>%s</b> has been deleted.',
+    'upload_directory_deleted_desc' => 'El directorio de subida <b>%s</b> ha sido eliminado.',
 
-    'upload_filedata_error' => 'Cannot Upload File',
+    'upload_filedata_error' => 'No se puede subir archivo',
 
-    'upload_filedata_success' => 'File Upload Success',
+    'upload_filedata_success' => 'Éxito al subir archivo',
 
-    'upload_filedata_success_desc' => 'The file <b>%s</b> was uploaded successfully.',
+    'upload_filedata_success_desc' => 'El archivo <b>%s</b> se ha subido correctamente.',
 
     'width' => 'width',
 
-    'x_axis' => 'x-axis',
+    'x_axis' => 'eje x',
 
-    'y_axis' => 'y-axis',
+    'y_axis' => 'eje Y',
 
-    'zero_upload_directories_found' => 'No <b>upload directories</b> found.',
+    'zero_upload_directories_found' => 'No se encontraron <b>directorios de subida</b>.',
 
     /* Uploads */
-    'add_manipulation' => 'Add New Manipulation',
+    'add_manipulation' => 'Añadir nueva Manipulación',
 
-    'all_upload_dirs' => 'All Upload Directories',
+    'all_upload_dirs' => 'Todos los directorios de subida',
 
-    'apply_manipulations' => 'Apply manipulations',
+    'apply_manipulations' => 'Aplicar manipulaciones',
 
-    'apply_manipulations_desc' => 'Applies chosen image manipulations to the files in this directory during sync operation. Increases sync time.',
+    'apply_manipulations_desc' => 'Aplica manipulaciones de imágenes elegidas a los archivos en este directorio durante la operación de sincronización. Aumenta el tiempo de sincronización.',
 
-    'bottom' => 'Bottom',
+    'bottom' => 'Abajo',
 
-    'btn_create_directory' => 'Create Directory',
+    'btn_create_directory' => 'Crear directorio',
 
-    'btn_create_directory_working' => 'Creating...',
+    'btn_create_directory_working' => 'Creando...',
 
-    'btn_edit_directory' => 'Edit Directory',
+    'btn_edit_directory' => 'Editar directorio',
 
-    'btn_sync_directory' => 'Sync Directory',
+    'btn_sync_directory' => 'Directorio de sincronización',
 
-    'btn_sync_directory_working' => 'Syncing...',
+    'btn_sync_directory_working' => 'Sincronizando...',
 
-    'by' => 'by',
+    'by' => 'por',
 
-    'center' => 'Center',
+    'center' => 'Centrar',
 
-    'constrain_or_crop' => 'Constrain or Crop',
+    'constrain_or_crop' => 'Restringir o recortar',
 
-    'constrain_or_crop_desc' => 'Changes to images in this <code>upload</code> directory, made upon upload.',
+    'constrain_or_crop_desc' => 'Cambios a imágenes en este directorio <code>subir</code> , hechas al subir.',
 
-    'create_upload_directory' => 'Create Upload Directory',
+    'create_upload_directory' => 'Crear directorio de subida',
 
-    'new_directory' => 'New Directory',
+    'new_directory' => 'Nuevo directorio',
 
-    'create_watermark' => 'Create Watermark',
+    'create_watermark' => 'Crear marca de agua',
 
-    'default_modal_view' => 'Default modal view?',
+    'default_modal_view' => 'Vista modal predeterminada?',
 
-    'default_modal_view_desc' => 'How files should be displayed by default for this upload directory.',
+    'default_modal_view_desc' => 'Cómo deben mostrarse los archivos por defecto para este directorio de subida.',
 
-    'default_modal_view_list' => 'List',
+    'default_modal_view_list' => 'Lista',
 
     'default_modal_view_thumbnails' => 'Thumbnails',
 
-    'directory_not_saved' => 'Attention: Upload directory not saved',
+    'directory_not_saved' => 'Atención: Directorio de subida no guardado',
 
-    'directory_not_saved_desc' => 'We were unable to save your upload directory, please review and fix errors below.',
+    'directory_not_saved_desc' => 'No hemos podido guardar tu directorio de subida, por favor revisa y corrige los errores a continuación.',
 
-    'directory_saved' => 'Upload directory saved',
+    'directory_saved' => 'Directorio de subida guardado',
 
-    'directory_saved_desc' => 'Your upload directory has been saved successfully.',
+    'directory_saved_desc' => 'El directorio de subidas se ha guardado correctamente.',
 
-    'directory_sync_warning' => 'Some files could not be synchronized',
+    'directory_sync_warning' => 'Algunos archivos no pudieron sincronizarse',
 
-    'directory_synced' => 'Upload directory synchronized',
+    'directory_synced' => 'Carpeta de subida sincronizada',
 
-    'directory_synced_desc' => 'The contents of the upload directory have been successfully synchronized.',
+    'directory_synced_desc' => 'El contenido del directorio de subida se ha sincronizado correctamente.',
 
-    'duplicate_dir_name' => 'The name of your directory is already taken.',
+    'duplicate_dir_name' => 'El nombre de su directorio ya está en uso.',
 
-    'duplicate_image_size_name' => 'You must enter a unique name for this image manipulation.',
+    'duplicate_image_size_name' => 'Debe introducir un nombre único para esta manipulación de imagen.',
 
-    'edit_upload_directory' => 'Edit Upload Directory',
+    'edit_upload_directory' => 'Editar directorio de subida',
 
-    'edit_watermark' => 'Edit Watermark',
+    'edit_watermark' => 'Editar marca de agua',
 
-    'file_limits' => 'File Limits',
+    'file_limits' => 'Límites de archivo',
 
-    'file_sync' => 'File sync',
+    'file_sync' => 'Sincronizar archivo',
 
-    'file_sync_desc' => '<b>%d</b> files',
+    'file_sync_desc' => '<b>%d</b> archivos',
 
-    'file_sync_desc_images' => '<b>%d</b> <code>image</code> files',
+    'file_sync_desc_images' => '<b>%d</b> <code>imágenes</code> archivos',
 
     'horizontal' => 'horizontal',
 
-    'image' => 'Image',
+    'image' => 'Imagen',
 
-    'image_manip_dimension_required' => 'A height or width must be entered if no watermark is selected.',
+    'image_manip_dimension_required' => 'Se debe introducir una altura o anchura si no se selecciona marca de agua.',
 
-    'image_manip_height' => 'Height',
+    'image_manip_height' => 'Altura',
 
-    'image_manip_height_desc' => 'Final height of image',
+    'image_manip_height_desc' => 'Altura final de la imagen',
 
-    'image_manip_name' => 'Short Name',
+    'image_manip_name' => 'Nombre corto',
 
-    'image_manip_name_desc' => 'Short name of this manipulation',
+    'image_manip_name_desc' => 'Nombre corto de esta manipulación',
 
-    'image_manip_type' => 'Type',
+    'image_manip_type' => 'Tipo',
 
-    'image_manip_type_desc' => 'Type of manipulation',
+    'image_manip_type_desc' => 'Tipo de manipulación',
 
-    'image_manip_type_opt_constrain' => 'Constrain (full image resized)',
+    'image_manip_type_opt_constrain' => 'Restringir (tamaño completo de la imagen)',
 
-    'image_manip_type_opt_crop' => 'Crop (part of image)',
+    'image_manip_type_opt_crop' => 'Recortar (parte de la imagen)',
 
-    'image_manip_watermark' => 'Watermark',
+    'image_manip_watermark' => 'Marca de agua',
 
-    'image_manip_watermark_desc' => 'Add a watermark',
+    'image_manip_watermark_desc' => 'Añadir marca de agua',
 
     'image_manip_width' => 'Width',
 
-    'image_manip_width_desc' => 'Final width of image',
+    'image_manip_width_desc' => 'Ancho final de la imagen',
 
-    'image_options' => 'Image Options',
+    'image_options' => 'Opciones de imagen',
 
-    'left' => 'Left',
+    'left' => 'Queda',
 
-    'middle' => 'Middle',
+    'middle' => 'Medio',
 
-    'new_upload_directory' => 'New Upload Directory',
+    'new_upload_directory' => 'Nuevo directorio de subida',
 
-    'no_manipulations' => 'No manipulations created',
+    'no_manipulations' => 'No se han creado manipulaciones',
 
-    'no_upload_directories' => 'No Upload Directories',
+    'no_upload_directories' => 'No hay Directorios de Subida',
 
-    'no_watermark' => 'No watermark',
+    'no_watermark' => 'Sin marca de agua',
 
-    'right' => 'Right',
+    'right' => 'Derecha',
 
-    'sync_alt_title' => 'Sync %s',
+    'sync_alt_title' => 'Sincronizar %s',
 
-    'sync_title' => 'Directory Sync',
+    'sync_title' => 'Sincronización del directorio',
 
-    'text' => 'Text',
+    'text' => 'Texto',
 
-    'text_options' => 'Text Options',
+    'text_options' => 'Opciones de texto',
 
-    'top' => 'Top',
+    'top' => 'Subir',
 
-    'upload_allowed_types' => 'Allowed file types?',
+    'upload_allowed_types' => '¿Tipos de archivo permitidos?',
 
-    'upload_allowed_types_opt_all' => 'All file types',
+    'upload_allowed_types_opt_all' => 'Todos los tipos de archivo',
 
-    'upload_allowed_types_opt_images' => 'Images only',
+    'upload_allowed_types_opt_images' => 'Solo imágenes',
 
-    'upload_btn_edit' => 'edit',
+    'upload_btn_edit' => 'editar',
 
-    'upload_btn_sync' => 'sync',
+    'upload_btn_sync' => 'sincronizar',
 
-    'upload_btn_view' => 'view',
+    'upload_btn_view' => 'ver',
 
-    'upload_category_groups' => 'Category groups',
+    'upload_category_groups' => 'Grupos de categorías',
 
-    'upload_category_groups_desc' => 'Allow files to be assigned to categories from the following groups.',
+    'upload_category_groups_desc' => 'Permitir que los archivos sean asignados a categorías de los siguientes grupos.',
 
-    'upload_file_size' => 'File size',
+    'upload_file_size' => 'Tamaño del archivo',
 
-    'upload_file_size_desc' => 'Maximum file size in kilobytes.',
+    'upload_file_size_desc' => 'Tamaño máximo de archivo en kilobytes.',
 
     'upload_id' => 'ID#',
 
-    'upload_image_height' => 'Image height',
+    'upload_image_height' => 'Altura de imagen',
 
-    'upload_image_height_desc' => 'Maximum image height in pixels.',
+    'upload_image_height_desc' => 'Altura máxima de la imagen en pixeles.',
 
-    'upload_image_manipulations' => 'Image Manipulations',
+    'upload_image_manipulations' => 'Manipulaciones de imagen',
 
-    'upload_image_width' => 'Image width',
+    'upload_image_width' => 'Ancho de imagen',
 
-    'upload_image_width_desc' => 'Maximum image width in pixels.',
+    'upload_image_width_desc' => 'Ancho máximo de la imagen en píxeles.',
 
-    'upload_manage' => 'Manage',
+    'upload_manage' => 'Gestionar',
 
-    'upload_member_groups' => 'Allowed member groups',
+    'upload_member_groups' => 'Grupos de miembros permitidos',
 
-    'upload_member_groups_desc' => 'The following user groups are allowed to upload to this directory.</em><br /><em>Super Administrators are <b>always</b> allowed.',
+    'upload_member_groups_desc' => 'Los siguientes grupos de usuarios pueden subir a este directorio.</em><br /><em>Los superadministradores son <b>siempre</b> permitidos.',
 
-    'upload_roles' => 'Allowed member roles',
+    'upload_roles' => 'Roles de miembros permitidos',
 
-    'upload_roles_desc' => 'The following member roles are allowed to upload to this directory.<br />Super Administrators are <b>always</b> allowed.',
+    'upload_roles_desc' => 'Los siguientes roles de miembro están permitidos para subir a este directorio.<br />Los superadministradores <b>siempre</b> están permitidos.',
 
-    'upload_path' => 'Upload path',
+    'upload_path' => 'Ruta de subida',
 
-    'upload_path_desc' => 'Absolute path to your directory. We recommend using <code>{base_path}your_upload_directory</code>.',
+    'upload_path_desc' => 'Ruta absoluta a tu directorio. Te recomendamos usar <code>{base_path}your_upload_directory</code>.',
 
-    'upload_privileges' => 'Upload Privileges',
+    'upload_privileges' => 'Cargar Privilegios',
 
-    'upload_remove_modal_directories' => 'directories',
+    'upload_remove_modal_directories' => 'directorios',
 
-    'upload_remove_modal_upload_directory' => 'Upload directory',
+    'upload_remove_modal_upload_directory' => 'Directorio de subida',
 
-    'upload_url' => 'Upload directory',
+    'upload_url' => 'Directorio de subida',
 
-    'upload_url_desc' => '<abbr title="Uniform Resource Location">URL</abbr> location of this directory. We recommend using <code>{base_url}your_upload_directory</code>',
+    'upload_url_desc' => '<abbr title="Uniform Resource Location">URL</abbr> ubicación de este directorio. Recomendamos usar <code>{base_url}tu_upload_directory</code>',
 
     'vertical' => 'vertical',
 
-    'watermark' => 'Watermark',
+    'watermark' => 'Marca de agua',
 
-    'watermark_alignment' => 'Alignment',
+    'watermark_alignment' => 'Alineación',
 
-    'watermark_alignment_desc' => 'Determines where this watermark will appear on the image.',
+    'watermark_alignment_desc' => 'Determina dónde aparecerá esta marca de agua en la imagen.',
 
-    'watermark_created' => 'Watermark Created',
+    'watermark_created' => 'Marca de agua creada',
 
-    'watermark_created_desc' => 'The watermark <b>%s</b> has been created.',
+    'watermark_created_desc' => 'La marca de agua <b>%s</b> ha sido creada.',
 
-    'watermark_image_opacity' => 'Opacity',
+    'watermark_image_opacity' => 'Opacidad',
 
-    'watermark_image_opacity_desc' => 'Value for this image watermark\'s opacity.',
+    'watermark_image_opacity_desc' => 'Valor para la opacidad de esta marca de agua de imagen.',
 
-    'watermark_image_path' => 'Path',
+    'watermark_image_path' => 'Ruta',
 
-    'watermark_image_path_desc' => 'Full path location of your watermark image.',
+    'watermark_image_path_desc' => 'Ubicación completa de la marca de agua.',
 
-    'watermark_image_transparency_map' => 'Image transparency map',
+    'watermark_image_transparency_map' => 'Mapa de transparencia de imagen',
 
-    'watermark_image_transparency_map_desc' => 'Coordinates for alpha transparency of images to be watermarked.',
+    'watermark_image_transparency_map_desc' => 'Coordenadas para que la transparencia alfa de las imágenes sea marcada por el agua.',
 
-    'watermark_not_created' => 'Cannot Create Watermark',
+    'watermark_not_created' => 'No se puede crear marca de agua',
 
-    'watermark_not_created_desc' => 'We were unable to create this watermark, please review and fix errors below.',
+    'watermark_not_created_desc' => 'No hemos podido crear esta marca de agua, por favor revise y corrija los errores a continuación.',
 
-    'watermark_not_updated' => 'Cannot Update Watermark',
+    'watermark_not_updated' => 'No se puede actualizar la marca de agua',
 
-    'watermark_not_updated_desc' => 'We were unable to update this watermark, please review and fix errors below.',
+    'watermark_not_updated_desc' => 'No hemos podido actualizar esta marca de agua, por favor revise y corrija los errores a continuación.',
 
-    'watermark_offset' => 'Offset',
+    'watermark_offset' => 'Desplazamiento',
 
-    'watermark_offset_desc' => 'Distance in pixels from the edge of the image.',
+    'watermark_offset_desc' => 'Distancia en píxeles desde el borde de la imagen.',
 
     'watermark_padding' => 'Padding',
 
-    'watermark_padding_desc' => 'Add padding around this watermark.',
+    'watermark_padding_desc' => 'Añadir relleno alrededor de esta marca de agua.',
 
-    'watermark_text' => 'Text',
+    'watermark_text' => 'Texto',
 
-    'watermark_text_color' => 'Text color',
+    'watermark_text_color' => 'Color del texto',
 
-    'watermark_text_desc' => 'Content of this watermark',
+    'watermark_text_desc' => 'Contenido de esta marca de agua',
 
-    'watermark_text_dropshadow' => 'Enable dropshadow?',
+    'watermark_text_dropshadow' => '¿Activar dropshadow?',
 
-    'watermark_text_dropshadow_color' => 'Dropshadow color',
+    'watermark_text_dropshadow_color' => 'Color de la sombra',
 
-    'watermark_text_dropshadow_desc' => 'When enabled, a drop-shadow will be rendered.',
+    'watermark_text_dropshadow_desc' => 'Cuando está activado, se mostrará una sombra desplegable.',
 
-    'watermark_text_dropshadow_distance' => 'Dropshadow distance',
+    'watermark_text_dropshadow_distance' => 'Distancia de la sombra',
 
     'watermark_text_font' => 'Font face',
 
-    'watermark_text_size' => 'Text size',
+    'watermark_text_size' => 'Tamaño del texto',
 
-    'watermark_updated' => 'Watermark Updated',
+    'watermark_updated' => 'Marca de agua actualizada',
 
-    'watermark_updated_desc' => 'The watermark <b>%s</b> has been updated.',
+    'watermark_updated_desc' => 'La marca de agua <b>%s</b> ha sido actualizada.',
 
-    'watermarks' => 'Watermarks',
+    'watermarks' => 'Marcas de agua',
 
-    'watermarks_deleted' => 'Watermarks deleted',
+    'watermarks_deleted' => 'Marcas de agua eliminadas',
 
-    'watermarks_deleted_desc' => '%d watermarks were deleted.',
+    'watermarks_deleted_desc' => '%d marcas de agua fueron eliminadas.',
 
-    'watermarks_true_type' => 'Enable True Type?',
+    'watermarks_true_type' => '¿Habilitar verdadero tipo?',
 
-    'watermarks_true_type_desc' => 'When enabled, text watermarks will be rendered with True Type.',
+    'watermarks_true_type_desc' => 'Cuando está habilitado, las marcas de agua de texto serán renderizadas con True Type.',
 
     /* 2.x */
-    'choose_file' => 'Please choose a file to delete',
+    'choose_file' => 'Por favor, elija un archivo para eliminar',
 
-    'confirm_del_file' => 'Are you sure you wish to permanently delete this file?',
+    'confirm_del_file' => '¿Está seguro que desea eliminar permanentemente este archivo?',
 
-    'confirm_del_files' => 'Are you sure you wish to permanently delete these files?',
+    'confirm_del_files' => '¿Está seguro que desea eliminar permanentemente estos archivos?',
 
-    'content_files' => 'File Manager',
+    'content_files' => 'Gestor de archivos',
 
-    'create_new_upload_pref' => 'Create New Upload Destination',
+    'create_new_upload_pref' => 'Crear nuevo destino de subida',
 
-    'delete_fail' => 'There was a problem deleting one or more file(s). Please review the file list below.',
+    'delete_fail' => 'Hubo un problema al eliminar uno o más archivo(s). Por favor, revise la lista de archivos a continuación.',
 
-    'delete_selected_files' => 'Delete Selected Files',
+    'delete_selected_files' => 'Eliminar archivos seleccionados',
 
-    'delete_success' => 'Delete Successful',
+    'delete_success' => 'Eliminado con éxito',
 
-    'download_selected' => 'Download Selected Files',
+    'download_selected' => 'Descargar archivos seleccionados',
 
-    'edit_file' => 'Edit File',
+    'edit_file' => 'Editar archivo',
 
-    'email_files' => 'Email Selected Files',
+    'email_files' => 'Enviar Archivos Seleccionados',
 
-    'file_download' => 'Download',
+    'file_download' => 'Descargar',
 
-    'file_information' => 'File Information',
+    'file_information' => 'Información del archivo',
 
-    'file_metadata' => 'File Metadata',
+    'file_metadata' => 'Metadatos de archivo',
 
-    'file_name' => 'File Name',
+    'file_name' => 'Nombre del archivo',
 
-    'file_size' => 'File Size',
+    'file_size' => 'Tamaño del archivo',
 
     'file_size_unit' => 'KB',
 
-    'file_tools' => 'File Tools',
+    'file_tools' => 'Herramientas de archivo',
 
-    'file_upload' => 'File Upload',
+    'file_upload' => 'Subir archivo',
 
-    'file_upload_prefs' => 'File Upload Preferences',
+    'file_upload_prefs' => 'Preferencias de subida de archivos',
 
-    'image_editor' => 'Image Editor',
+    'image_editor' => 'Editor de imágenes',
 
-    'kind' => 'Kind',
+    'kind' => 'Amabilidad',
 
-    'image_manip_quality' => 'Quality',
+    'image_manip_quality' => 'Calidad',
 
-    'image_manip_quality_desc' => 'Final quality of image',
+    'image_manip_quality_desc' => 'Calidad final de la imagen',
 
-    'no_upload_dirs' => 'You have no upload directories defined',
+    'no_upload_dirs' => 'No tiene ningún directorio de subida definido',
 
-    'permissions' => 'Permissions',
+    'permissions' => 'Permisos',
 
-    'rename_file' => 'Rename File',
+    'rename_file' => 'Renombrar archivo',
 
-    'save_file' => 'Save File',
+    'save_file' => 'Guardar archivo',
 
-    'size' => 'Size',
+    'size' => 'Tamaño',
 
-    'upload' => 'Upload',
+    'upload' => 'Subir',
 
-    'upload_dir_choose' => 'Choose an upload directory',
+    'upload_dir_choose' => 'Elegir un directorio de subida',
 
-    'upload_edit' => 'Resize &amp; Rotate',
+    'upload_edit' => 'Redimensionar &amp; Rotar',
 
-    'upload_file' => 'Upload File',
+    'upload_file' => 'Subir archivo',
 
-    'upload_rename' => 'File Already Exists',
+    'upload_rename' => 'El archivo ya existe',
 
-    'upload_rename_message' => 'A file with that filename already exists. You can either choose a new name and the file will be renamed, or you can use the same name and the existing file will be overwritten.',
+    'upload_rename_message' => 'Ya existe un archivo con ese nombre de archivo. Puede elegir un nuevo nombre y el archivo será renombrado, o puede utilizar el mismo nombre y el archivo existente se sobrescribirá.',
 
-    'upload_success' => 'Upload Successful',
+    'upload_success' => 'Subida exitosa',
 
-    'where' => 'Where',
+    'where' => 'Donde',
 
     /* Upload modal */
-    'all_categories' => 'all categories',
+    'all_categories' => 'todas las categorías',
 
-    'all_filetypes' => 'All file types',
+    'all_filetypes' => 'Todos los tipos de archivo',
 
-    'allowed_types' => 'Allowed File Types',
+    'allowed_types' => 'Tipos de archivo permitidos',
 
-    'apply_changes' => 'Apply Changes',
+    'apply_changes' => 'Aplicar cambios',
 
-    'auto_batch' => 'Automatic Batch Upload',
+    'auto_batch' => 'Carga automática de lotes',
 
-    'batch_location' => 'Batch Upload Location',
+    'batch_location' => 'Ubicación de subida de lotes',
 
-    'batch_upload' => 'Batch Upload',
+    'batch_upload' => 'Carga por lotes',
 
-    'browse_files' => 'Browse Files',
+    'browse_files' => 'Navegar archivos',
 
-    'can_upload_files' => 'Can upload files',
+    'can_upload_files' => 'Puede subir archivos',
 
-    'cancel_changes' => 'Cancel Changes',
+    'cancel_changes' => 'Cancelar Cambios',
 
-    'cancel_crop' => 'Cancel Crop',
+    'cancel_crop' => 'Cancelar Cultivo',
 
-    'category_group' => 'Category Groups',
+    'category_group' => 'Grupos de categorías',
 
-    'category_groups' => 'File Category Groups',
+    'category_groups' => 'Grupos de categorías de archivos',
 
-    'category_groups_text' => 'Assign one or more category group to the file upload location',
+    'category_groups_text' => 'Asignar una o más categorías a la ubicación de subida de archivos',
 
-    'constrain' => 'Constrain',
+    'constrain' => 'Limitar',
 
-    'crop' => 'Crop',
+    'crop' => 'Recortar',
 
-    'crop_height' => 'Height',
+    'crop_height' => 'Altura',
 
-    'crop_mode' => 'Crop Mode',
+    'crop_mode' => 'Modo recorte',
 
     'crop_width' => 'Width',
 
@@ -617,284 +617,284 @@ $lang = array(
 
     'crop_y' => 'Y',
 
-    'current_upload_prefs' => 'Current Preferences',
+    'current_upload_prefs' => 'Preferencias actuales',
 
-    'custom_fields' => 'Custom Fields',
+    'custom_fields' => 'Campos personalizados',
 
-    'delete_upload_pref_confirmation' => 'Are you sure you want to permanently delete this preference?',
+    'delete_upload_pref_confirmation' => '¿Está seguro que desea eliminar permanentemente esta preferencia?',
 
-    'delete_upload_preference' => 'Delete Upload Preference',
+    'delete_upload_preference' => 'Eliminar Preferencia de Carga',
 
-    'dir_name' => 'Upload Directory Name',
+    'dir_name' => 'Subir nombre del directorio',
 
-    'directory' => 'Directory',
+    'directory' => 'Directorio',
 
-    'directory_manager' => 'Upload Directory Manager',
+    'directory_manager' => 'Cargar gestor de directorios',
 
-    'disallow_image' => 'Disallow Image',
+    'disallow_image' => 'No permitir imagen',
 
-    'done' => 'Exit',
+    'done' => 'Salir',
 
-    'edit_file_upload_preferences' => 'Edit File Upload Preferences',
+    'edit_file_upload_preferences' => 'Editar preferencias de subida de archivos',
 
-    'edit_image' => 'Edit Image',
+    'edit_image' => 'Editar imagen',
 
-    'edit_modes' => 'Edit Modes',
+    'edit_modes' => 'Editar modos',
 
-    'error_count' => 'Number of Errors',
+    'error_count' => 'Número de errores',
 
-    'errors' => 'Errors Encountered',
+    'errors' => 'Errores encontrados',
 
-    'exit_apply_changes' => 'You are about to exit this edit mode. Permanently apply changes first?',
+    'exit_apply_changes' => 'Estás a punto de salir de este modo de edición. ¿Primero aplicar los cambios?',
 
-    'file_count' => 'Number of Files',
+    'file_count' => 'Número de archivos',
 
     'file_directory_id' => 'ID',
 
-    'file_exists_replacement_error' => 'A file with this name already exists.',
+    'file_exists_replacement_error' => 'Ya existe un archivo con este nombre.',
 
-    'file_post_format' => 'File Post Formatting',
+    'file_post_format' => 'Formato de entrada de archivo',
 
-    'file_pre_format' => 'File Pre Formatting',
+    'file_pre_format' => 'Formato predefinido',
 
-    'file_properties' => 'File Properties',
+    'file_properties' => 'Propiedades del archivo',
 
-    'file_title' => 'File Title',
+    'file_title' => 'Título del archivo',
 
-    'file_types' => 'Types of Files',
+    'file_types' => 'Tipos de archivos',
 
-    'file_upload_preferences' => 'File Upload Preferences',
+    'file_upload_preferences' => 'Preferencias de subida de archivos',
 
-    'files_count_lang' => 'Currently showing %s out of %s total files.',
+    'files_count_lang' => 'Actualmente mostrando %s de un total de %s archivos.',
 
-    'files_processed' => 'Number of Files Processed',
+    'files_processed' => 'Número de archivos procesados',
 
-    'filter_by_directory' => 'Filter By Directory',
+    'filter_by_directory' => 'Filtrar por directorio',
 
-    'image_edit_success' => 'Image Successfully Edited',
+    'image_edit_success' => 'Imagen editada correctamente',
 
-    'image_sizes' => 'Image Manipulations',
+    'image_sizes' => 'Manipulaciones de imagen',
 
-    'image_sizes_rebuild' => 'New images will have all image manipulations automatically created for them. However, if you want to recreate image manipulations for existing images, check off the manipulations you want to recreate.',
+    'image_sizes_rebuild' => 'Las nuevas imágenes tendrán todas las manipulaciones de imagen automáticamente creadas para ellas. Sin embargo, si desea recrear las manipulaciones de imágenes para las imágenes existentes, marque las manipulaciones que desea recrear.',
 
-    'image_sizes_subtext' => 'Additional images that will be automatically created for each image upload.',
+    'image_sizes_subtext' => 'Imágenes adicionales que se crearán automáticamente para cada subida de imágenes.',
 
-    'image_tools' => 'Image Tools',
+    'image_tools' => 'Herramientas de imagen',
 
-    'images_only' => 'Images only',
+    'images_only' => 'Solo imágenes',
 
-    'list' => 'a list',
+    'list' => 'una lista',
 
-    'maintain_ratio' => 'Maintain Aspect Ratio',
+    'maintain_ratio' => 'Mantener relación de aspecto',
 
-    'manual_batch' => 'Manual Batch Upload',
+    'manual_batch' => 'Carga manual de lotes',
 
-    'max_height' => 'Maximum Image Height (in pixels)',
+    'max_height' => 'Altura máxima de imagen (en píxeles)',
 
-    'max_image_action' => 'Action to take if image size exceeded',
+    'max_image_action' => 'Acción a tomar si el tamaño de la imagen excedió',
 
-    'max_size' => 'Maximum File Size (in bytes)',
+    'max_size' => 'Tamaño máximo del archivo (en bytes)',
 
-    'max_width' => 'Maximum Image Width (in pixels)',
+    'max_width' => 'Ancho de imagen máximo (en píxeles)',
 
-    'member_group' => 'Member Group',
+    'member_group' => 'Grupo de miembros',
 
-    'new_file_upload_created' => 'New File Upload Created',
+    'new_file_upload_created' => 'Nueva carga de archivo creada',
 
-    'new_file_upload_preferences' => 'New File Upload Preferences',
+    'new_file_upload_preferences' => 'Nuevas preferencias de subida de archivos',
 
-    'no_assigned_category_groups' => 'No category groups have been assigned to be used by the File Manager.<br /><a href="%s" title="Assign Category Groups">Assign Category Groups</a>',
+    'no_assigned_category_groups' => 'No se han asignado grupos de categorías para ser utilizados por el Administrador de Archivos.<br /><a href="%s" title="Assign Category Groups">Asignar grupos de categorías</a>',
 
-    'no_change' => 'No change',
+    'no_change' => 'Sin cambios',
 
-    'no_edit_selected' => 'No Edit Operation Selected',
+    'no_edit_selected' => 'No hay Operación de Edición seleccionada',
 
-    'no_errors' => 'No errors',
+    'no_errors' => 'Sin errores',
 
-    'no_results' => 'No available member groups.',
+    'no_results' => 'No hay grupos de miembros disponibles.',
 
-    'no_sync_title' => 'No Results', // @todo, this phrase should change, just not sure what to put -ga
-    'no_upload_directories_for_fieldtype' => 'There are currently no upload directories available. Please <a href="%s" rel="external">add one or more upload directories</a> to use the File field type.',
+    'no_sync_title' => 'Sin resultados', // @todo, this phrase should change, just not sure what to put -ga
+    'no_upload_directories_for_fieldtype' => 'Actualmente no hay directorios de subida disponibles. Por favor, <a href="%s" rel="external">agregue uno o más directorios de subida</a> para utilizar el tipo de campo de archivo.',
 
-    'no_upload_dirs_available' => 'No upload locations available',
+    'no_upload_dirs_available' => 'No hay lugares de subida disponibles',
 
-    'no_upload_prefs' => 'There are currently no file upload preferences',
+    'no_upload_prefs' => 'Actualmente no hay preferencias de subida de archivos',
 
-    'pagination_count_text' => 'Showing %s to %s of %s files.',
+    'pagination_count_text' => 'Mostrando %s a %s de %s archivos.',
 
-    'pagination_filter_text' => 'Show files as %s',
+    'pagination_filter_text' => 'Mostrar archivos como %s',
 
-    'pagination_page' => 'Page',
+    'pagination_page' => 'Pgina',
 
-    'php_max_filesize' => 'Maximum upload size allowed by PHP is %s',
+    'php_max_filesize' => 'El tamaño máximo permitido por PHP es %s',
 
-    'please_add_upload' => 'There are currently no upload directories available. Please add one or more upload directories to use the File field type.',
+    'please_add_upload' => 'Actualmente no hay ningún directorio de subida disponible. Por favor, añade uno o más directorios de subida para usar el tipo de campo de archivo.',
 
-    'please_select' => 'Please Select&hellip',
+    'please_select' => 'Seleccione &ayuda',
 
-    'post_format' => 'Image Post Formatting',
+    'post_format' => 'Formato de entrada de imagen',
 
     'pre_format' => 'Image Pre Formatting',
 
-    'preferences_updated' => 'Preferences Updated',
+    'preferences_updated' => 'Preferencias actualizadas',
 
-    'processing_image' => 'Processing Image',
+    'processing_image' => 'Procesando imagen',
 
-    'properties' => 'Image Properties',
+    'properties' => 'Propiedades de la imagen',
 
-    'resize' => 'Resize',
+    'resize' => 'Cambiar tamaño',
 
-    'resize_height' => 'Height',
+    'resize_height' => 'Altura',
 
-    'resize_mode' => 'Resize Mode',
+    'resize_mode' => 'Redimensionar',
 
-    'resize_over_confirmation' => 'Resizing this image to a larger size than the source will result in a lower quality image. Are you sure you want to do that?',
+    'resize_over_confirmation' => 'Cambiar el tamaño de esta imagen a un tamaño mayor que la fuente dará como resultado una imagen de menor calidad. ¿Está seguro de que desea hacerlo?',
 
-    'resize_type' => 'Resize Type',
+    'resize_type' => 'Cambiar el tipo',
 
     'resize_width' => 'Width',
 
-    'restrict_notes_1' => 'These radio buttons let you to specify which Member Groups are allowed to upload files.',
+    'restrict_notes_1' => 'Estos botones de radio le permiten especificar qué Grupos de Miembros pueden subir archivos.',
 
-    'restrict_notes_2' => 'Super Admins can always upload files',
+    'restrict_notes_2' => 'Los Super Admins siempre pueden subir archivos',
 
-    'restrict_notes_3' => 'Note: File uploading is currently only allowed via the control panel',
+    'restrict_notes_3' => 'Nota: La carga de archivos sólo está permitida actualmente a través del panel de control',
 
-    'restrict_to_group' => 'Restrict file uploading to select member groups',
+    'restrict_to_group' => 'Restringir la carga de archivos para seleccionar grupos de miembros',
 
-    'rotate' => 'Rotate',
+    'rotate' => 'Rotar',
 
     'rotate_180' => '180&#176',
 
-    'rotate_90l' => '90 degrees, left',
+    'rotate_90l' => '90 grados, izquierda',
 
-    'rotate_90r' => '90 degrees, right',
+    'rotate_90r' => '90 grados, derecha',
 
-    'rotate_flip_hor' => 'Flip horizontally',
+    'rotate_flip_hor' => 'Girar horizontalmente',
 
-    'rotate_flip_vert' => 'Flip vertically',
+    'rotate_flip_vert' => 'Girar verticalmente',
 
-    'rotate_mode' => 'Rotate Mode',
+    'rotate_mode' => 'Modo de rotación',
 
-    'save_crop' => 'Save Crop',
+    'save_crop' => 'Guardar Recorte',
 
-    'save_image' => 'Save Image',
+    'save_image' => 'Guardar imagen',
 
-    'search_files' => 'Search Files',
+    'search_files' => 'Buscar archivos',
 
-    'search_in' => 'Search in',
+    'search_in' => 'Buscar en',
 
-    'server_path' => 'Server Path to Upload Directory',
+    'server_path' => 'Ruta del servidor para cargar directorio',
 
-    'short_name' => 'Short Name',
+    'short_name' => 'Nombre corto',
 
-    'sync_complete' => 'The file synchronization is complete.',
+    'sync_complete' => 'La sincronización de archivos está completa.',
 
-    'sync_progress' => 'Progress',
+    'sync_progress' => 'Progreso',
 
     'synchronize_directory' => 'Synchronize Directory',
 
     'thumbnails' => 'thumbnails',
 
-    'total_dir_size' => 'Total Directory Size:',
+    'total_dir_size' => 'Tamaño total del directorio:',
 
-    'upload_dir_dropdown' => '%s (%s files)',
+    'upload_dir_dropdown' => '%s (%s archivos)',
 
-    'upload_pref_deleted' => 'Upload Preference Deleted:',
+    'upload_pref_deleted' => 'Preferencia de subida eliminada:',
 
-    'upload_pref_name' => 'Descriptive name of upload directory',
+    'upload_pref_name' => 'Nombre descriptivo del directorio de subida',
 
-    'uploading_file' => 'Uploading File',
+    'uploading_file' => 'Subiendo archivo',
 
-    'url_to_upload_dir' => 'URL of Upload Directory',
+    'url_to_upload_dir' => 'URL del directorio de subida',
 
-    'use_file' => 'Use Uploaded File',
+    'use_file' => 'Usar archivo subido',
 
-    'width_needed' => 'A width or width/height must be selected, or a rotate/flip direction selected.',
+    'width_needed' => 'Una anchura o anchura/altura debe ser seleccionada, o una dirección girar/girar o girar hacia la dirección seleccionada.',
 
     /* Batch Page */
-    'caption' => 'Caption',
+    'caption' => 'Leyenda',
 
-    'include' => 'Include?',
+    'include' => '¿Incluir?',
 
     'thumbnail' => 'Thumbnail',
 
     /* Watermark */
-    'add_watermark' => 'None',
+    'add_watermark' => 'Ninguna',
 
-    'bot' => 'Bottom',
+    'bot' => 'Abajo',
 
-    'color_picker' => 'Color Picker',
+    'color_picker' => 'Selector de color',
 
-    'create_new_wm_pref' => 'Create New Watermark',
+    'create_new_wm_pref' => 'Crear nueva marca de agua',
 
-    'delete_watermark_pref_confirmation' => 'Delete Watermark Preference Confirmation',
+    'delete_watermark_pref_confirmation' => 'Borrar Confirmación de Preferencias de Marca de Agua',
 
-    'delete_wm_preference' => 'Delete Watermark Preference',
+    'delete_wm_preference' => 'Borrar Preferencia de Marca de Agua',
 
-    'mid' => 'Middle',
+    'mid' => 'Medio',
 
-    'watermark_pref_deleted' => 'Watermark Preference Deleted',
+    'watermark_pref_deleted' => 'Preferencia de Marca de Agua Eliminada',
 
-    'watermark_prefs' => 'Watermark Preferences',
+    'watermark_prefs' => 'Preferencias de Marca de Agua',
 
-    'wm_alignment' => 'Watermark Alignment',
+    'wm_alignment' => 'Alineación de marca de agua',
 
-    'wm_edit' => 'Edit Watermark',
+    'wm_edit' => 'Editar marca de agua',
 
     'wm_font' => 'Font',
 
-    'wm_font_color' => 'Text Color',
+    'wm_font_color' => 'Color del texto',
 
     'wm_font_size' => 'Font Size',
 
-    'wm_graphic' => 'Graphic Version',
+    'wm_graphic' => 'Versión gráfica',
 
-    'wm_hor_offset' => 'Horizontal Offset',
+    'wm_hor_offset' => 'Desplazamiento horizontal',
 
-    'wm_image_path' => 'Server Path to Watermark Image',
+    'wm_image_path' => 'Ruta del servidor a la imagen de marca de agua',
 
-    'wm_missing_font' => 'Unable to locate the specified font. Please check the path to your font.',
+    'wm_missing_font' => 'No se puede localizar la fuente especificada. Por favor, compruebe la ruta a su fuente.',
 
-    'wm_name' => 'Watermark Name',
+    'wm_name' => 'Nombre Marca de Agua',
 
-    'wm_name_taken' => 'Duplicate Name',
+    'wm_name_taken' => 'Nombre duplicado',
 
-    'wm_new' => 'Create Watermark',
+    'wm_new' => 'Crear marca de agua',
 
-    'wm_offset' => 'Watermark Offset',
+    'wm_offset' => 'Desplazamiento de Marca de Agua',
 
-    'wm_opacity' => 'Watermark Opacity',
+    'wm_opacity' => 'Marca de Agua Opacidad',
 
     'wm_padding' => 'Padding',
 
-    'wm_shadow_color' => 'Dropshadow Color',
+    'wm_shadow_color' => 'Color de la sombra',
 
-    'wm_shadow_distance' => 'Dropshadow Distance',
+    'wm_shadow_distance' => 'Distancia de la sombra',
 
-    'wm_test' => 'Test Watermark',
+    'wm_test' => 'Prueba de marca de agua',
 
-    'wm_test_explain' => 'The button below allows you to test your watermark preferences without leaving this page. In order to do so you must set the server path to a test image.',
+    'wm_test_explain' => 'El botón de abajo le permite probar sus preferencias de marca de agua sin salir de esta página. Para ello, debe establecer la ruta del servidor a una imagen de prueba.',
 
-    'wm_test_image_path' => 'Server Path to Test Image',
+    'wm_test_image_path' => 'Ruta del servidor a la imagen de prueba',
 
-    'wm_test_now' => 'Test Your Watermark Settings',
+    'wm_test_now' => 'Prueba tus ajustes de Marca de Agua',
 
-    'wm_text' => 'Watermark Text',
+    'wm_text' => 'Texto Marca de Agua',
 
-    'wm_type' => 'Watermark Type',
+    'wm_type' => 'Tipo de marca de agua',
 
-    'wm_use_drop_shadow' => 'Enable Dropshadow',
+    'wm_use_drop_shadow' => 'Activar Dropshadow',
 
     'wm_use_font' => 'Use True Type Font',
 
-    'wm_vrt_offset' => 'Vertical Offset',
+    'wm_vrt_offset' => 'Desplazamiento vertical',
 
-    'wm_watermark' => 'Watermark',
+    'wm_watermark' => 'Marca de agua',
 
-    'wm_x_transp' => 'Transparency X Coordinate',
+    'wm_x_transp' => 'Coordenada Transparencia X',
 
-    'wm_y_transp' => 'Transparency Y Coordinate',
+    'wm_y_transp' => 'Coordenada de transparencia Y',
 
 );
 
