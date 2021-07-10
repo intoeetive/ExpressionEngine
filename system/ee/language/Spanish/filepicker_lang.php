@@ -2,11 +2,11 @@
 
 $lang = array(
 
-    'filepicker_module_name' => 'FilePicker',
+    'filepicker_module_name' => 'Selector de archivos',
 
-    'list' => 'list',
+    'list' => 'lista',
 
-    'picker_type' => 'view as',
+    'picker_type' => 'ver como',
 
     'thumbnails' => 'thumbnails',
 
