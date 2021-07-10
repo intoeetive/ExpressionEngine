@@ -2,149 +2,149 @@
 
 $lang = array(
 
-    'all_email_sent_message' => 'All emails have been sent',
+    'all_email_sent_message' => 'Todos los correos han sido enviados',
 
-    'attachment' => 'Attachment',
+    'attachment' => 'Adjunto',
 
-    'attachment_problem' => 'There was a problem attaching your file.',
+    'attachment_problem' => 'Hubo un problema al adjuntar su archivo.',
 
-    'attachment_unavailable' => 'For attachments to be sent, an upload location needs to be defined.',
+    'attachment_unavailable' => 'Para que los archivos adjuntos sean enviados, una ubicación de subida debe ser definida.',
 
-    'attachment_warning' => 'Attachments are <strong>not saved</strong> by ExpressionEngine, and must be saved locally.',
+    'attachment_warning' => 'Los archivos adjuntos son <strong>no guardados</strong> por ExpressionEngine, y deben guardarse localmente.',
 
-    'batchmode_disabled' => 'Batch Mode is disabled',
+    'batchmode_disabled' => 'Modo de lote deshabilitado',
 
-    'batchmode_ready_to_begin' => 'The email sending routine will begin in five seconds',
+    'batchmode_ready_to_begin' => 'El correo electrónico de envío de rutina comenzará en cinco segundos',
 
-    'batchmode_warning' => 'Do not touch your browser until the process is completely finished!',
+    'batchmode_warning' => 'No toque su navegador hasta que el proceso esté completamente terminado!',
 
-    'batch_size_is_zero' => 'Batch mode enabled, but batch size is not set properly. Check your <a href="' . DOC_URL . '/general/system_configuration_overrides.html#email-batch-size" rel="external">Email Configuration Overrides</a> in your config file.',
+    'batch_size_is_zero' => 'Modo de lote activado, pero el tamaño del lote no está configurado correctamente. Comprueba tu <a href="' . DOC_URL . '/general/system_configuration_overrides.html#email-batch-size" rel="external">Configuración de correo electrónico reemplaza</a> en su archivo de configuración.',
 
-    'bcc' => 'BCC',
+    'bcc' => 'CCO',
 
-    'cache_data_missing' => 'The email cache data was not located.',
+    'cache_data_missing' => 'Los datos de la caché de correo electrónico no se han encontrado.',
 
     'cc' => 'CC',
 
-    'chars' => 'characters',
+    'chars' => 'caracteres',
 
     'complete' => 'Complete',
 
-    'currently_sending_batch' => 'Now sending emails %x through %y',
+    'currently_sending_batch' => 'Ahora enviando correos %x a %y',
 
-    'delete_confirm' => 'Delete Email Confirmation',
+    'delete_confirm' => 'Confirmación de eliminación de email',
 
-    'delete_emails' => 'Delete Email',
+    'delete_emails' => 'Eliminar Email',
 
-    'delete_question' => 'Are you sure you want to delete the specified email(s)?',
+    'delete_question' => '¿Está seguro de que desea eliminar el correo electrónico especificado?',
 
-    'dummy_location' => 'The email was output to: %s',
+    'dummy_location' => 'El correo electrónico fue enviado a: %s',
 
-    'email_date' => 'Date Sent',
+    'email_date' => 'Fecha de envío',
 
-    'email_deleted' => 'Email has been deleted',
+    'email_deleted' => 'El correo electrónico ha sido eliminado',
 
     'email_error' => 'Email error',
 
-    'email_sent_message' => 'Your email has been sent',
+    'email_sent_message' => 'Tu correo electrónico ha sido enviado',
 
-    'email_success' => 'Email Sent',
+    'email_success' => 'Correo enviado',
 
-    'email_title' => 'Email Title',
+    'email_title' => 'Título de Email',
 
-    'emails' => 'Emails',
+    'emails' => 'Correos',
 
-    'emails_remaining' => 'Emails Remaining:',
+    'emails_remaining' => 'Correos restantes:',
 
-    'empty_form_fields' => 'You left some fields empty.',
+    'empty_form_fields' => 'Has dejado algunos campos vacíos.',
 
-    'finish_sending' => 'Finish Sending',
+    'finish_sending' => 'Finalizar envío',
 
-    'high' => 'High',
+    'high' => 'Alta',
 
-    'highest' => 'Highest',
+    'highest' => 'Más alto',
 
-    'honor_email_pref' => 'Send only to members who have chosen to accept email',
+    'honor_email_pref' => 'Enviar sólo a los miembros que han elegido aceptar correo electrónico',
 
     'html' => 'HTML',
 
-    'incomplete' => 'Incomplete',
+    'incomplete' => 'Incompleto',
 
-    'low' => 'Low',
+    'low' => 'Baja',
 
-    'lowest' => 'Lowest',
+    'lowest' => 'Más bajo',
 
-    'mail_format' => 'Email Formatting',
+    'mail_format' => 'Formato de Email',
 
-    'manual_recipients_ignored' => 'The recipient field above will be ignored',
+    'manual_recipients_ignored' => 'El campo del destinatario de arriba será ignorado',
 
     'markdown' => 'Markdown',
 
-    'message' => 'Message',
+    'message' => 'Mensaje',
 
-    'no_cached_email' => 'No <b>cached emails</b> found.',
+    'no_cached_email' => 'No se encontraron <b>correos almacenados en caché</b>.',
 
-    'no_email_matching_criteria' => 'There were no email addresses matching the criteria you selected',
+    'no_email_matching_criteria' => 'No hubo direcciones de correo electrónico que coincidan con el criterio seleccionado',
 
     'normal' => 'Normal',
 
-    'not_allowed_to_email_cache' => 'You are not allowed to view the email cache.',
+    'not_allowed_to_email_cache' => 'No tienes permisos para ver la caché de correo electrónico.',
 
-    'not_allowed_to_email_member_groups' => 'You are not allowed to email Member Groups',
+    'not_allowed_to_email_member_groups' => 'No tienes permisos para enviar a los grupos de miembros',
 
-    'not_allowed_to_email_members' => 'You are not allowed to email members',
+    'not_allowed_to_email_members' => 'No tienes permisos para enviar a los miembros',
 
-    'off' => 'Off',
+    'off' => 'Apagado',
 
-    'on' => 'On',
+    'on' => 'En',
 
-    'plain_text' => 'Plain Text',
+    'plain_text' => 'Texto simple',
 
-    'plaintext_alt' => 'Alternate content for your <abbr title="Hyper-Text Markup Language">HTML</abbr> Email, will be delivered in Plain Text, when an Email application cannot render <abbr title="Hyper-Text Markup Language">HTML</abbr>.',
+    'plaintext_alt' => 'Contenido alternativo para su <abbr title="Hyper-Text Markup Language">HTML</abbr> Email, se entregará en texto simple, cuando una aplicación de correo electrónico no pueda renderizar <abbr title="Hyper-Text Markup Language">HTML</abbr>.',
 
-    'plaintext_body' => 'Plain text body',
+    'plaintext_body' => 'Cuerpo de texto simple',
 
-    'previous_email' => 'Previously Sent Email',
+    'previous_email' => 'Correo enviado previamente',
 
-    'priority' => 'Priority',
+    'priority' => 'Prioridad',
 
-    'problem_with_id' => 'A problem was encountered with the ID number needed to send emails',
+    'problem_with_id' => 'Se encontró un problema con el número de ID necesario para enviar correos electrónicos',
 
-    'recipient' => 'Recipient',
+    'recipient' => 'Destinatario',
 
-    'recipient_group' => 'Send to Member Groups',
+    'recipient_group' => 'Enviar a Grupos de Miembros',
 
-    'remove' => 'Remove',
+    'remove' => 'Eliminar',
 
-    'resend' => 'Re-send',
+    'resend' => 'Reenviar',
 
-    'search_emails_button' => 'Search Emails',
+    'search_emails_button' => 'Buscar correos',
 
-    'send_an_email' => 'Send an Email',
+    'send_an_email' => 'Enviar un Email',
 
-    'send_it' => 'Send it',
+    'send_it' => 'Enviarlo',
 
-    'sending_email' => 'Sending Email',
+    'sending_email' => 'Enviando Email',
 
-    'separate_emails_with_comma' => 'Separate multiple addresses with a comma',
+    'separate_emails_with_comma' => 'Separar varias direcciones con una coma',
 
-    'subject' => 'Subject',
+    'subject' => 'Asunto',
 
-    'text_formatting' => 'Text Formatting',
+    'text_formatting' => 'Formato de texto',
 
-    'total_emails_sent' => 'Total number of emails sent:',
+    'total_emails_sent' => 'Número total de correos enviados:',
 
-    'total_recipients' => 'Total Recipients',
+    'total_recipients' => 'Destinatarios totales',
 
-    'total_sent' => 'Total Sent',
+    'total_sent' => 'Total enviado',
 
-    'view' => 'View',
+    'view' => 'Ver',
 
-    'wordwrap' => 'Word Wrapping',
+    'wordwrap' => 'Envoltura de palabras',
 
-    'your_email' => 'Your email',
+    'your_email' => 'Tu email',
 
-    'your_name' => 'Your Name',
+    'your_name' => 'Tu nombre',
 
 );
 
