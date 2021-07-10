@@ -2,113 +2,113 @@
 
 $lang = array(
 
-    'all_pages' => 'All Pages',
+    'all_pages' => 'Todas las páginas',
 
-    'channel_entry' => 'Channel Entry',
+    'channel_entry' => 'Entrada del canal',
 
-    'choose_entry' => 'Choose Entry',
+    'choose_entry' => 'Elegir entrada',
 
-    'choose_template' => 'Choose Template for Displaying Page',
+    'choose_template' => 'Elegir plantilla para mostrar página',
 
-    'configuration_updated' => 'Configuration Updated',
+    'configuration_updated' => 'Configuración actualizada',
 
-    'create_entry' => 'Create Entry',
+    'create_entry' => 'Crear entrada',
 
-    'create_new' => 'Create New',
+    'create_new' => 'Crear nuevo',
 
-    'create_page' => 'Create New Page',
+    'create_page' => 'Crear nueva página',
 
-    'create_template' => 'Create Template',
+    'create_template' => 'Crear Plantilla',
 
-    'default_for_page_creation' => 'Default Channel for \'Create New Page\' Tab',
+    'default_for_page_creation' => 'Canal por defecto para la pestaña \'Crear nueva página\'',
 
-    'default_template' => 'Default Template',
+    'default_template' => 'Plantilla por defecto',
 
     'duplicate_page_uri' => 'Duplicate Page URI',
 
-    'edit_page' => 'Edit Page',
+    'edit_page' => 'Editar página',
 
-    'example_uri' => '/example/pages/uri/',
+    'example_uri' => '/example/paginas/uri/',
 
-    'filter_channels' => 'filter channels',
+    'filter_channels' => 'filtrar canales',
 
-    'invalid_page_name' => 'Invalid Page Name Submitted',
+    'invalid_page_name' => 'Nombre de página no válido',
 
-    'invalid_page_num_segs' => 'You have exceeded the number of allowed URI segments in the pages URL',
+    'invalid_page_num_segs' => 'Ha excedido el número de segmentos URI permitidos en la URL de las páginas',
 
     'invalid_page_uri' => 'Invalid Page URI',
 
-    'invalid_template' => 'You must select a valid template for displaying this page.',
+    'invalid_template' => 'Debe seleccionar una plantilla válida para mostrar esta página.',
 
-    'nested' => 'Nested',
+    'nested' => 'Anidado',
 
-    'no_default' => 'No Default',
+    'no_default' => 'Sin predeterminado',
 
-    'no_pages' => 'No Pages Currently Exist',
+    'no_pages' => 'Actualmente no existen páginas',
 
-    'not_nested' => 'Not Nested',
+    'not_nested' => 'No anidado',
 
-    'page' => 'Page',
+    'page' => 'Pgina',
 
-    'page_created' => 'Page Created',
+    'page_created' => 'Página creada',
 
-    'page_name' => 'Page Name',
+    'page_name' => 'Nombre de página',
 
-    'page_settings' => 'Page Settings',
+    'page_settings' => 'Ajustes de página',
 
-    'page_updated' => 'Page Updated',
+    'page_updated' => 'Página actualizada',
 
-    'page_url' => 'Page URL',
+    'page_url' => 'URL de página',
 
-    'pages_channel' => 'Channel',
+    'pages_channel' => 'Canal',
 
-    'pages_channel_desc' => 'Default channel for creating new pages.',
+    'pages_channel_desc' => 'Canal predeterminado para crear nuevas páginas.',
 
-    'pages_configuration' => 'Module Configuration',
+    'pages_configuration' => 'Configuración del módulo',
 
-    'pages_deleted_desc' => 'The following Page URLs were deleted',
+    'pages_deleted_desc' => 'Las siguientes URL de página fueron eliminadas',
 
-    'pages_display_on_homepage' => 'Display of URIs on Module Homepage',
+    'pages_display_on_homepage' => 'Mostrar URIs en la página principal del módulo',
 
-    'pages_display_urls' => 'Display of <abbr title="Unified Resource Locator">URL</abbr>s?',
+    'pages_display_urls' => '¿Mostrar <abbr title="Unified Resource Locator">URL</abbr>?',
 
-    'pages_display_urls_desc' => 'When set to <b>Nested</b>, <abbr title="Unified Resource Locator">URL</abbr>s will be displayed in a nested hierarchy.',
+    'pages_display_urls_desc' => 'Cuando se establece en <b>anidado</b>, <abbr title="Unified Resource Locator">URL</abbr>s se mostrará en una jerarquía anidada.',
 
-    'pages_homepage' => 'Pages Homepage',
+    'pages_homepage' => 'Página de inicio',
 
-    'pages_manager' => 'Pages Manager',
+    'pages_manager' => 'Gestor de páginas',
 
-    'pages_module_description' => 'Uses Channel Entries to make Static pages',
+    'pages_module_description' => 'Utiliza entradas del canal para crear páginas estáticas',
 
-    'pages_module_name' => 'Pages',
+    'pages_module_name' => 'Páginas',
 
-    'pages_no_default' => 'No default',
+    'pages_no_default' => 'Sin predeterminado',
 
-    'pages_settings' => 'Pages Settings',
+    'pages_settings' => 'Ajustes de páginas',
 
-    'pages_templates' => 'Templates',
+    'pages_templates' => 'Plantillas',
 
-    'pages_templates_desc' => 'Default templates for each channel.',
+    'pages_templates_desc' => 'Plantillas por defecto para cada canal.',
 
     'pages_uri' => 'Pages URI',
 
-    'pages_url_nested' => 'Nested',
+    'pages_url_nested' => 'Anidado',
 
-    'pages_url_not_nested' => 'Not Nested',
+    'pages_url_not_nested' => 'No anidado',
 
-    'parent_page' => 'Parent Page',
+    'parent_page' => 'Página padre',
 
-    'preference' => 'Preference',
+    'preference' => 'Preferencia',
 
-    'preference_name' => 'Preference Name',
+    'preference_name' => 'Nombre de preferencia',
 
-    'preference_value' => 'Preference Value',
+    'preference_value' => 'Valor de preferencia',
 
-    'setting' => 'Setting',
+    'setting' => 'Ajustes',
 
-    'template' => 'Template',
+    'template' => 'Plantilla',
 
-    'view_page' => 'View Page',
+    'view_page' => 'Ver página',
 
 );
 
