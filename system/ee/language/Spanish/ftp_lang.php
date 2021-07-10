@@ -2,29 +2,29 @@
 
 $lang = array(
 
-    'ftp_no_connection' => 'Unable to locate a valid connection ID. Please make sure you are connected before peforming any file routines.',
+    'ftp_no_connection' => 'No se ha podido encontrar un ID de conexión válido. Por favor, asegúrese de que está conectado antes de peformar cualquier ruta de archivo.',
 
-    'ftp_no_source_file' => 'Unable to locate the source file. Please check your path.',
+    'ftp_no_source_file' => 'No se ha podido encontrar el archivo de origen. Por favor, compruebe su ruta.',
 
-    'ftp_unable_to_changedir' => 'Unable to change directories.',
+    'ftp_unable_to_changedir' => 'No se pueden cambiar los directorios.',
 
-    'ftp_unable_to_chmod' => 'Unable to set file permissions. Please check your path. Note: This feature is only available in PHP 5 or higher.',
+    'ftp_unable_to_chmod' => 'No se puede establecer los permisos del archivo. Por favor, compruebe su ruta. Nota: Esta característica sólo está disponible en PHP 5 o superior.',
 
-    'ftp_unable_to_connect' => 'Unable to connect to your FTP server using the supplied hostname.',
+    'ftp_unable_to_connect' => 'No se puede conectar a su servidor FTP usando el nombre de host proporcionado.',
 
-    'ftp_unable_to_delete' => 'Unable to delete the file.',
+    'ftp_unable_to_delete' => 'No se puede eliminar el archivo.',
 
-    'ftp_unable_to_download' => 'Unable to download the specified file. Please check your path.',
+    'ftp_unable_to_download' => 'No se puede descargar el archivo especificado. Por favor, compruebe su ruta.',
 
-    'ftp_unable_to_login' => 'Unable to login to your FTP server. Please check your username and password.',
+    'ftp_unable_to_login' => 'No se puede iniciar sesión en su servidor FTP. Por favor, compruebe su nombre de usuario y contraseña.',
 
-    'ftp_unable_to_makdir' => 'Unable to create the directory you have specified.',
+    'ftp_unable_to_makdir' => 'No se puede crear el directorio especificado.',
 
-    'ftp_unable_to_move' => 'Unable to move the file. Please make sure the destination directory exists.',
+    'ftp_unable_to_move' => 'No se puede mover el archivo. Por favor, asegúrese de que el directorio de destino existe.',
 
-    'ftp_unable_to_rename' => 'Unable to rename the file.',
+    'ftp_unable_to_rename' => 'No se puede renombrar el archivo.',
 
-    'ftp_unable_to_upload' => 'Unable to upload the specified file. Please check your path.',
+    'ftp_unable_to_upload' => 'No se puede cargar el archivo especificado. Por favor, compruebe su ruta.',
 
 );
 
