@@ -2,169 +2,169 @@
 
 $lang = array(
 
-    'admin_notify_comment' => 'Admin &ndash; Comment(s) notification',
+    'admin_notify_comment' => 'Notificación de Admin &ndash; Comentario(s)',
 
-    'admin_notify_comment_desc' => 'This template defines the message that an admin receives when a comment is posted',
+    'admin_notify_comment_desc' => 'Esta plantilla define el mensaje que un administrador recibe cuando se publica un comentario',
 
-    'admin_notify_entry' => 'Admin &ndash; New Entry notification',
+    'admin_notify_entry' => 'Aviso de Admin &ndash; Nueva entrada',
 
-    'admin_notify_entry_desc' => 'This template defines the message that notification recipients receive when new channel entries are submitted.',
+    'admin_notify_entry_desc' => 'Esta plantilla define el mensaje que los destinatarios de las notificaciones reciben cuando se envían nuevas entradas del canal.',
 
-    'admin_notify_forum_post' => 'Admin &ndash; New forum post(s) notification',
+    'admin_notify_forum_post' => 'Admin &ndash; Nueva notificación(es) del foro',
 
-    'admin_notify_forum_post_desc' => 'This template defines the message that an admin receives when a new forum post is submitted',
+    'admin_notify_forum_post_desc' => 'Esta plantilla define el mensaje que un administrador recibe cuando se envía un nuevo mensaje del foro',
 
-    'admin_notify_reg' => 'Admin &ndash; New registration notification',
+    'admin_notify_reg' => 'Admin &ndash; Nueva notificación de registro',
 
-    'admin_notify_reg_desc' => 'This template defines the message that an admin receives when a new member has registered',
+    'admin_notify_reg_desc' => 'Esta plantilla define el mensaje que un administrador recibe cuando un nuevo miembro se ha registrado',
 
-    'available_variables' => 'The following variables can be used:',
+    'available_variables' => 'Se pueden utilizar las siguientes variables:',
 
-    'comment_notification' => 'User &ndash; Comment(s) notification',
+    'comment_notification' => 'Notificación de usuario &ndash; comentario(s)',
 
-    'comment_notification_desc' => 'This template defines the message that a user receives when someone has responded to their commment',
+    'comment_notification_desc' => 'Esta plantilla define el mensaje que un usuario recibe cuando alguien ha respondido a su comentario',
 
-    'comments_opened_notification' => 'User &ndash; Comment(s) added notification',
+    'comments_opened_notification' => 'Usuario &ndash; Comentario(s) notificación añadida',
 
-    'decline_member_validation' => 'User &ndash; Account declined notification',
+    'decline_member_validation' => 'Usuario &ndash; Cuenta rechazada la notificación',
 
-    'email_changed_notification' => 'User &ndash; Email changed notification',
+    'email_changed_notification' => 'Usuario &ndash; Correo electrónico cambiado de notificación',
 
-    'email_changed_notification_desc' => 'This template defines the message a user receives when their email address was changed.',
+    'email_changed_notification_desc' => 'Esta plantilla define el mensaje que un usuario recibe cuando cambió su dirección de correo electrónico.',
 
-    'email_message' => 'Email Message',
+    'email_message' => 'Mensaje de email',
 
-    'email_subject' => 'Email Subject',
+    'email_subject' => 'Asunto de Email',
 
-    'email_title' => 'Email Title',
+    'email_title' => 'Título de Email',
 
-    'forgot_password_instructions' => 'User &ndash; Forgotten password instructions',
+    'forgot_password_instructions' => 'Usuario &ndash; Instrucciones de contraseña olvidadas',
 
-    'forgot_password_instructions_desc' => 'This template defines the instructions that a user who has forgotten their password receives',
+    'forgot_password_instructions_desc' => 'Esta plantilla define las instrucciones que un usuario que ha olvidado su contraseña recibe',
 
-    'forum_announcements' => 'Announcements',
+    'forum_announcements' => 'Anuncios',
 
-    'forum_archives' => 'Archives',
+    'forum_archives' => 'Archivos',
 
     'forum_atom' => 'Atom',
 
-    'forum_breadcrumb' => 'Breadcrumb',
+    'forum_breadcrumb' => 'migas de pan',
 
-    'forum_category' => 'Category',
+    'forum_category' => 'Categoría',
 
     'forum_css' => 'CSS',
 
-    'forum_delete_post' => 'Delete Post',
+    'forum_delete_post' => 'Eliminar mensaje',
 
-    'forum_emoticons' => 'Emoticons',
+    'forum_emoticons' => 'Emoticonos',
 
     'forum_error' => 'Error',
 
     'forum_global' => 'Global',
 
-    'forum_ignore' => 'Ignore',
+    'forum_ignore' => 'Ignorar',
 
-    'forum_index' => 'Index',
+    'forum_index' => 'Índice',
 
     'forum_javascript' => 'JavaScript',
 
-    'forum_legends' => 'Legends',
+    'forum_legends' => 'Leyendas',
 
-    'forum_login' => 'Login',
+    'forum_login' => 'Ingresar',
 
-    'forum_member' => 'Member',
+    'forum_member' => 'Miembro',
 
-    'forum_merge' => 'Merge',
+    'forum_merge' => 'Combinar',
 
-    'forum_moderation_notification' => 'User &ndash; Forum thread moderation notification',
+    'forum_moderation_notification' => 'Notificación de moderación de hilos de usuario &ndash; Foro',
 
-    'forum_moderation_notification_desc' => 'This template defines notifications that members receive when their forum topic is moved, split, or merged by a moderator',
+    'forum_moderation_notification_desc' => 'Esta plantilla define las notificaciones que los miembros reciben cuando su tema del foro es movido, dividido o combinado por un moderador',
 
-    'forum_move_reply' => 'Move Reply',
+    'forum_move_reply' => 'Mover respuesta',
 
-    'forum_move_topic' => 'Move Topic',
+    'forum_move_topic' => 'Mover tema',
 
-    'forum_offline' => 'Offline',
+    'forum_offline' => 'Desconectado',
 
-    'forum_poll' => 'Poll',
+    'forum_poll' => 'Encuesta',
 
-    'forum_post_notification' => 'User &ndash; New forum post(s) notification',
+    'forum_post_notification' => 'Notificación de usuario &ndash; nuevas publicaciones en el foro',
 
-    'forum_post_notification_desc' => 'This template defines the message that a user receives when someone has responded to their forum post',
+    'forum_post_notification_desc' => 'Esta plantilla define el mensaje que un usuario recibe cuando alguien ha respondido a su publicación del foro',
 
-    'forum_report' => 'Report',
+    'forum_report' => 'Reporte',
 
-    'forum_report_notification' => 'Moderator &ndash; Forum post reported notification',
+    'forum_report_notification' => 'Moderador &ndash; Mensaje del foro reportado',
 
-    'forum_report_notification_desc' => 'This template defines notifications that moderators receive when a user reports a forum post',
+    'forum_report_notification_desc' => 'Esta plantilla define las notificaciones que los moderadores reciben cuando un usuario reporta un mensaje del foro',
 
-    'forum_rss' => 'Rss',
+    'forum_rss' => 'Bruto',
 
-    'forum_search' => 'Search',
+    'forum_search' => 'Buscar',
 
-    'forum_split' => 'Split',
+    'forum_split' => 'Dividir',
 
-    'forum_stats' => 'Stats',
+    'forum_stats' => 'Estadísticas',
 
-    'forum_submission' => 'Submission',
+    'forum_submission' => 'Envío',
 
-    'forum_threads' => 'Threads',
+    'forum_threads' => 'Hilos',
 
-    'forum_topics' => 'Topics',
+    'forum_topics' => 'Temas',
 
-    'forum_user_banning' => 'User Banning',
+    'forum_user_banning' => 'Baneo de usuario',
 
-    'mbr_activation_instructions' => 'User &ndash; Account activation instructions',
+    'mbr_activation_instructions' => 'Instrucciones de activación de usuario &ndash; cuenta',
 
-    'mbr_activation_instructions_desc' => 'This template defines the member activation instructions that are sent to people who register at this site',
+    'mbr_activation_instructions_desc' => 'Esta plantilla define las instrucciones de activación de los miembros que se envían a las personas que se registran en este sitio',
 
-    'message_body' => 'Email Message Body',
+    'message_body' => 'Cuerpo de mensajes de correo',
 
-    'notification_has_char_limit' => 'Most of the above variables accept a char_limit parameter: {title char_limit="40"}',
+    'notification_has_char_limit' => 'La mayoría de las variables anteriores aceptan un parámetro char_limite: {title char_limit="40"}',
 
-    'password_changed_notification' => 'User &ndash; Password changed notification',
+    'password_changed_notification' => 'Notificación de usuario &ndash; contraseña cambiada',
 
-    'password_changed_notification_desc' => 'This template defines the message a user receives when their password was changed on the front end.',
+    'password_changed_notification_desc' => 'Esta plantilla define el mensaje que un usuario recibe cuando su contraseña fue cambiada en el front-end.',
 
-    'pm_inbox_full' => 'User &ndash; Inbox full notification',
+    'pm_inbox_full' => 'Notificación completa del usuario &ndash; Bandeja de entrada',
 
-    'pm_inbox_full_desc' => 'This template defines the message that a user receives when they are not able to receive Private Messages due to a full InBox',
+    'pm_inbox_full_desc' => 'Esta plantilla define el mensaje que un usuario recibe cuando no puede recibir mensajes privados debido a un buzón completo',
 
-    'private_message_notification' => 'User &ndash; Private message notification',
+    'private_message_notification' => 'Notificación de mensaje de usuario &ndash; privado',
 
-    'private_message_notification_desc' => 'This template defines the message that a user receives when someone has sent them a Private Message',
+    'private_message_notification_desc' => 'Esta plantilla define el mensaje que un usuario recibe cuando alguien le ha enviado un mensaje privado',
 
-    'profile_account' => 'Account',
+    'profile_account' => 'Cuenta',
 
-    'profile_breadcrumb' => 'Breadcrumb',
+    'profile_breadcrumb' => 'migas de pan',
 
-    'profile_bulletin_board' => 'Bulletin Board',
+    'profile_bulletin_board' => 'Boletín',
 
-    'profile_common' => 'Common',
+    'profile_common' => 'Común',
 
-    'profile_email' => 'Email',
+    'profile_email' => 'E-mail',
 
-    'profile_member' => 'Member',
+    'profile_member' => 'Miembro',
 
-    'profile_private_messages' => 'Private Messages',
+    'profile_private_messages' => 'Mensajes privados',
 
-    'profile_profile' => 'Profile',
+    'profile_profile' => 'Perfil',
 
-    'profile_registration' => 'Registration',
+    'profile_registration' => 'Registro',
 
-    'profile_subscriptions' => 'Subscriptions',
+    'profile_subscriptions' => 'Suscripciones',
 
-    'use_this_template' => 'Enable This Template?',
+    'use_this_template' => '¿Habilitar esta plantilla?',
 
-    'use_this_template_exp' => 'If disabled, this template will not be used. Instead, the message will be generated dynamically in each user\'s chosen language',
+    'use_this_template_exp' => 'Si está deshabilitado, esta plantilla no se utilizará. En su lugar, el mensaje se generará dinámicamente en el idioma elegido por cada usuario',
 
-    'user_messages_template_desc' => 'The purpose of this template is to show error and other messages to users after they perform certain actions, like logging in, submitting a form, etc.',
+    'user_messages_template_desc' => 'El propósito de esta plantilla es mostrar errores y otros mensajes a los usuarios después de realizar ciertas acciones, como iniciar sesión, enviar un formulario, etc.',
 
-    'user_messages_template_warning' => 'Do not delete any of the five required variables:',
+    'user_messages_template_warning' => 'No eliminar ninguna de las cinco variables requeridas:',
 
-    'validated_member_notify' => 'User &ndash; Account validation notification',
+    'validated_member_notify' => 'Notificación de validación de usuario &ndash; cuenta',
 
-    'validated_member_notify_desc' => 'This template defines the notification that members receive when an admin has validated their membership account',
+    'validated_member_notify_desc' => 'Esta plantilla define la notificación que los miembros reciben cuando un administrador ha validado su cuenta de miembro',
 
 );
 
