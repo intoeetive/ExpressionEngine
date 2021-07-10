@@ -3,827 +3,827 @@
 $lang = array(
 
     /* Menu */
-    'access_throttling' => 'Access Throttling',
+    'access_throttling' => 'Lanzamiento de Acceso',
 
-    'avatars' => 'Avatars',
+    'avatars' => 'Avatares',
 
     'captcha' => 'CAPTCHA',
 
-    'comment_settings' => 'Comment Settings',
+    'comment_settings' => 'Ajustes del comentario',
 
-    'consent_requests' => 'Consent Requests',
+    'consent_requests' => 'Solicitudes de consentimiento',
 
-    'content_and_design' => 'Content & Design',
+    'content_and_design' => 'Contenido y diseño',
 
-    'debugging_output' => 'Debugging & Output',
+    'debugging_output' => 'Depuración y salida',
 
     'general' => 'General',
 
-    'general_settings' => 'General Settings',
+    'general_settings' => 'Configuración General',
 
-    'settings' => 'Settings',
+    'settings' => 'Ajustes',
 
-    'hit_tracking' => 'Hit Tracking',
+    'hit_tracking' => 'Golpear seguimiento',
 
-    'html_buttons' => 'HTML Buttons',
+    'html_buttons' => 'Botones HTML',
 
-    'members' => 'Members',
+    'members' => 'Miembros',
 
-    'menu_manager' => 'Menu Manager',
+    'menu_manager' => 'Gestor de Menús',
 
-    'messages' => 'Messages',
+    'messages' => 'Mensajes',
 
-    'outgoing_email' => 'Outgoing Email',
+    'outgoing_email' => 'Correo saliente',
 
-    'email_settings' => 'Email Settings',
+    'email_settings' => 'Ajustes de Email',
 
-    'pages_settings' => 'Pages Settings',
+    'pages_settings' => 'Ajustes de páginas',
 
-    'security_privacy' => 'Security & Privacy',
+    'security_privacy' => 'Seguridad y privacidad',
 
-    'system_settings' => 'System Settings',
+    'system_settings' => 'Ajustes del sistema',
 
-    'template_settings' => 'Template Settings',
+    'template_settings' => 'Ajustes de Plantilla',
 
-    'upload_directories' => 'Upload Directories',
+    'upload_directories' => 'Subir Directorios',
 
-    'url_path_settings' => 'URL and Path Settings',
+    'url_path_settings' => 'Configuración de URL y ruta',
 
-    'word_censoring' => 'Word Censoring',
+    'word_censoring' => 'Censurar palabras',
 
     /* General Settings */
-    '12_hour' => '12-hour with AM/PM',
+    '12_hour' => '12 horas con AM/PM',
 
-    '24_hour' => '24-hour',
+    '24_hour' => '24 horas',
 
     'auto' => 'Auto',
 
-    'btn_save_settings' => 'Save Settings',
+    'btn_save_settings' => 'Guardar ajustes',
 
-    'check_now' => 'Check now',
+    'check_now' => 'Comprobar ahora',
 
-    'date_time_fmt' => 'Date &amp; time format',
+    'date_time_fmt' => 'Formato de fecha &amp; hora',
 
-    'date_time_settings' => 'Date &amp; Time Settings',
+    'date_time_settings' => 'Fecha &amp; Ajustes de hora',
 
-    'defaults' => 'Defaults',
+    'defaults' => 'Por defecto',
 
-    'enable_msm' => 'Enable Site Manager (MSM)?',
+    'enable_msm' => '¿Habilitar Administrador de Sitio (MSM)?',
 
-    'enable_msm_desc' => 'When enabled, Super Admins and member groups with permissions will be able to manage additional websites from the <abbr title="Control Panel">CP</abbr>.',
+    'enable_msm_desc' => 'Cuando está habilitado, los Super Admins y los grupos de miembros con permisos podrán administrar sitios web adicionales desde <abbr title="Control Panel">CP</abbr>.',
 
-    'error_getting_version' => 'You are using ExpressionEngine %s. Unable to determine if a newer version is available at this time.',
+    'error_getting_version' => 'Estás usando ExpressionEngine %s. No se puede determinar si una nueva versión está disponible en este momento.',
 
-    'include_seconds' => 'Show seconds?',
+    'include_seconds' => '¿Mostrar segundos?',
 
-    'include_seconds_desc' => 'When enabled, date output will include seconds for display.',
+    'include_seconds_desc' => 'Cuando está habilitado, la fecha de salida incluirá segundos para mostrar.',
 
-    'language' => 'Language',
+    'language' => 'Idioma',
 
     'manual' => 'Manual',
 
-    'show_ee_news' => 'Show ExpressionEngine news?',
+    'show_ee_news' => '¿Mostrar noticias de ExpressionEngine?',
 
-    'show_ee_news_desc' => 'When enabled, the latest news about ExpressionEngine will appear on the control panel\'s homepage.',
+    'show_ee_news_desc' => 'Cuando está activado, las últimas noticias sobre ExpressionEngine aparecerán en la página principal del panel de control.',
 
-    'site_default' => 'Use site default',
+    'site_default' => 'Usar sitio por defecto',
 
-    'site_name' => 'Name',
+    'site_name' => 'Nombre',
 
-    'site_online' => 'Website online?',
+    'site_online' => 'Sitio web en línea?',
 
-    'site_online_desc' => 'When disabled, only Super Admins and member groups with permissions will be able to browse your website.',
+    'site_online_desc' => 'Cuando esté deshabilitado, sólo los Super Admins y los grupos de miembros con permisos podrán navegar por su sitio web.',
 
-    'site_short_name' => 'Short name',
+    'site_short_name' => 'Nombre corto',
 
-    'site_short_name_taken' => 'This short name is already taken.',
+    'site_short_name_taken' => 'Este nombre corto ya está en uso.',
 
     'timezone' => 'Timezone',
 
-    'version_autocheck' => 'New version auto check',
+    'version_autocheck' => 'Verificación automática de nueva versión',
 
-    'version_autocheck_desc' => 'When set to <b>auto</b>, ExpressionEngine will automatically check for newer versions of the software.',
+    'version_autocheck_desc' => 'Cuando se establece en <b>auto</b>, ExpressionEngine comprobará automáticamente si hay nuevas versiones del software.',
 
     /* URLs and Path Settings */
-    'base_path' => 'Default base path',
+    'base_path' => 'Ruta base predeterminada',
 
-    'base_path_desc' => 'Use <code>{base_path}</code> to build paths in control panel path fields.',
+    'base_path_desc' => 'Use <code>{base_path}</code> para construir rutas en los campos de ruta del panel de control.',
 
-    'base_url' => 'Default base URL',
+    'base_url' => 'URL base por defecto',
 
-    'base_url_desc' => 'Use <code>{base_url}</code> to build URLs in control panel URL fields.',
+    'base_url_desc' => 'Utilice <code>{base_url}</code> para construir URLs en los campos URL del panel de control.',
 
-    'category_segment_trigger' => 'Category <abbr title="Uniform Resource Location">URL</abbr> segment',
+    'category_segment_trigger' => 'Categoría <abbr title="Uniform Resource Location">URL</abbr> segmento',
 
-    'category_segment_trigger_desc' => 'Word that triggers category display. <b>Cannot</b> be the same as a template or template group.',
+    'category_segment_trigger_desc' => 'Palabra que activa la visualización de categorías. <b>No puede</b> ser la misma que una plantilla o grupo de plantillas.',
 
-    'category_url' => 'Category <abbr title="Uniform Resource Location">URL</abbr>',
+    'category_url' => 'Categoría <abbr title="Uniform Resource Location">URL</abbr>',
 
-    'category_url_desc' => 'When set to <b>titles</b>, category links will use category <abbr title="Uniform Resource Location">URL</abbr> titles instead of the category ids.',
+    'category_url_desc' => 'Cuando se establece en <b>títulos</b>, los enlaces de categoría usarán títulos de la categoría <abbr title="Uniform Resource Location">URL</abbr> en lugar de los ID de categoría.',
 
     'category_url_opt_ids' => 'IDs',
 
-    'category_url_opt_titles' => 'Titles',
+    'category_url_opt_titles' => 'Titulos',
 
-    'cp_url' => 'URL to your Control Panel index page',
+    'cp_url' => 'URL a su página de índice del Panel de Control',
 
-    'cp_url_desc' => '<abbr title="Uniform Resource Location">URL</abbr> location of your control panel.',
+    'cp_url_desc' => '<abbr title="Uniform Resource Location">URL</abbr> ubicación de su panel de control.',
 
-    'docs_url' => 'Documentation directory',
+    'docs_url' => 'Directorio de documentos',
 
-    'docs_url_desc' => '<abbr title="Uniform Resource Location">URL</abbr> location of your <code>documentation</code> directory.',
+    'docs_url_desc' => '<abbr title="Uniform Resource Location">URL</abbr> ubicación de su directorio <code>documentación</code>.',
 
-    'member_segment_trigger' => 'Member profile <abbr title="Uniform Resource Location">URL</abbr> segment',
+    'member_segment_trigger' => 'Perfil de miembro <abbr title="Uniform Resource Location">URL</abbr> segmento',
 
-    'member_segment_trigger_desc' => 'Word that triggers member profile display. <b>Cannot</b> be the same as a template or template group.',
+    'member_segment_trigger_desc' => 'Palabra que activa la visualización del perfil de los miembros. <b>No puede</b> ser la misma que una plantilla o grupo de plantillas.',
 
-    'site_index' => 'Website index page',
+    'site_index' => 'Página de índice del sitio web',
 
-    'site_index_desc' => 'Most commonly <code>index.php</code>.',
+    'site_index_desc' => 'Más comúnmente <code>index.php</code>.',
 
-    'site_url' => 'Website root directory',
+    'site_url' => 'Directorio raíz del sitio web',
 
-    'site_url_desc' => '<abbr title="Uniform Resource Location">URL</abbr> location of your <code>index.php</code>.',
+    'site_url_desc' => '<abbr title="Uniform Resource Location">URL</abbr> ubicación de tu <code>index.php</code>.',
 
-    'themes_path' => 'Themes path',
+    'themes_path' => 'Ruta de temas',
 
-    'themes_path_desc' => 'Full path location of your <code>themes</code> directory.',
+    'themes_path_desc' => 'Ubicación completa de la ruta de tu directorio de <code>temas</code>.',
 
-    'invalid_theme_folder_path' => 'This field must contain a valid path to ExpressionEngine <code>themes</code> directory, which is normally <code>{base_path}/themes</code>.',
+    'invalid_theme_folder_path' => 'Este campo debe contener una ruta válida al directorio de <code>temas</code> de ExpressionEngine, que normalmente es <code>{base_path}/themes</code>.',
 
-    'themes_url' => 'Themes directory URL',
+    'themes_url' => 'URL del directorio de temas',
 
-    'themes_url_desc' => '<abbr title="Uniform Resource Location">URL</abbr> location of your <code>themes</code> directory.',
+    'themes_url_desc' => '<abbr title="Uniform Resource Location">URL</abbr> ubicación de tu directorio de <code>temas</code>.',
 
-    'url_path_settings_title' => '<abbr title="Uniform Resource Location">URL</abbr> and Path Settings',
+    'url_path_settings_title' => '<abbr title="Uniform Resource Location">URL</abbr> y configuración de ruta',
 
-    'url_title_separator' => '<abbr title="Uniform Resource Location">URL</abbr> title separator',
+    'url_title_separator' => '<abbr title="Uniform Resource Location">URL</abbr> separador de título',
 
-    'url_title_separator_desc' => 'Character used to separate words in generated <abbr title="Uniform Resource Location">URL</abbr>s, <code>hyphens (-)</code> are recommended.',
+    'url_title_separator_desc' => 'Se recomienda el carácter utilizado para separar palabras en <abbr title="Uniform Resource Location">URL</abbr>generada, <code>guiones (-)</code>.',
 
-    'url_title_separator_opt_hyphen' => 'Hyphen (different-words)',
+    'url_title_separator_opt_hyphen' => 'Hifen (palabras diferentes)',
 
-    'url_title_separator_opt_under' => 'Underscore (different_words)',
+    'url_title_separator_opt_under' => 'Puntuación (diferentes palabras)',
 
     /* Outgoing Email */
-    'email_charset' => 'Character encoding',
+    'email_charset' => 'Codificación de caracteres',
 
-    'email_charset_desc' => 'Email requires character encoding to be properly formatted. UTF-8 is recommended.',
+    'email_charset_desc' => 'El correo electrónico requiere que la codificación de caracteres esté correctamente formateada. Se recomienda UTF-8.',
 
-    'email_newline' => 'Email Newline character',
+    'email_newline' => 'Carácter de nueva línea de correo',
 
-    'email_newline_desc' => '\\\\n provides the widest compatibility; if this setting does not work for you, refer to your email provider for instructions.',
+    'email_newline_desc' => '\\\\n proporciona la compatibilidad más amplia; si esta configuración no funciona para usted, consulte a su proveedor de correo electrónico para obtener instrucciones.',
 
-    'email_smtp_crypto' => 'Connection type',
+    'email_smtp_crypto' => 'Tipo de conexión',
 
-    'email_smtp_crypto_desc' => 'Refer to your SMTP provider for instructions.',
+    'email_smtp_crypto_desc' => 'Consulte a su proveedor SMTP para obtener instrucciones.',
 
-    'empty_stmp_fields' => 'This field is required for SMTP.',
+    'empty_stmp_fields' => 'Este campo es obligatorio para SMTP.',
 
     'html' => 'HTML',
 
-    'mail_format' => 'Mail format',
+    'mail_format' => 'Formato de correo',
 
-    'mail_format_desc' => 'Format that Emails are sent in. Plain Text is recommended.',
+    'mail_format_desc' => 'Formato que se envían los correos electrónicos. Se recomienda texto plano.',
 
     'mail_protocol' => 'Protocol',
 
-    'mail_protocol_desc' => 'Preferred Email sending protocol. SMTP is recommended.',
+    'mail_protocol_desc' => 'Protocolo de envío de correo electrónico preferido. Se recomienda SMTP.',
 
-    'php_mail' => 'PHP mail',
+    'php_mail' => 'Correo PHP',
 
-    'plain_text' => 'Plain Text',
+    'plain_text' => 'Texto simple',
 
-    'sending_options' => 'Sending Options',
+    'sending_options' => 'Opciones de envío',
 
-    'sendmail' => 'Sendmail',
+    'sendmail' => 'Enviar correo',
 
     'smtp' => 'SMTP',
 
-    'smtp_options' => 'SMTP Options',
+    'smtp_options' => 'Opciones SMTP',
 
-    'smtp_port' => 'Server port',
+    'smtp_port' => 'Puerto del servidor',
 
-    'smtp_server' => 'Server address',
+    'smtp_server' => 'Dirección del servidor',
 
-    'smtp_server_desc' => 'URL location of your <code>SMTP server</code>.',
+    'smtp_server_desc' => 'Ubicación de la URL de su <code>servidor SMTP</code>.',
 
     'ssl' => 'SSL (ssl://)',
 
     'tls' => 'STARTTLS',
 
-    'unencrypted' => 'Unencrypted (not recommended)',
+    'unencrypted' => 'No cifrado (no recomendado)',
 
-    'webmaster_email' => 'Address',
+    'webmaster_email' => 'Dirección',
 
-    'webmaster_email_desc' => 'Email address you want automated Email to come from. Without this, automated Email will likely be marked as spam.',
+    'webmaster_email_desc' => 'Dirección de correo electrónico de la que desea que provenga el correo electrónico automatizado. Sin esto, es probable que el correo electrónico automatizado se marque como spam.',
 
-    'webmaster_name' => 'From name',
+    'webmaster_name' => 'De nombre',
 
-    'webmaster_name_desc' => 'Name you want automated Emails to use.',
+    'webmaster_name_desc' => 'Nombre que desea que los correos electrónicos automatizados usen.',
 
-    'word_wrap' => 'Enable word-wrapping?',
+    'word_wrap' => '¿Habilitar envoltura de palabras?',
 
-    'word_wrap_desc' => 'When enabled, the system will wrap long lines of text to a more readable width.',
+    'word_wrap_desc' => 'Cuando está activado, el sistema envuelve largas líneas de texto a un ancho más legible.',
 
     /* Debugging & Output */
-    'caching_driver' => 'Caching Driver',
+    'caching_driver' => 'Controlador de caché',
 
-    'caching_driver_desc' => 'Caches can be stored in either a file-based or memory-based driver.',
+    'caching_driver_desc' => 'Los cachés pueden almacenarse en un controlador basado en archivos o en memoria.',
 
-    'caching_driver_failover' => 'Cannot connect to %s, using %s driver instead.',
+    'caching_driver_failover' => 'No se puede conectar a %susando %s controlador en su lugar.',
 
-    'caching_driver_file_fail' => 'Cannot use %s driver, check cache path permissions.',
+    'caching_driver_file_fail' => 'No se puede utilizar el controlador %s , compruebe los permisos de ruta de caché.',
 
     'debug_0' => 'Hidden',
 
-    'debug_1' => 'Shown to Super Admins only (recommended)',
+    'debug_1' => 'Mostrar sólo a Super Admins (recomendado)',
 
-    'debug_2' => 'Visible to everyone (not secure)',
+    'debug_2' => 'Visible para todos (no seguro)',
 
-    'disable_caching' => 'Disable Caching',
+    'disable_caching' => 'Desactivar Caché',
 
-    'enable_devlog_alerts' => 'Enable Developer Log Alerts?',
+    'enable_devlog_alerts' => '¿Habilitar alertas de registro del desarrollador?',
 
-    'enable_devlog_alerts_desc' => 'When enabled, Super Admins will see control panel alerts when new <a href="%s">Developer Log</a> items need action. Currently <b>%s item(s)</b> are logged.',
+    'enable_devlog_alerts_desc' => 'Cuando está activado, los Super Admins verán alertas del panel de control cuando los nuevos elementos del <a href="%s">Registro de desarrollador</a> necesitan acción. Actualmente <b>%s elemento(s)</b> están registrados.',
 
     'enable_errors' => 'Error Visibility',
 
-    'enable_errors_desc' => 'Determines who can see PHP/MySQL errors when they occur.',
+    'enable_errors_desc' => 'Determina quién puede ver los errores de PHP/MySQL cuando ocurren.',
 
-    'force_query_string' => 'Force <abbr title="Uniform Resource Location">URL</abbr> query strings?',
+    'force_query_string' => '¿Forzar <abbr title="Uniform Resource Location">URL</abbr> cadenas de consulta?',
 
-    'force_query_string_desc' => 'When enabled, servers that do not support <code>PATH_INFO</code> will use query string URLs instead.',
+    'force_query_string_desc' => 'Cuando está activado, los servidores que no soporten <code>PATH_INFO</code> usarán URLs de cadena de consulta en su lugar.',
 
-    'gzip_output' => 'Enable <abbr title="GNU Zip Compression">GZIP</abbr> compression?',
+    'gzip_output' => '¿Habilitar compresión <abbr title="GNU Zip Compression">GZIP</abbr>?',
 
-    'gzip_output_desc' => 'When enabled, your website will be compressed using GZIP compression, this will decrease page load times.',
+    'gzip_output_desc' => 'Cuando está activado, su sitio web será comprimido usando compresión GZIP, esto reducirá los tiempos de carga de la página.',
 
     'max_caches' => 'Cachable <abbr title="Uniform Resource Identifier">URI</abbr>s',
 
-    'max_caches_desc' => 'If you cache your pages or database, this limits the number of cache instances. We recommend 150 for small sites and 300 for large sites. The allowed maximum is 1000.',
+    'max_caches_desc' => 'Si almacena en caché sus páginas o base de datos, esto limita el número de instancias de caché. Recomendamos 150 sitios pequeños y 300 para sitios grandes.',
 
-    'new_relic' => 'New Relic Options',
+    'new_relic' => 'Nuevas opciones Relic',
 
-    'newrelic_app_name' => 'New Relic application name',
+    'newrelic_app_name' => 'Nuevo nombre de la aplicación Relic',
 
-    'newrelic_app_name_desc' => 'Changes the name of the application that appears in the New Relic dashboard for this installation of ExpressionEngine.',
+    'newrelic_app_name_desc' => 'Cambia el nombre de la aplicación que aparece en el nuevo panel Relic para esta instalación de ExpressionEngine.',
 
-    'output_options' => 'Output Options',
+    'output_options' => 'Opciones de salida',
 
-    'redirect_method' => 'Redirection type',
+    'redirect_method' => 'Tipo de redirección',
 
-    'redirect_method_desc' => 'Indicates type of page redirection the system will use for <code>{redirect=\'\'}</code> and other built in redirections.',
+    'redirect_method_desc' => 'Indica el tipo de redirección de página que utilizará el sistema para <code>{redirect=\'\'}</code> y otras redirecciones incorporadas.',
 
-    'redirect_method_opt_location' => 'Location (fastest)',
+    'redirect_method_opt_location' => 'Ubicación (más rápida)',
 
-    'redirect_method_opt_refresh' => 'Refresh (Windows only)',
+    'redirect_method_opt_refresh' => 'Actualizar (sólo Windows)',
 
-    'send_headers' => 'Use <abbr title="Hypertext Transfer Protocol">HTTP</abbr> page headers?',
+    'send_headers' => '¿Usar <abbr title="Hypertext Transfer Protocol">HTTP</abbr> encabezados de página?',
 
-    'send_headers_desc' => 'When enabled, your website will generate <abbr title="Hypertext Transfer Protocol">HTTP</abbr> headers for all pages.',
+    'send_headers_desc' => 'Cuando está activado, tu sitio web generará encabezados <abbr title="Hypertext Transfer Protocol">HTTP</abbr> para todas las páginas.',
 
-    'show_profiler' => 'Enable debugging?',
+    'show_profiler' => '¿Habilitar depuración?',
 
-    'show_profiler_desc' => 'When enabled, Super Admins will see benchmark results, all SQL queries, and submitted form data displayed at the bottom of the browser window.',
+    'show_profiler_desc' => 'Cuando está activado, Super Admins verá resultados de pruebas de rendimiento, todas las consultas SQL, y los datos de formulario enviados mostrados en la parte inferior de la ventana del navegador.',
 
-    'use_newrelic' => 'Enable New Relic RUM JavaScript?',
+    'use_newrelic' => '¿Habilitar nuevo JavaScript RUM Relic?',
 
-    'use_newrelic_desc' => 'When enabled, New Relic will add <a href="https://docs.newrelic.com/docs/browser/new-relic-browser/page-load-timing-resources/instrumentation-browser-monitoring" rel="external">Real User Monitoring JavaScript</a> to all of your web pages.',
+    'use_newrelic_desc' => 'Cuando está activado, Nueva Relic añadirá <a href="https://docs.newrelic.com/docs/browser/new-relic-browser/page-load-timing-resources/instrumentation-browser-monitoring" rel="external">JavaScript de seguimiento real</a> a todas sus páginas web.',
 
     /* Content & Design */
-    'auto_assign_cat_parents' => 'Assign category parents?',
+    'auto_assign_cat_parents' => '¿Asignar padres de categoría?',
 
-    'auto_assign_cat_parents_desc' => 'When enabled, ExpressionEngine will automatically set the parent category when choosing a child category.',
+    'auto_assign_cat_parents_desc' => 'Cuando está activado, ExpressionEngine automáticamente establecerá la categoría padre cuando elija una categoría hija.',
 
-    'categories_section' => 'Categories',
+    'categories_section' => 'Categorías',
 
-    'channel_manager' => 'Channel Manager',
+    'channel_manager' => 'Gestor de canales',
 
     'emoticon_url' => '<abbr title="Unified Resource Locator">URL</abbr>',
 
-    'emoticon_url_desc' => '<abbr title="Unified Resource Locator">URL</abbr> location of the <code>emoticon</code> directory.',
+    'emoticon_url_desc' => '<abbr title="Unified Resource Locator">URL</abbr> ubicación del directorio <code>emoticono</code>.',
 
-    'emoticons' => 'Emoticons',
+    'emoticons' => 'Emoticonos',
 
-    'enable_emoticons' => 'Enable emoticons?',
+    'enable_emoticons' => '¿Habilitar emoticones?',
 
-    'enable_emoticons_desc' => 'When enabled, text based emoticons like <samp>;)</samp> will be converted to emoji &#x1F609;.',
+    'enable_emoticons_desc' => 'Cuando está activado, los emoticonos basados en texto como <samp>;)</samp> se convertirán en emoji &#x1F609;.',
 
-    'enable_sql_caching' => 'Cache dynamic channel queries?',
+    'enable_sql_caching' => '¿Cachear consultas dinámicas de canales?',
 
-    'enable_sql_caching_desc' => 'When enabled, the speed of dynamic channel pages will be improved. do <b>not</b> use if you need the "future entries" or "expiring entries" features.',
+    'enable_sql_caching_desc' => 'Cuando está activado, se mejorará la velocidad de las páginas dinámicas de canales. <b>no</b> use si necesita las características de "entradas futuras" o "entradas caducantes".',
 
     'gd' => 'GD',
 
     'gd2' => 'GD 2',
 
-    'image_library_path' => 'Converter path',
+    'image_library_path' => 'Ruta de conversión',
 
-    'image_library_path_desc' => 'Full path location of the <code>image program</code>.</em><br /><em><b>Required</b> for ImageMagick and NetPBM.',
+    'image_library_path_desc' => 'Ubicación completa de la ruta del programa de imágenes <code></code>.</em><br /><em><b>Requerida</b> para ImageMagick y NetPBM.',
 
     'image_resize_protocol' => 'Protocol',
 
-    'image_resize_protocol_desc' => 'Ask your web host for server compatibility.',
+    'image_resize_protocol_desc' => 'Pregunte a su servidor web por compatibilidad con el servidor.',
 
-    'image_resizing' => 'Image Resizing',
+    'image_resizing' => 'Redimensionar imagen',
 
     'imagemagick' => 'ImageMagick',
 
-    'invalid_image_library_path' => 'This field must contain a valid path to an image processing library if ImageMagick or NetPBM is the selected protocol.',
+    'invalid_image_library_path' => 'Este campo debe contener una ruta válida a una biblioteca de procesamiento de imágenes si ImageMagick o NetPBM es el protocolo seleccionado.',
 
     'netpbm' => 'NetPBM',
 
-    'new_posts_clear_caches' => 'Clear cache for new entries?',
+    'new_posts_clear_caches' => '¿Borrar caché para nuevas entradas?',
 
-    'new_posts_clear_caches_desc' => 'When enabled, all caches will be cleared when authors publish new entries.',
+    'new_posts_clear_caches_desc' => 'Cuando se activa, todos los cachés se borrarán cuando los autores publiquen nuevas entradas.',
 
     'thumbnail_suffix' => 'Thumbnail suffix',
 
-    'thumbnail_suffix_desc' => 'Added to all auto-generated thumbnails. <b>Example</b>: photo_thumb.jpg',
+    'thumbnail_suffix_desc' => 'Añadido a todas las miniaturas generadas automáticamente. <b>Ejemplo</b>: photo_delet.jpg',
 
     /* Comment Settings */
-    'all_comments' => 'All Comments',
+    'all_comments' => 'Todos los comentarios',
 
-    'comment_edit_time_limit' => 'Comment edit time limit (in seconds)',
+    'comment_edit_time_limit' => 'Editar comentario límite de tiempo (en segundos)',
 
-    'comment_edit_time_limit_desc' => 'Length of time that a user can edit their own comments, from submission. Use <b>0</b> for no limit.',
+    'comment_edit_time_limit_desc' => 'Duración del tiempo que un usuario puede editar sus propios comentarios, desde el envío. Use <b>0</b> para sin límite.',
 
-    'comment_moderation_override' => 'Moderate after comments expire?',
+    'comment_moderation_override' => '¿Moderar después de que caduquen los comentarios?',
 
-    'comment_moderation_override_desc' => 'When enabled, comments made on an entry with comments expired will be submitted as closed and require review by a moderator.',
+    'comment_moderation_override_desc' => 'Cuando está habilitado, los comentarios realizados en una entrada con comentarios caducados serán enviados como cerrados y requieren revisión por un moderador.',
 
-    'comment_word_censoring' => 'Enable word censoring?',
+    'comment_word_censoring' => '¿Habilitar censura de palabras?',
 
-    'comment_word_censoring_desc' => 'When enabled, commenting will use the <a href="%s">word censoring</a> filters.',
+    'comment_word_censoring_desc' => 'Cuando está habilitado, los comentarios usarán <a href="%s">filtros de censura de palabras</a>.',
 
-    'enable_comments' => 'Enable comment module?',
+    'enable_comments' => '¿Habilitar módulo de comentarios?',
 
-    'enable_comments_desc' => 'When enabled, channels will be able to use the comment module.',
+    'enable_comments_desc' => 'Cuando esté habilitado, los canales podrán utilizar el módulo de comentarios.',
 
-    'options' => 'Options',
+    'options' => 'Opciones',
 
     /* Template Settings */
-    'max_tmpl_revisions' => 'Maximum revisions?',
+    'max_tmpl_revisions' => '¿Revisiones máximas?',
 
-    'max_tmpl_revisions_desc' => 'Number of revisions stored in the database for each template. We recommend this be a low number, as this can cause you to have a larger than normal database.',
+    'max_tmpl_revisions_desc' => 'Número de revisiones almacenadas en la base de datos para cada plantilla. Recomendamos que sea un número bajo, ya que esto puede causar que tenga una base de datos más grande de lo normal.',
 
-    'save_tmpl_files' => 'Save templates as files?',
+    'save_tmpl_files' => '¿Guardar plantillas como archivos?',
 
-    'save_tmpl_files_desc' => 'When set to yes, ExpressionEngine will store your templates as files on your server.',
+    'save_tmpl_files_desc' => 'Cuando se establece en si, ExpressionEngine almacenará sus plantillas como archivos en su servidor.',
 
-    'save_tmpl_revisions' => 'Save template revisions?',
+    'save_tmpl_revisions' => '¿Guardar revisiones de plantillas?',
 
-    'save_tmpl_revisions_desc' => 'When enabled, ExpressionEngine will save template revisions in the database, up to the maximum specified.',
+    'save_tmpl_revisions_desc' => 'Cuando está habilitado, ExpressionEngine guardará las revisiones de plantillas en la base de datos, hasta el máximo especificado.',
 
-    'site_404' => '404 page',
+    'site_404' => 'Página 404',
 
-    'site_404_desc' => 'Template to be used as the 404 error page.',
+    'site_404_desc' => 'Plantilla a utilizar como página de error 404.',
 
-    'strict_urls' => 'Enable strict <abbr title="Uniform Resource Location">URL</abbr>s?',
+    'strict_urls' => '¿Habilitar URL estricta <abbr title="Uniform Resource Location"></abbr>?',
 
-    'strict_urls_desc' => 'When enabled, ExpressioneEngine will apply stricter rules to <abbr title="Uniform Resource Location">URL</abbr> handling.',
+    'strict_urls_desc' => 'Cuando está activado, ExpressioneEngine aplicará reglas más estrictas a la gestión de <abbr title="Uniform Resource Location">URL</abbr>.',
 
-    'template_manager' => 'Template Manager',
+    'template_manager' => 'Gestor de plantillas',
 
     /* Hit Tracking */
-    'dynamic_tracking_disabling' => 'Suspend threshold?',
+    'dynamic_tracking_disabling' => '¿Suspender el umbral?',
 
-    'dynamic_tracking_disabling_desc' => 'All tracking will be suspended when the number of online visitors exceeds this number.</em> <em>Online user tracking must be enabled to use this feature. <a href="%s" ref="external">Learn more</a>',
+    'dynamic_tracking_disabling_desc' => 'Todo el seguimiento se suspenderá cuando el número de visitantes en línea supere este número.</em> <em>El seguimiento de usuarios en línea debe estar habilitado para utilizar esta función. <a href="%s" ref="external">Más información</a>',
 
-    'enable_entry_view_tracking' => 'Enable entry view tracking?',
+    'enable_entry_view_tracking' => '¿Habilitar seguimiento de la vista de entrada?',
 
-    'enable_entry_view_tracking_desc' => 'When enabled, ExpressionEngine will count how many times a channel entry is viewed.',
+    'enable_entry_view_tracking_desc' => 'Cuando está activado, ExpressionEngine contará cuántas veces se ve una entrada de canal.',
 
-    'enable_hit_tracking' => 'Enable template hit tracking?',
+    'enable_hit_tracking' => '¿Habilitar seguimiento de teclas de plantilla?',
 
-    'enable_hit_tracking_desc' => 'When enabled, ExpressionEngine will count how many times a template is viewed.',
+    'enable_hit_tracking_desc' => 'Cuando está activado, ExpressionEngine contará cuántas veces se ve una plantilla.',
 
-    'enable_online_user_tracking' => 'Enable online user tracking?',
+    'enable_online_user_tracking' => '¿Habilitar seguimiento de usuario en línea?',
 
-    'enable_online_user_tracking_desc' => 'When enabled, ExpressionEngine will track logged in users.',
+    'enable_online_user_tracking_desc' => 'Cuando está activado, ExpressionEngine rastreará a los usuarios conectados.',
 
-    'log_referrers' => 'Enable referrer tracking?',
+    'log_referrers' => '¿Habilitar rastreo del remitente?',
 
-    'log_referrers_desc' => 'When enabled, ExpressionEngine will track all incoming links.',
+    'log_referrers_desc' => 'Cuando está activado, ExpressionEngine rastreará todos los enlaces entrantes.',
 
-    'max_referrers' => 'Maximum recent referrers to save',
+    'max_referrers' => 'Número máximo de referentes recientes a guardar',
 
     /* Word Censoring */
-    'censor_replacement' => 'Replacement characters',
+    'censor_replacement' => 'Caracteres de reemplazo',
 
-    'censor_replacement_desc' => 'Words that match any word in the words to censor list will be replaced with these characters.',
+    'censor_replacement_desc' => 'Las palabras que coincidan con cualquier palabra en la lista de censores serán reemplazadas por estos caracteres.',
 
-    'censored_words' => 'Words to censor',
+    'censored_words' => 'Palabras a censurar',
 
-    'censored_words_desc' => 'One word per line. All words listed will be replaced with the above specified characters.',
+    'censored_words_desc' => 'Una palabra por línea. Todas las palabras listadas serán reemplazadas por los caracteres especificados anteriormente.',
 
-    'enable_censoring' => 'Enable censorship?',
+    'enable_censoring' => '¿Habilitar censura?',
 
-    'enable_censoring_desc' => 'When enabled, words listed will be replaced with the specified replacement characters.',
+    'enable_censoring_desc' => 'Cuando está habilitado, las palabras listadas serán reemplazadas por los caracteres de reemplazo especificados.',
 
     /* Member Settings */
-    'allow_member_localization' => 'Allow members to set time preferences?',
+    'allow_member_localization' => '¿Permitir a los miembros establecer preferencias de tiempo?',
 
-    'allow_member_localization_desc' => 'When enabled, members will be able to set a specific time and date localization for their account.',
+    'allow_member_localization_desc' => 'Cuando esté habilitado, los miembros podrán establecer una fecha y hora específica para su cuenta.',
 
-    'allow_member_registration' => 'Allow registrations?',
+    'allow_member_registration' => '¿Permitir registros?',
 
-    'allow_member_registration_desc' => 'When enabled, users will be able to register member accounts.',
+    'allow_member_registration_desc' => 'Cuando esté habilitado, los usuarios podrán registrar cuentas de miembros.',
 
-    'approved_member_notification' => 'Notify members when approved?',
+    'approved_member_notification' => '¿Notificar miembros cuando sean aprobados?',
 
-    'approved_member_notification_desc' => 'When enabled, members will receive an email notification when their member registration is approved.',
+    'approved_member_notification_desc' => 'Cuando esté habilitado, los miembros recibirán una notificación por correo electrónico cuando el registro de sus miembros sea aprobado.',
 
-    'declined_member_notification' => 'Notify members when declined?',
+    'declined_member_notification' => '¿Notificar a los miembros cuando han sido rechazados?',
 
-    'declined_member_notification_desc' => 'When enabled, members will receive an email notification when their member registration is declined.',
+    'declined_member_notification_desc' => 'Cuando esté habilitado, los miembros recibirán una notificación por correo electrónico cuando el registro de sus miembros sea rechazado.',
 
-    'default_primary_role' => 'Default primary Role',
+    'default_primary_role' => 'Rol primario por defecto',
 
-    'mbr_notification_emails' => 'Notification recipients',
+    'mbr_notification_emails' => 'Destinatarios de notificaciones',
 
-    'mbr_notification_emails_desc' => 'Separate multiple Emails with a comma.',
+    'mbr_notification_emails_desc' => 'Separe varios correos electrónicos con una coma.',
 
-    'member_listing_settings' => 'Member Listing Settings',
+    'member_listing_settings' => 'Configuración de lista de miembros',
 
-    'member_settings' => 'Member Settings',
+    'member_settings' => 'Configuración de miembros',
 
-    'member_theme' => 'Member profile theme',
+    'member_theme' => 'Tema del perfil de miembro',
 
-    'member_theme_desc' => 'Default theme used for member profiles.',
+    'member_theme_desc' => 'Tema predeterminado usado para los perfiles de miembros.',
 
-    'memberlist_order_by' => 'Sort by',
+    'memberlist_order_by' => 'Ordenar por',
 
-    'memberlist_order_by_desc' => 'Sorting type for the member listing.',
+    'memberlist_order_by_desc' => 'Tipo de orden para el listado de miembros.',
 
-    'memberlist_order_by_opt_entries' => 'Total entries',
+    'memberlist_order_by_opt_entries' => 'Total de entradas',
 
-    'memberlist_row_limit' => 'Total results',
+    'memberlist_row_limit' => 'Resultados totales',
 
-    'memberlist_row_limit_desc' => 'Total returned results per page for the member listing.',
+    'memberlist_row_limit_desc' => 'Total de resultados devueltos por página para el listado de miembros.',
 
-    'memberlist_sort_order' => 'Order by',
+    'memberlist_sort_order' => 'Ordenar por',
 
-    'memberlist_sort_order_desc' => 'Sorting order for the member listing.',
+    'memberlist_sort_order_desc' => 'Orden ordenada para el listado de miembros.',
 
-    'memberlist_sort_order_opt_asc' => 'Ascending (A-Z/Oldest-Newest)',
+    'memberlist_sort_order_opt_asc' => 'Ascendente (A-Z/Mayor-Más Nuevo)',
 
-    'memberlist_sort_order_opt_desc' => 'Descending (Z-A/Newest-Oldest)',
+    'memberlist_sort_order_opt_desc' => 'Descendente (Z-A/más reciente)',
 
-    'new_member_notification' => 'Enable new member notifications?',
+    'new_member_notification' => '¿Habilitar notificaciones de nuevos miembros?',
 
-    'new_member_notification_desc' => 'When enabled, the following Email addresses will be notified anytime a new registration occurs.',
+    'new_member_notification_desc' => 'Cuando está habilitado, las siguientes direcciones de correo electrónico serán notificadas en cualquier momento en que se produzca un nuevo registro.',
 
-    'registration_notify_settings' => 'Registration Notification Settings',
+    'registration_notify_settings' => 'Configuración de notificación de registro',
 
-    'req_mbr_activation' => 'Account activation type',
+    'req_mbr_activation' => 'Tipo de activación de cuenta',
 
-    'req_mbr_activation_desc' => 'Choose how you want users to activate their registrations.',
+    'req_mbr_activation_desc' => 'Elija cómo desea que los usuarios activen sus registros.',
 
-    'req_mbr_activation_opt_email' => 'Send activation Email',
+    'req_mbr_activation_opt_email' => 'Enviar email de activación',
 
-    'req_mbr_activation_opt_manual' => 'Manually moderated by administrator',
+    'req_mbr_activation_opt_manual' => 'Moderado manualmente por el administrador',
 
-    'req_mbr_activation_opt_none' => 'No activation required',
+    'req_mbr_activation_opt_none' => 'No es necesaria la activación',
 
-    'require_terms_of_service' => 'Require terms of service?',
+    'require_terms_of_service' => '¿Requiere condiciones de servicio?',
 
-    'require_terms_of_service_desc' => 'When enabled, users must agree to terms of service during registration.',
+    'require_terms_of_service_desc' => 'Cuando está activado, los usuarios deben aceptar los términos de servicio durante el registro.',
 
     /* Menu Manager */
-    'add_menu_item' => 'Add Menu Item',
+    'add_menu_item' => 'Añadir elemento de menú',
 
-    'assigned_to' => 'assigned to',
+    'assigned_to' => 'asignado a',
 
-    'create_menu_item' => 'Create Menu Item',
+    'create_menu_item' => 'Crear elemento de menú',
 
-    'create_menu_set' => 'Create Menu Set',
+    'create_menu_set' => 'Crear Menú',
 
-    'edit_menu_item' => 'Edit Menu Item',
+    'edit_menu_item' => 'Editar elemento de menú',
 
-    'edit_menu_set' => 'Edit Menu Set',
+    'edit_menu_set' => 'Editar conjunto de menú',
 
-    'menu_addon' => 'Add-On',
+    'menu_addon' => 'Añadido',
 
-    'menu_addon' => 'Add-On',
+    'menu_addon' => 'Añadido',
 
-    'menu_addon_desc' => 'Navigation from installed Add-Ons',
+    'menu_addon_desc' => 'Navegación desde complementos instalados',
 
-    'menu_dropdown' => 'Dropdown',
+    'menu_dropdown' => 'Soltar',
 
-    'menu_items' => 'Menu Items',
+    'menu_items' => 'Elementos de menú',
 
-    'menu_items_desc' => 'Manage this menu sets contents',
+    'menu_items_desc' => 'Administrar contenidos de este menú',
 
-    'menu_label' => 'Name',
+    'menu_label' => 'Nombre',
 
-    'menu_label_desc' => 'Link label',
+    'menu_label_desc' => 'Enlace etiqueta',
 
-    'menu_no_addons' => 'No <b>Add-ons with menus</b> found.',
+    'menu_no_addons' => 'No se han encontrado <b>complementos con menús</b>.',
 
-    'menu_options' => 'Menu Options',
+    'menu_options' => 'Opciones de menú',
 
-    'menu_set' => 'Menu Set',
+    'menu_set' => 'Menú Set',
 
-    'menu_set_created' => 'Menu Set Created',
+    'menu_set_created' => 'Menú creado',
 
-    'menu_set_created_desc' => 'The menu set <b>%s</b> has been updated.',
+    'menu_set_created_desc' => 'El conjunto de menús <b>%s</b> ha sido actualizado.',
 
-    'menu_set_updated' => 'Menu Set Updated',
+    'menu_set_updated' => 'Conjunto de menú actualizado',
 
-    'menu_set_updated_desc' => 'The menu set <b>%s</b> has been updated.',
+    'menu_set_updated_desc' => 'El conjunto de menús <b>%s</b> ha sido actualizado.',
 
-    'menu_sets' => 'Menu Sets',
+    'menu_sets' => 'Conjunto de menú',
 
-    'menu_sets_deleted' => 'Menu Sets deleted',
+    'menu_sets_deleted' => 'Conjuntos de menú eliminados',
 
-    'menu_sets_deleted_desc' => '%d menu sets were deleted.',
+    'menu_sets_deleted_desc' => '%d conjuntos de menú fueron eliminados.',
 
-    'menu_single' => 'Single Link',
+    'menu_single' => 'Enlace único',
 
-    'menu_type' => 'Type',
+    'menu_type' => 'Tipo',
 
     'menu_url' => '<abbr title="Uniform Resource Locator">URL</abbr>',
 
-    'menu_url_desc' => 'Link <abbr title="Uniform Resource Locator">URL</abbr>',
+    'menu_url_desc' => 'Enlace <abbr title="Uniform Resource Locator">URL</abbr>',
 
-    'no_menu_items' => 'No <b>Menu Items</b> found.',
+    'no_menu_items' => 'No se encontraron <b>Artículos de menú</b>.',
 
-    'set_assigned' => 'Assigned',
+    'set_assigned' => 'Asignado',
 
-    'set_roles' => 'Member role(s)?',
+    'set_roles' => '¿Rol (s)?',
 
-    'set_roles_desc' => 'Choose the role(s) to apply this menu to.',
+    'set_roles_desc' => 'Seleccione el/los rol(es) a los que aplicar este menú.',
 
-    'set_name' => 'Name',
+    'set_name' => 'Nombre',
 
     'submenu' => 'Submenu',
 
-    'submenu_desc' => 'Links in dropdown',
+    'submenu_desc' => 'Enlaces en el menú desplegable',
 
     /* Messages */
-    'attachment_settings' => 'Attachment Settings',
+    'attachment_settings' => 'Configuración de adjuntos',
 
-    'html_all' => 'All HTML (not recommended)',
+    'html_all' => 'Todo HTML (no recomendado)',
 
-    'html_none' => 'Convert HTML',
+    'html_none' => 'Convertir HTML',
 
-    'html_safe' => 'Safe HTML only',
+    'html_safe' => 'Sólo HTML seguro',
 
-    'messaging_settings' => 'Messaging Settings',
+    'messaging_settings' => 'Ajustes de mensajería',
 
-    'prv_msg_attach_maxsize' => 'Maximum file size (<abbr title="kilobyte">kb</abbr>)',
+    'prv_msg_attach_maxsize' => 'Tamaño máximo de archivo (<abbr title="kilobyte">kb</abbr>)',
 
-    'prv_msg_attach_maxsize_desc' => 'Maximum allowed file size per attachment in personal messages.',
+    'prv_msg_attach_maxsize_desc' => 'Máximo tamaño de archivo por archivo adjunto en mensajes personales.',
 
-    'prv_msg_attach_total' => 'Maximum total file size (<abbr title="megabyte">mb</abbr>)',
+    'prv_msg_attach_total' => 'Tamaño máximo del archivo (<abbr title="megabyte">mb</abbr>)',
 
-    'prv_msg_attach_total_desc' => 'Maximum allowed file size for all attachments for each member.',
+    'prv_msg_attach_total_desc' => 'Tamaño máximo de archivo permitido para todos los archivos adjuntos de cada miembro.',
 
-    'prv_msg_auto_links' => 'Convert <abbr title="Uniform Resource Location">URL</abbr>s and Emails into links?',
+    'prv_msg_auto_links' => '¿Convierte <abbr title="Uniform Resource Location">URL</abbr>y correos electrónicos en enlaces?',
 
-    'prv_msg_auto_links_desc' => 'When enabled, All <abbr title="Uniform Resource Location">URL</abbr>s and Emails will be auto converted into hyper links.',
+    'prv_msg_auto_links_desc' => 'Cuando está activado, todos los <abbr title="Uniform Resource Location">URL</abbr>y correos electrónicos se convertirán automáticamente en enlaces híperes.',
 
-    'prv_msg_html_format' => 'Formatting',
+    'prv_msg_html_format' => 'Formateando',
 
-    'prv_msg_max_attachments' => 'Maximum attachments',
+    'prv_msg_max_attachments' => 'Máximo de archivos adjuntos',
 
-    'prv_msg_max_chars' => 'Maximum characters',
+    'prv_msg_max_chars' => 'Máximo de caracteres',
 
-    'prv_msg_upload_path' => 'Upload path',
+    'prv_msg_upload_path' => 'Ruta de subida',
 
-    'prv_msg_upload_path_desc' => 'Full path location for your <code>attachment</code> directory.',
+    'prv_msg_upload_path_desc' => 'Ubicación completa de la ruta para su directorio <code>adjunto</code>.',
 
-    'prv_msg_upload_url' => 'Upload directory',
+    'prv_msg_upload_url' => 'Directorio de subida',
 
-    'prv_msg_upload_url_desc' => '<abbr title="Uniform Resource Location">URL</abbr> location of your <code>attachments</code> directory.',
+    'prv_msg_upload_url_desc' => '<abbr title="Uniform Resource Location">URL</abbr> ubicación de su directorio <code>adjuntos</code>.',
 
     /* Avatars */
-    'avatar_file_restrictions' => 'Avatar File Restrictions',
+    'avatar_file_restrictions' => 'Restricciones de archivos de avatar',
 
-    'avatar_max_height' => 'Maximum height',
+    'avatar_max_height' => 'Altura máxima',
 
-    'avatar_max_kb' => 'Maximum file size (<abbr title="kilobytes">kb</abbr>)',
+    'avatar_max_kb' => 'Tamaño máximo de archivo (<abbr title="kilobytes">kb</abbr>)',
 
-    'avatar_max_width' => 'Maximum width',
+    'avatar_max_width' => 'Ancho máximo',
 
-    'avatar_path' => 'Avatar path',
+    'avatar_path' => 'Ruta del avatar',
 
-    'avatar_path_desc' => 'Full path location of your <code>avatar</code> directory.',
+    'avatar_path_desc' => 'Ubicación completa de tu directorio <code>avatar</code>.',
 
-    'avatar_settings' => 'Avatar Settings',
+    'avatar_settings' => 'Configuración de avatar',
 
-    'avatar_url' => 'Avatar directory',
+    'avatar_url' => 'Directorio de avatar',
 
-    'avatar_url_desc' => '<abbr title="Uniform Resource Location">URL</abbr> location of your <code>avatar</code> directory.',
+    'avatar_url_desc' => '<abbr title="Uniform Resource Location">URL</abbr> ubicación de tu directorio <code>avatar</code>.',
 
     /* CAPTCHA */
     'captcha_font' => 'Use TrueType font?',
 
-    'captcha_font_desc' => 'When enabled, <abbr title="Completely Automated Public Turing test to tell Computers and Humans Apart">CAPTCHA</abbr> fields will use a TrueType font for display.',
+    'captcha_font_desc' => 'Cuando está activado, <abbr title="Completely Automated Public Turing test to tell Computers and Humans Apart">CAPTCHA</abbr> campos utilizará una fuente TrueType para mostrar.',
 
-    'captcha_path' => '<abbr title="Completely Automated Public Turing test to tell Computers and Humans Apart">CAPTCHA</abbr> path',
+    'captcha_path' => '<abbr title="Completely Automated Public Turing test to tell Computers and Humans Apart">CAPTCHA</abbr> ruta',
 
-    'captcha_path_desc' => 'Full path location of your <code><abbr title="Completely Automated Public Turing test to tell Computers and Humans Apart">CAPTCHA</abbr></code> directory.',
+    'captcha_path_desc' => 'Ubicación completa de tu directorio <code><abbr title="Completely Automated Public Turing test to tell Computers and Humans Apart">CAPTCHA</abbr></code>.',
 
-    'captcha_rand' => 'Add random number?',
+    'captcha_rand' => '¿Añadir número aleatorio?',
 
-    'captcha_rand_desc' => 'When enabled, <abbr title="Completely Automated Public Turing test to tell Computers and Humans Apart">CAPTCHA</abbr> fields will randomly generate numbers as well as letters.',
+    'captcha_rand_desc' => 'Cuando está activado, los campos <abbr title="Completely Automated Public Turing test to tell Computers and Humans Apart">CAPTCHA</abbr> generarán al azar números y letras.',
 
-    'captcha_require_members' => 'Require <abbr title="Completely Automated Public Turing test to tell Computers and Humans Apart">CAPTCHA</abbr> while logged in?',
+    'captcha_require_members' => '¿Requiere <abbr title="Completely Automated Public Turing test to tell Computers and Humans Apart">CAPTCHA</abbr> mientras inicias sesión?',
 
-    'captcha_require_members_desc' => 'When disabled, logged in members will not be required to fill in <abbr title="Completely Automated Public Turing test to tell Computers and Humans Apart">CAPTCHA</abbr> fields.',
+    'captcha_require_members_desc' => 'Cuando está deshabilitado, los miembros conectados no tendrán que rellenar <abbr title="Completely Automated Public Turing test to tell Computers and Humans Apart">CAPTCHA</abbr> campos.',
 
-    'captcha_settings' => 'CAPTCHA Settings',
+    'captcha_settings' => 'Configuración CAPTCHA',
 
-    'captcha_settings_title' => '<abbr title="Completely Automated Public Turing test to tell Computers and Humans Apart">CAPTCHA</abbr> Settings',
+    'captcha_settings_title' => '<abbr title="Completely Automated Public Turing test to tell Computers and Humans Apart">Configuración CAPTCHA</abbr>',
 
-    'captcha_url' => '<abbr title="Completely Automated Public Turing test to tell Computers and Humans Apart">CAPTCHA</abbr> directory',
+    'captcha_url' => '<abbr title="Completely Automated Public Turing test to tell Computers and Humans Apart">Directorio CAPTCHA</abbr>',
 
-    'captcha_url_desc' => '<abbr title="Uniform Resource Location">URL</abbr> location of your <code><abbr title="Completely Automated Public Turing test to tell Computers and Humans Apart">CAPTCHA</abbr></code> directory.',
+    'captcha_url_desc' => '<abbr title="Uniform Resource Location">URL</abbr> ubicación de tu directorio <code><abbr title="Completely Automated Public Turing test to tell Computers and Humans Apart">CAPTCHA</abbr></code>.',
 
-    'require_captcha' => 'Require <abbr title="Completely Automated Public Turing test to tell Computers and Humans Apart">CAPTCHA</abbr>?',
+    'require_captcha' => '¿Requiere <abbr title="Completely Automated Public Turing test to tell Computers and Humans Apart">CAPTCHA</abbr>?',
 
-    'require_captcha_desc' => 'When enabled, visitors will be required to fill in a <abbr title="Completely Automated Public Turing test to tell Computers and Humans Apart">CAPTCHA</abbr> field for all front-end forms.',
+    'require_captcha_desc' => 'Cuando está habilitado, los visitantes tendrán que rellenar un campo <abbr title="Completely Automated Public Turing test to tell Computers and Humans Apart">CAPTCHA</abbr> para todos los formularios del front-end.',
 
     /* Security & Privacy */
-    'allow_dictionary_pw' => 'Allow dictionary words in passwords?',
+    'allow_dictionary_pw' => '¿Permitir palabras de diccionario en contraseñas?',
 
-    'allow_dictionary_pw_desc' => 'When enabled, members will be able to use common dictionary words in their password. <code>requires dictionary file to be installed to enforce.</code>',
+    'allow_dictionary_pw_desc' => 'Cuando está habilitado, los miembros podrán usar palabras del diccionario comunes en su contraseña. <code>requiere que el archivo del diccionario esté instalado para obligar.</code>',
 
-    'allow_multi_logins' => 'Allow multiple sessions?',
+    'allow_multi_logins' => '¿Permitir varias sesiones?',
 
-    'allow_multi_logins_desc' => 'When disabled, members will not be able to log in from another location or browser if they already have an active session.',
+    'allow_multi_logins_desc' => 'Cuando se desactiva, los miembros no podrán iniciar sesión desde otra ubicación o navegador si ya tienen una sesión activa.',
 
-    'allow_username_change' => 'Allow members to change username?',
+    'allow_username_change' => '¿Permitir a los miembros cambiar el nombre de usuario?',
 
-    'allow_username_change_desc' => 'When enabled, members will be able to change their username.',
+    'allow_username_change_desc' => 'Cuando esté habilitado, los miembros podrán cambiar su nombre de usuario.',
 
-    'c_session' => 'Cookies only',
+    'c_session' => 'Sólo cookies',
 
-    'cookie_domain' => 'Domain',
+    'cookie_domain' => 'Dominio',
 
-    'cookie_domain_desc' => 'Use <code>.yourdomain.com</code> for system-wide cookies.',
+    'cookie_domain_desc' => 'Utilice <code>.yourdomain.com</code> para cookies de todo el sistema.',
 
-    'cookie_httponly' => 'Send cookies over <abbr title="Hyper Text Transfer Protocol">HTTP</abbr> only?',
+    'cookie_httponly' => '¿Enviar cookies solo sobre <abbr title="Hyper Text Transfer Protocol">HTTP</abbr>?',
 
-    'cookie_httponly_desc' => 'When enabled, cookies will <b>not</b> be accessible through JavaScript.',
+    'cookie_httponly_desc' => 'Cuando está activado, las cookies <b>no serán</b> accesibles a través de JavaScript.',
 
-    'cookie_path' => 'Path',
+    'cookie_path' => 'Ruta',
 
-    'cookie_path_desc' => 'Path to apply cookies to the above domain. (<a href="%s" rel="external">more info</a>)',
+    'cookie_path_desc' => 'Ruta para aplicar cookies al dominio anterior. (<a href="%s" rel="external">más información</a>)',
 
-    'cookie_prefix' => 'Prefix',
+    'cookie_prefix' => 'Prefijo',
 
-    'cookie_prefix_desc' => 'Only required when running multiple installations of ExpressionEngine.',
+    'cookie_prefix_desc' => 'Sólo se requiere cuando se ejecutan múltiples instalaciones de ExpressionEngine.',
 
-    'cookie_secure' => 'Send cookies securely?',
+    'cookie_secure' => '¿Enviar cookies de forma segura?',
 
-    'cookie_secure_desc' => 'When enabled, cookies will only be transmitted over a secure <abbr title="Hyper Text Transfer Protocol with Secure Sockets Layer">HTTPS</abbr> connection.</em><em>Your site <b>must</b> use <abbr title="Secure Sockets Layer">SSL</abbr> everywhere for this to work.',
+    'cookie_secure_desc' => 'Cuando está habilitado, las cookies solo se transmiten a través de una conexión segura de <abbr title="Hyper Text Transfer Protocol with Secure Sockets Layer">HTTPS</abbr> .</em><em>Su sitio <b>debe</b> usar <abbr title="Secure Sockets Layer">SSL</abbr> en todas partes para que esto funcione.',
 
-    'cookie_settings' => 'Cookie Settings',
+    'cookie_settings' => 'Configuración de cookies',
 
-    'cp_session_type' => '<abbr title="Control Panel">CP</abbr> session type',
+    'cp_session_type' => '<abbr title="Control Panel">Tipo de sesión CP</abbr>',
 
-    'cs_session' => 'Cookies and session ID',
+    'cs_session' => 'Cookies y ID de sesión',
 
-    'deny_duplicate_data' => 'Deny duplicate data?',
+    'deny_duplicate_data' => '¿Denegar datos duplicados?',
 
-    'deny_duplicate_data_desc' => 'When enabled, forms will disregard any submission that is an exact duplicate of existing data.',
+    'deny_duplicate_data_desc' => 'Cuando está habilitado, los formularios ignorarán cualquier envío que sea un duplicado exacto de los datos existentes.',
 
-    'enable_rank_denial' => 'Enable Rank Denial to submitted links?',
+    'enable_rank_denial' => '¿Habilitar Denegación de Rango para los enlaces enviados?',
 
-    'enable_rank_denial_desc' => 'When enabled, all outgoing links are sent to a redirect page. This prevents spammers from <a href="%s" rel="external">gaining page rank</a>.',
+    'enable_rank_denial_desc' => 'Cuando está activado, todos los enlaces salientes se envían a una página de redirección. Esto evita que los spammers <a href="%s" rel="external">obtengan el rango de página</a>.',
 
-    'force_interstitial' => 'Force redirect confirmation on submitted links?',
+    'force_interstitial' => '¿Forzar confirmación de redirección en los enlaces enviados?',
 
-    'force_interstitial_desc' => 'Shows a confirmation screen when a linked is clicked and Enable Rank Denial is turned on.',
+    'force_interstitial_desc' => 'Muestra una pantalla de confirmación cuando se hace clic en un enlace y activar la denegación de rango.',
 
-    'form_security_settings' => 'Content Submission Settings',
+    'form_security_settings' => 'Configuración de envío de contenido',
 
-    'member_security_settings' => 'Member Security Settings',
+    'member_security_settings' => 'Configuración de seguridad del miembro',
 
-    'name_of_dictionary_file' => 'Dictionary file',
+    'name_of_dictionary_file' => 'Archivo de diccionario',
 
-    'name_of_dictionary_file_desc' => 'Name of your <code>dictionary</code> file in your config folder.',
+    'name_of_dictionary_file_desc' => 'Nombre del archivo <code>del diccionario</code> en la carpeta de configuración.',
 
-    'password_lockout' => 'Enable password lock out?',
+    'password_lockout' => '¿Habilitar bloqueo de contraseña?',
 
-    'password_lockout_desc' => 'When enabled, members will be locked out of the system after failed log in attempts.',
+    'password_lockout_desc' => 'Cuando está habilitado, los miembros se bloquearán fuera del sistema después de intentos de inicio de sesión fallidos.',
 
-    'password_lockout_interval' => 'Password lock out interval',
+    'password_lockout_interval' => 'Intervalo de bloqueo de contraseña',
 
-    'password_lockout_interval_desc' => 'Number of minutes a member should be locked out after four invalid login attempts.',
+    'password_lockout_interval_desc' => 'Número de minutos que un miembro debe ser bloqueado después de cuatro intentos de inicio de sesión no válidos.',
 
-    'pw_min_len' => 'Minimum password length',
+    'pw_min_len' => 'Longitud mínima de la contraseña',
 
-    'pw_min_len_desc' => 'Minimum number of characters required for new members\' passwords.',
+    'pw_min_len_desc' => 'Número mínimo de caracteres requeridos para las contraseñas de los nuevos miembros.',
 
-    'require_cookie_consent' => 'Require user consent to set cookies?',
+    'require_cookie_consent' => '¿Requiere el consentimiento del usuario para establecer cookies?',
 
-    'require_cookie_consent_desc' => 'When enabled, cookies will not be set for the visitor (except those <b>strictly necessary</b> for the web site to function) until they have consented to your site\'s cookie policy. See the <a href="' . DOC_URL . 'add-ons/consent.html">Consent Module documentation</a> for more details.',
+    'require_cookie_consent_desc' => 'Cuando está habilitado, Las cookies no se establecerán para el visitante (excepto aquellas <b>estrictamente necesarias</b> para que el sitio web funcione) hasta que hayan aceptado la política de cookies de su sitio. Ver el <a href="' . DOC_URL . 'add-ons/consent.html">Documentación del Módulo de Consentimiento</a> para más detalles.',
 
-    'require_ip_for_login' => 'Require user agent and <abbr title="Internet Protocol">IP</abbr> for login?',
+    'require_ip_for_login' => '¿Requiere agente de usuario y <abbr title="Internet Protocol">IP</abbr> para iniciar sesión?',
 
-    'require_ip_for_login_desc' => 'When enabled, members will be unable to login without a valid user agent and <abbr title="Internet Protocol">IP</abbr> address.',
+    'require_ip_for_login_desc' => 'Cuando esté activado, los miembros no podrán iniciar sesión sin un agente de usuario válido y <abbr title="Internet Protocol">dirección IP</abbr>.',
 
-    'require_ip_for_posting' => 'Require user agent and <abbr title="Internet Protocol">IP</abbr> for posting?',
+    'require_ip_for_posting' => '¿Requiere agente de usuario e <abbr title="Internet Protocol">IP</abbr> para publicar?',
 
-    'require_ip_for_posting_desc' => 'When enabled, members will be unable to post without a valid user agent and <abbr title="Internet Protocol">IP</abbr> address.',
+    'require_ip_for_posting_desc' => 'Cuando está habilitado, los miembros no podrán publicar sin un agente de usuario válido y <abbr title="Internet Protocol">dirección IP</abbr>.',
 
-    'require_secure_passwords' => 'Require secure passwords?',
+    'require_secure_passwords' => '¿Requiere contraseñas seguras?',
 
-    'require_secure_passwords_desc' => 'When enabled, members will be required to choose passwords containing at least one uppercase, one lowercase, and one numeric character.',
+    'require_secure_passwords_desc' => 'Cuando está habilitado, los miembros tendrán que elegir contraseñas que contengan al menos una mayúscula, una minúscula, y un carácter numérico.',
 
-    's_session' => 'Session ID only',
+    's_session' => 'Solo ID de sesión',
 
-    'security_tip' => '<b>Tip</b>: Site security is important.',
+    'security_tip' => '<b>Consejo</b>: La seguridad del sitio es importante.',
 
-    'security_tip_desc' => 'Any setting marked with <span class="icon--caution" title="security enhancement"></span> will further enhance and improve site security.',
+    'security_tip_desc' => 'Cualquier ajuste marcado con <span class="icon--caution" title="security enhancement"></span> mejorará y mejorará la seguridad del sitio.',
 
-    'share_analytics' => 'Share analytics with the ExpressionEngine Development Team?',
+    'share_analytics' => '¿Compartir análisis con el equipo de desarrollo de ExpressionEngine?',
 
-    'share_analytics_desc' => 'ExpressionEngine asks users to help improve ExpressionEngine by occasionally <a href="%s">providing analytics, diagnostic, and usage information</a>.',
+    'share_analytics_desc' => 'ExpressionEngine pide a los usuarios que ayuden a mejorar ExpressionEngine de vez en cuando <a href="%s">proporcionando información analítica, diagnóstico y uso</a>.',
 
-    'un_min_len' => 'Minimum username length',
+    'un_min_len' => 'Longitud mínima del nombre de usuario',
 
-    'un_min_len_desc' => 'Minimum number of characters required for new members\' usernames.',
+    'un_min_len_desc' => 'Número mínimo de caracteres requeridos para los nombres de usuario de los nuevos usuarios.',
 
-    'website_session_type' => 'Website Session type',
+    'website_session_type' => 'Tipo de sesión del sitio web',
 
-    'xss_clean_uploads' => 'Apply <abbr title="Cross Site Scripting">XSS</abbr> filtering?',
+    'xss_clean_uploads' => '¿Aplicar filtro de <abbr title="Cross Site Scripting">XSS</abbr>?',
 
-    'xss_clean_uploads_desc' => 'When enabled, forms will apply <abbr title="Cross Site Scripting">XSS</abbr> filtering to submissions.',
+    'xss_clean_uploads_desc' => 'Cuando está activado, los formularios aplicarán <abbr title="Cross Site Scripting">XSS</abbr> de filtrado a las sumisiones.',
 
     /* Access Throttling */
-    'banish_404' => 'Send to 404',
+    'banish_404' => 'Enviar a 404',
 
-    'banish_masked_ips' => 'Require <abbr title="Internet Protocol">IP</abbr>?',
+    'banish_masked_ips' => '¿Requiere <abbr title="Internet Protocol">IP</abbr>?',
 
-    'banish_masked_ips_desc' => 'When enabled, members will be denied access if they do not have a valid <abbr title="Internet Protocol">IP</abbr> address.',
+    'banish_masked_ips_desc' => 'Cuando está habilitado, los miembros serán denegados el acceso si no tienen una dirección <abbr title="Internet Protocol">IP</abbr> válida.',
 
-    'banish_message' => 'Display message',
+    'banish_message' => 'Mostrar mensaje',
 
-    'banish_redirect' => 'Redirect to URL',
+    'banish_redirect' => 'Redirigir a la URL',
 
-    'banishment_message' => 'Message',
+    'banishment_message' => 'Mensaje',
 
-    'banishment_type' => 'Lock out action',
+    'banishment_type' => 'Bloquear acción',
 
-    'banishment_url' => 'Redirect',
+    'banishment_url' => 'Redirigir',
 
-    'banishment_url_desc' => '<abbr title="Uniform Resource Location">URL</abbr> location for locked out members.',
+    'banishment_url_desc' => '<abbr title="Uniform Resource Location">URL</abbr> ubicación para miembros bloqueados.',
 
-    'enable_throttling' => 'Enable throttling?',
+    'enable_throttling' => '¿Habilitar aceleración?',
 
-    'enable_throttling_desc' => 'When enabled, members will be locked out of the system when they meet the lock out requirement.',
+    'enable_throttling_desc' => 'Cuando está activado, los miembros se bloquearán fuera del sistema cuando cumplan con el requisito de bloqueo de cuenta.',
 
-    'lockout_time' => 'Lockout time',
+    'lockout_time' => 'Tiempo de bloqueo',
 
-    'lockout_time_desc' => 'The number of seconds a user should be locked out of your site if they exceed the limits.',
+    'lockout_time_desc' => 'El número de segundos que un usuario debe estar bloqueado fuera de su sitio si excede los límites.',
 
-    'max_page_loads' => 'Maximum page loads',
+    'max_page_loads' => 'Máximo de cargas de página',
 
-    'max_page_loads_desc' => 'The total number of times a user is allowed to load any of your web pages (within the time interval below) before being locked out.',
+    'max_page_loads_desc' => 'El número total de veces que un usuario puede cargar cualquiera de sus páginas web (dentro del intervalo de tiempo de abajo) antes de ser bloqueado.',
 
-    'throttling_limit_settings' => 'Throttling Limit Settings',
+    'throttling_limit_settings' => 'Ajustes del límite de Throttling',
 
-    'time_interval' => 'Time interval',
+    'time_interval' => 'Intervalo de tiempo',
 
-    'time_interval_desc' => 'The number of seconds during which the above number of page loads are allowed.',
+    'time_interval_desc' => 'El número de segundos durante los cuales se permite la carga de la página anterior.',
 
     /* HTML Buttons */
-    'create_html_buttons_error' => 'Cannot Create <abbr title="Hyper-Text Markup Language">HTML</abbr> Button',
+    'create_html_buttons_error' => 'No se puede crear el botón <abbr title="Hyper-Text Markup Language">HTML</abbr>',
 
-    'create_html_buttons_error_desc' => 'We were unable to create this <abbr title="Hyper-Text Markup Language">HTML</abbr> button, please review and fix errors below.',
+    'create_html_buttons_error_desc' => 'No hemos podido crear este botón <abbr title="Hyper-Text Markup Language">HTML</abbr> , por favor revise y corrija los errores a continuación.',
 
-    'create_html_buttons_success' => '<abbr title="Hyper-Text Markup Language">HTML</abbr> Button Created',
+    'create_html_buttons_success' => '<abbr title="Hyper-Text Markup Language">HTML</abbr> Botón creado',
 
-    'create_html_buttons_success_desc' => 'The <abbr title="Hyper-Text Markup Language">HTML</abbr> button <b>%s</b> has been created.',
+    'create_html_buttons_success_desc' => 'Se ha creado el botón <abbr title="Hyper-Text Markup Language">HTML</abbr> <b>%s</b>.',
 
-    'edit_html_buttons_error' => 'Cannot Update <abbr title="Hyper-Text Markup Language">HTML</abbr> Button',
+    'edit_html_buttons_error' => 'No se puede actualizar <abbr title="Hyper-Text Markup Language">HTML</abbr> Botón',
 
-    'edit_html_buttons_error_desc' => 'We were unable to update this <abbr title="Hyper-Text Markup Language">HTML</abbr> button, please review and fix errors below.',
+    'edit_html_buttons_error_desc' => 'No hemos podido actualizar este botón <abbr title="Hyper-Text Markup Language">HTML</abbr> , por favor revise y corrija los errores a continuación.',
 
-    'edit_html_buttons_success' => '<abbr title="Hyper-Text Markup Language">HTML</abbr> Button Updated',
+    'edit_html_buttons_success' => '<abbr title="Hyper-Text Markup Language">HTML</abbr> Botón actualizado',
 
-    'edit_html_buttons_success_desc' => 'The <abbr title="Hyper-Text Markup Language">HTML</abbr> button <b>%s</b> has been updated.',
+    'edit_html_buttons_success_desc' => 'El botón <abbr title="Hyper-Text Markup Language">HTML</abbr> <b>%s</b> ha sido actualizado.',
 
     /* Consent Requests */
-    'consent_request_versions' => 'Versions of %s',
+    'consent_request_versions' => 'Versiones de %s',
 
-    'new_version' => 'New version',
+    'new_version' => 'Nueva versión',
 
-    'app_consent_requests' => 'Application Consent Requests',
+    'app_consent_requests' => 'Solicitudes de consentimiento de la aplicación',
 
-    'user_consent_requests' => 'User Consent Requests',
+    'user_consent_requests' => 'Solicitudes de consentimiento del usuario',
 
-    'author' => 'Author',
+    'author' => 'Autor',
 
-    'cookie_consent_disabled' => 'Cookie Consent Disabled',
+    'cookie_consent_disabled' => 'Consenso de cookies desactivado',
 
-    'cookie_consent_disabled_desc' => 'Cookie-related consent requests have no affect on the setting of cookies unless the <a href="%s">cookie consent setting</a> is enabled.'
+    'cookie_consent_disabled_desc' => 'Las solicitudes de consentimiento relacionado con las cookies no afectan a la configuración de cookies a menos que la <a href="%s">configuración de consentimiento de las cookies</a> esté habilitada.'
 
 );
 
