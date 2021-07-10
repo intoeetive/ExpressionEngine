@@ -2,1274 +2,1274 @@
 
 $lang = array(
 
-    'admin_members' => 'Admin Members',
+    'admin_members' => 'Miembros Admin',
 
-    'all_roles' => 'All Roles',
+    'all_roles' => 'Todos los roles',
 
-    'alpha' => 'Alphabetical Ascending',
+    'alpha' => 'Ascendente alfabético',
 
-    'alpha_desc' => 'Alphabetical Descending',
+    'alpha_desc' => 'Descendente alfabético',
 
-    'approve' => 'Approve',
+    'approve' => 'Aprobar',
 
-    'ascending' => 'Date - oldest first',
+    'ascending' => 'Fecha - más antigua primero',
 
-    'author' => 'Author',
+    'author' => 'Autor',
 
-    'banned_email' => 'The email address you submitted is banned',
+    'banned_email' => 'La dirección de correo electrónico que has enviado está bloqueada',
 
-    'btn_confirm_and_anonymize' => 'Confirm, and Anonymize',
+    'btn_confirm_and_anonymize' => 'Confirmar y anonimizar',
 
-    'btn_confirm_and_anonymize_working' => 'Anonymizing...',
+    'btn_confirm_and_anonymize_working' => 'Anonimizando...',
 
-    'btn_confirm_and_decline' => 'Confirm, and Decline',
+    'btn_confirm_and_decline' => 'Confirmar y rechazar',
 
-    'btn_confirm_and_decline_working' => 'Declining...',
+    'btn_confirm_and_decline_working' => 'Rechazando...',
 
-    'can_attach_in_private_messages' => 'Allow attachments',
+    'can_attach_in_private_messages' => 'Permitir archivos adjuntos',
 
-    'can_attach_in_private_messages_desc' => 'When enabled, users assigned to this group may attach files to personal messages.',
+    'can_attach_in_private_messages_desc' => 'Cuando está habilitado, los usuarios asignados a este grupo pueden adjuntar archivos a mensajes personales.',
 
-    'can_delete_categories' => 'Can delete categories',
+    'can_delete_categories' => 'Puede eliminar categorías',
 
-    'can_edit_categories' => 'Can edit and add new categories',
+    'can_edit_categories' => 'Puede editar y añadir nuevas categorías',
 
-    'can_moderate_comments' => 'Moderate Comments',
+    'can_moderate_comments' => 'Moderar comentarios',
 
-    'can_not_delete_self' => 'You are not allowed to delete your own membership account.',
+    'can_not_delete_self' => 'No tienes permiso para eliminar tu propia cuenta de miembro.',
 
-    'can_send_private_messages' => 'Access personal messages',
+    'can_send_private_messages' => 'Acceder a mensajes personales',
 
-    'can_send_private_messages_desc' => 'When enabled, users assigned to this group may send and receive personal messages.',
+    'can_send_private_messages_desc' => 'Cuando está habilitado, los usuarios asignados a este grupo pueden enviar y recibir mensajes personales.',
 
-    'channel_entries' => 'Channel Entries',
+    'channel_entries' => 'Entradas del canal',
 
-    'comment' => 'Comment',
+    'comment' => 'Comentario',
 
-    'comments' => 'Comments',
+    'comments' => 'Comentarios',
 
-    'confirm_decline' => 'Confirm Decline',
+    'confirm_decline' => 'Confirmar declinación',
 
-    'confirm_decline_desc' => 'You are attempting to decline the following members. This will remove them, please confirm this action.',
+    'confirm_decline_desc' => 'Estás intentando rechazar a los siguientes miembros. Esto los eliminará, por favor confirma esta acción.',
 
-    'control_panel' => 'Control Panel',
+    'control_panel' => 'Panel de control',
 
-    'copy_role' => 'Create a New Role based on <b>%s</b>',
+    'copy_role' => 'Crear un nuevo rol basado en <b>%s</b>',
 
-    'cp_log' => 'Control Panel Activity',
+    'cp_log' => 'Actividad del Panel de Control',
 
-    'create_member' => 'Create Member',
+    'create_member' => 'Crear miembro',
 
-    'create_role' => 'Create Role',
+    'create_role' => 'Crear rol',
 
-    'create_new_role' => 'Create a New Role',
+    'create_new_role' => 'Crear un nuevo rol',
 
-    'custom_fields' => 'Custom Fields',
+    'custom_fields' => 'Campos personalizados',
 
-    'custom_profile_fields' => 'Custom Member Fields',
+    'custom_profile_fields' => 'Campos de miembros personalizados',
 
-    'dates' => 'Dates',
+    'dates' => 'Fechas',
 
-    'decline' => 'Decline',
+    'decline' => 'Rechazar',
 
-    'delete_member' => 'Delete Member',
+    'delete_member' => 'Eliminar miembro',
 
-    'delete_member_confirm' => 'Are you sure you want to delete this member?',
+    'delete_member_confirm' => '¿Está seguro que desea eliminar este miembro?',
 
-    'delete_role' => 'Delete Role',
+    'delete_role' => 'Eliminar rol',
 
-    'delete_role_confirm' => 'Are you sure you want to delete this role?',
+    'delete_role_confirm' => '¿Está seguro que desea eliminar este rol?',
 
-    'delete_members_confirm' => 'Are you sure you want to delete these members?',
+    'delete_members_confirm' => '¿Está seguro que desea eliminar estos miembros?',
 
-    'delete_selected' => 'Delete Selected Members',
+    'delete_selected' => 'Eliminar miembros seleccionados',
 
-    'descending' => 'Date - newest first',
+    'descending' => 'Fecha - más reciente primero',
 
-    'edit_group' => 'Edit Group',
+    'edit_group' => 'Editar grupo',
 
-    'edit_role' => 'Edit Role',
+    'edit_role' => 'Editar rol',
 
-    'edit_profile' => 'Edit Profile',
+    'edit_profile' => 'Editar perfil',
 
-    'email' => 'Email',
+    'email' => 'E-mail',
 
-    'email_address' => 'Email Address',
+    'email_address' => 'Dirección de email',
 
-    'email_asc' => 'Email - ascending',
+    'email_asc' => 'Email - ascendente',
 
-    'email_desc' => 'Email - descending',
+    'email_desc' => 'Correo - descendente',
 
-    'email_taken' => 'The email you chose is not available',
+    'email_taken' => 'El correo electrónico seleccionado no está disponible',
 
-    'enable_lock' => 'Enable Group Security Lock',
+    'enable_lock' => 'Habilitar bloqueo de seguridad de grupo',
 
-    'exclude_from_moderation' => 'Bypass moderation',
+    'exclude_from_moderation' => 'Moderación de Bypass',
 
-    'exclude_from_moderation_desc' => 'When enabled, users assigned to this group may comment without being restricted by the default <a href="%s">comment settings</a>.',
+    'exclude_from_moderation_desc' => 'Cuando está habilitado, los usuarios asignados a este grupo pueden comentar sin estar restringidos por la <a href="%s">configuración predeterminada de comentarios</a>.',
 
-    'field_description' => 'Instructions',
+    'field_description' => 'Instrucciones',
 
-    'field_description_info' => 'Field instructions that appear in the member form.',
+    'field_description_info' => 'Instrucciones de campo que aparecen en el formulario de miembro.',
 
-    'field_order_updated' => 'Field order updated',
+    'field_order_updated' => 'Orden de campo actualizado',
 
-    'fieldlabel' => 'Field Label',
+    'fieldlabel' => 'Etiqueta de campo',
 
-    'filter_by' => 'Filter by',
+    'filter_by' => 'Filtrar por',
 
-    'filter_role' => 'Filter by Role',
+    'filter_role' => 'Filtrar por rol',
 
-    'filter_member_name' => 'Filter by Member Name',
+    'filter_member_name' => 'Filtrar por nombre de miembro',
 
-    'forum_posts' => 'Forum Posts',
+    'forum_posts' => 'Mensajes del Foro',
 
-    'forum_topics' => 'Forum Topics',
+    'forum_topics' => 'Temas del foro',
 
-    'general_access' => 'General Access',
+    'general_access' => 'Acceso general',
 
-    'group_id' => 'Group ID',
+    'group_id' => 'ID de grupo',
 
-    'group_lock' => 'Role Security Lock',
+    'group_lock' => 'Bloqueo de seguridad de rol',
 
-    'group_title' => 'Group Title',
+    'group_title' => 'Título del grupo',
 
-    'heir_to_member_entries' => 'This member has entries assigned to their account. What would you like to do with those entries?',
+    'heir_to_member_entries' => 'Este miembro tiene entradas asignadas a su cuenta. ¿Qué quieres hacer con esas entradas?',
 
-    'heir_to_members_entries' => 'Some of these members have entries assigned to their accounts. What would you like to do with those entries?',
+    'heir_to_members_entries' => 'Algunos de estos miembros tienen entradas asignadas a sus cuentas. ¿Qué te gustaría hacer con esas entradas?',
 
-    'heir_required' => 'You must select an account to reassign entries to.',
+    'heir_required' => 'Debe seleccionar una cuenta a la que reasignar entradas.',
 
-    'include_in_authorlist' => 'Author lists',
+    'include_in_authorlist' => 'Listas de autores',
 
-    'include_in_memberlist' => 'Member lists',
+    'include_in_memberlist' => 'Listas de miembros',
 
-    'index' => 'Main Index Page',
+    'index' => 'Página de índice principal',
 
-    'invalid_password' => 'The password you entered was invalid.',
+    'invalid_password' => 'La contraseña introducida no es válida.',
 
-    'invalid_path' => 'The path you submitted is not valid.',
+    'invalid_path' => 'La ruta enviada no es válida.',
 
-    'invalid_path_description' => 'The following path you submitted is not valid:',
+    'invalid_path_description' => 'La siguiente ruta no es válida:',
 
-    'ip_search' => 'IP Address Search',
+    'ip_search' => 'Búsqueda de dirección IP',
 
-    'ip_search_instructions' => 'You can submit a partial or full IP address',
+    'ip_search_instructions' => 'Puede enviar una dirección IP parcial o completa',
 
-    'ip_search_no_results' => 'Your search did not return any results',
+    'ip_search_no_results' => 'Su búsqueda no devolvió ningún resultado',
 
-    'ip_search_too_short' => 'The IP address you submitted is too short. It must be at least 3 characters long.',
+    'ip_search_too_short' => 'La dirección IP que ha enviado es demasiado corta. Debe tener al menos 3 caracteres.',
 
-    'join_date' => 'Join Date',
+    'join_date' => 'Fecha de unión',
 
-    'joined' => 'Joined',
+    'joined' => 'Se unió',
 
-    'keywords' => 'Keywords',
+    'keywords' => 'Palabras clave',
 
-    'last_activity' => 'Last Activity',
+    'last_activity' => 'Última actividad',
 
-    'last_visit' => 'Last Visit',
+    'last_visit' => 'Última visita',
 
     'lock_description' => 'Only <code>Super Admins</code> can add or remove members from this role.',
 
-    'locked' => 'Locked',
+    'locked' => 'Bloqueado',
 
-    'login_as_member_description' => 'When you click submit, you will be logged in as the member "%screen_name%" and redirected to the page below.',
+    'login_as_member_description' => 'Cuando haga clic en enviar, se conectará como miembro "%screen_name%" y se redirigirá a la página de abajo.',
 
-    'login_as_user' => 'SuperAdmin Logging In as User',
+    'login_as_user' => 'Inicio de sesión SuperAdmin como usuario',
 
-    'manage_bans' => 'Ban Settings',
+    'manage_bans' => 'Ajustes de ban',
 
-    'maximum_members_reached' => 'You have reached the maximum number of Members allowed.',
+    'maximum_members_reached' => 'Ha alcanzado el número máximo de diputados permitidos.',
 
-    'mbr_email_address' => 'Email',
+    'mbr_email_address' => 'E-mail',
 
-    'mbr_email_address_desc' => 'Used for communicating with this user.',
+    'mbr_email_address_desc' => 'Utilizado para comunicarse con este usuario.',
 
-    'mbrs' => 'Members',
+    'mbrs' => 'Miembros',
 
-    'member' => 'Member',
+    'member' => 'Miembro',
 
-    'member_accounts' => 'Membership Accounts',
+    'member_accounts' => 'Cuentas de membresía',
 
-    'member_activation_resent_success' => 'Activation Email Resent',
+    'member_activation_resent_success' => 'Email de activación reenviado',
 
-    'member_activation_resent_success_desc' => 'An activation email was sent to <b>%s</b>.',
+    'member_activation_resent_success_desc' => 'Un correo de activación fue enviado a <b>%s</b>.',
 
-    'member_anonymize_problem' => 'There was a problem anonymizing the member.',
+    'member_anonymize_problem' => 'Hubo un problema anonimizando al miembro.',
 
-    'member_anonymize_success' => 'Member Anonymized',
+    'member_anonymize_success' => 'Miembro anonimizado',
 
-    'member_anonymize_success_desc' => 'The member has been anonymized.',
+    'member_anonymize_success_desc' => 'El miembro ha sido anonimizado.',
 
-    'member_approve' => 'Approve Member',
+    'member_approve' => 'Aprobar miembro',
 
-    'member_approved_success' => 'Member Approved',
+    'member_approved_success' => 'Miembro aprobado',
 
-    'member_approved_success_desc' => 'The member <b>%s</b> has been approved.',
+    'member_approved_success_desc' => 'El miembro <b>%s</b> ha sido aprobado.',
 
-    'member_assignment_none' => 'None, members with this Primary Role will be deleted',
+    'member_assignment_none' => 'Ninguno, los miembros con este rol primario serán eliminados',
 
-    'member_assignment_warning' => 'There are members that have some of these roles assigned as Primary Role. What Primary Role should they be re-assigned to?',
+    'member_assignment_warning' => 'Hay miembros que tienen algunos de estos roles asignados como Rol Primario. ¿A qué Rol Primario deben ser reasignados?',
 
-    'member_cfg' => 'Role Settings',
+    'member_cfg' => 'Ajustes del rol',
 
-    'member_cfg_existing' => 'Role \'%s\' Settings',
+    'member_cfg_existing' => 'Rol \'%s\' Configuración',
 
-    'member_created' => 'Member Created',
+    'member_created' => 'Miembro creado',
 
-    'member_created_desc' => 'The member <b>%s</b> has been created.',
+    'member_created_desc' => 'El miembro <b>%s</b> ha sido creado.',
 
-    'member_declined_success' => 'Member Declined',
+    'member_declined_success' => 'Miembro rechazado',
 
-    'member_declined_success_desc' => 'The member <b>%s</b> has been declined.',
+    'member_declined_success_desc' => 'El miembro <b>%s</b> ha sido rechazado.',
 
-    'member_delete_success' => 'Member Deleted',
+    'member_delete_success' => 'Miembro eliminado',
 
-    'member_delete_problem' => 'There was a problem deleting members.',
+    'member_delete_problem' => 'Hubo un problema al eliminar miembros.',
 
-    'member_deleted' => 'Member Deleted',
+    'member_deleted' => 'Miembro eliminado',
 
-    'member_field_not_saved' => 'Member Field could not be saved',
+    'member_field_not_saved' => 'El campo de miembro no se pudo guardar',
 
-    'member_field_not_saved_desc' => 'Member Field could not be saved',
+    'member_field_not_saved_desc' => 'El campo de miembro no se pudo guardar',
 
-    'member_field_saved' => 'Member Field saved',
+    'member_field_saved' => 'Campo de miembro guardado',
 
-    'member_field_saved_desc' => 'Member Field has been saved successfully.',
+    'member_field_saved_desc' => 'El campo del miembro se ha guardado correctamente.',
 
-    'member_fields_deleted_desc' => 'The following Member Fields have been deleted:',
+    'member_fields_deleted_desc' => 'Los siguientes campos de miembros han sido eliminados:',
 
-    'invalid_role_id' => 'You must select a valid member role.',
+    'invalid_role_id' => 'Debe seleccionar un rol de miembro válido.',
 
-    'invalid_new_primary_role' => 'New primary role is not valid.',
+    'invalid_new_primary_role' => 'El nuevo rol principal no es válido.',
 
-    'primary_role' => 'Primary Role',
+    'primary_role' => 'Rol primario',
 
-    'primary_role_desc' => 'Assign the primary role for this user.',
+    'primary_role_desc' => 'Asignar el rol principal para este usuario.',
 
-    'role_groups' => 'Role Groups',
+    'role_groups' => 'Grupos de Rol',
 
-    'role_groups_desc' => 'Assign this user a group of access permissions.',
+    'role_groups_desc' => 'Asignar a este usuario un grupo de permisos de acceso.',
 
-    'additional_roles' => 'Additional Roles',
+    'additional_roles' => 'Roles adicionales',
 
-    'role' => 'Role',
+    'role' => 'Rol',
 
-    'roles_desc' => 'Assign this user access permissions.',
+    'roles_desc' => 'Asignar permisos de acceso a este usuario.',
 
-    'role_filter' => 'role',
+    'role_filter' => 'rol',
 
-    'role_assignment' => 'Role Assignment',
+    'role_assignment' => 'Asignación de rol',
 
-    'role_deleted' => 'Role Deleted',
+    'role_deleted' => 'Rol eliminado',
 
-    'role_desc' => 'Assign this user access permissions.',
+    'role_desc' => 'Asignar permisos de acceso a este usuario.',
 
-    'role_updated_desc' => 'Role has been saved successfully.',
+    'role_updated_desc' => 'El rol se ha guardado correctamente.',
 
-    'role_deleted_desc' => 'Role has been deleted successfully.',
+    'role_deleted_desc' => 'El rol se ha eliminado correctamente.',
 
-    'roles_remove_problem' => 'There was a problem deleting roles.',
+    'roles_remove_problem' => 'Hubo un problema al eliminar los roles.',
 
-    'member_has_cp_access' => 'Can access the control panel',
+    'member_has_cp_access' => 'Puede acceder al panel de control',
 
     'member_id' => 'ID',
 
-    'member_manager' => 'Members',
+    'member_manager' => 'Miembros',
 
-    'member_not_created' => 'Cannot Create Member',
+    'member_not_created' => 'No se puede crear miembro',
 
-    'member_not_created_desc' => 'We were unable to create this member, please review and fix errors below.',
+    'member_not_created_desc' => 'No hemos podido crear este miembro, por favor revise y corrija los errores a continuación.',
 
-    'member_not_updated' => 'Cannot Update Member',
+    'member_not_updated' => 'No se puede actualizar miembro',
 
-    'member_not_updated_desc' => 'We were unable to update this member, please review and fix errors below.',
+    'member_not_updated_desc' => 'No hemos podido actualizar este miembro, por favor revise y corrija los errores a continuación.',
 
-    'member_prefs' => 'Member Preferences',
+    'member_prefs' => 'Preferencias de miembros',
 
-    'member_updated' => 'Member Profile Saved',
+    'member_updated' => 'Perfil de miembro guardado',
 
-    'member_updated_desc' => 'The member profile has been saved successfully.',
+    'member_updated_desc' => 'El perfil de miembro se ha guardado correctamente.',
 
-    'member_validation' => 'Activate Pending Members',
+    'member_validation' => 'Activar miembros pendientes',
 
-    'members_activation_resent_success_desc' => 'Activation emails were sent to the following members:',
+    'members_activation_resent_success_desc' => 'Los correos electrónicos de activación fueron enviados a los siguientes miembros:',
 
-    'members_approved_success' => 'Members Approved',
+    'members_approved_success' => 'Miembros aprobados',
 
-    'members_approved_success_desc' => 'The following members have been approved:',
+    'members_approved_success_desc' => 'Los siguientes miembros han sido aprobados:',
 
-    'members_are_deleted' => 'Member(s) have been deleted',
+    'members_are_deleted' => 'Los miembros(s) han sido eliminados',
 
-    'members_are_validated' => 'Member(s) have been activated',
+    'members_are_validated' => 'Los miembros han sido activados',
 
-    'members_declined_success' => 'Members Declined',
+    'members_declined_success' => 'Miembros rechazados',
 
-    'members_declined_success_desc' => 'The following members have been declined:',
+    'members_declined_success_desc' => 'Los siguientes miembros han sido rechazados:',
 
-    'members_deleted' => 'Members Deleted',
+    'members_deleted' => 'Miembros eliminados',
 
-    'missmatched_passwords' => 'The password and password confirmation do not match',
+    'missmatched_passwords' => 'La contraseña y la confirmación de contraseña no coinciden',
 
-    'moderation_actions' => 'Moderation actions',
+    'moderation_actions' => 'Acciones de moderación',
 
-    'moderation_actions_desc' => 'Users with this role will be allowed to perform all of the selected actions.',
+    'moderation_actions_desc' => 'Los usuarios con este rol podrán realizar todas las acciones seleccionadas.',
 
-    'new_member_added' => 'New member created:',
+    'new_member_added' => 'Nuevo miembro creado:',
 
-    'no_banned_members_found' => 'No <b>Banned members</b> found.',
+    'no_banned_members_found' => 'No se han encontrado <b>miembros baneados.</b>',
 
-    'no_heirs_available' => 'The member you are attempting to delete has channel entries assigned',
+    'no_heirs_available' => 'El miembro que está intentando eliminar tiene asignadas entradas de canal',
 
-    'no_members_found' => 'No <b>Members</b> found.',
+    'no_members_found' => 'No se encontraron <b>miembros</b>.',
 
-    'no_pending_members_found' => 'No <b>Pending members</b> found.',
+    'no_pending_members_found' => 'No se encontraron <b>miembros pendientes</b>',
 
-    'not_writable_path' => 'The path you submitted is not writeable. Please make sure the file permissions are set to 777.',
+    'not_writable_path' => 'La ruta que ha enviado no tiene permisos de escritura. Por favor, asegúrese de que los permisos de archivo están establecidos en 777.',
 
-    'other' => 'Other',
+    'other' => 'Otro',
 
-    'password_based_on_username' => 'The password cannot be based on the username',
+    'password_based_on_username' => 'La contraseña no puede estar basada en el nombre de usuario',
 
-    'password_confirm' => 'Confirm Password',
+    'password_confirm' => 'Confirmar contraseña',
 
-    'password_confirm_desc' => 'Retype desired password, to confirm.',
+    'password_confirm_desc' => 'Retire la contraseña deseada, para confirmar.',
 
-    'password_desc' => 'Use lowercase and uppercase letters, numbers, and symbols for the strongest passwords.',
+    'password_desc' => 'Utilice letras en minúsculas y mayúsculas, números y símbolos para las contraseñas más fuertes.',
 
-    'password_too_long' => 'Your password cannot be over ' . PASSWORD_MAX_LENGTH . ' characters in length',
+    'password_too_long' => 'Su contraseña no puede ser terminada ' . PASSWORD_MAX_LENGTH . ' caracteres de longitud',
 
-    'password_too_short' => 'Your password must be at least %d characters long',
+    'password_too_short' => 'Tu contraseña debe tener al menos %d caracteres',
 
-    'pending_activation' => 'Pending Activation',
+    'pending_activation' => 'Esperando activación',
 
-    'personal_messaging' => 'Personal Messaging',
+    'personal_messaging' => 'Mensajes personales',
 
-    'preferences_updated' => 'Preferences Updated',
+    'preferences_updated' => 'Preferencias actualizadas',
 
-    'priv_msg_privs' => 'Private Messaging Privileges',
+    'priv_msg_privs' => 'Privilegios de mensajería privada',
 
-    'profile_templates' => 'Member Profile Templates',
+    'profile_templates' => 'Plantillas de perfil de miembros',
 
-    'register_member' => 'Register New Member',
+    'register_member' => 'Registrar Nuevo Miembro',
 
-    'resend' => 'Resend Activation Email',
+    'resend' => 'Reenviar Email de Activación',
 
-    'save_role' => 'Edit Role',
+    'save_role' => 'Editar rol',
 
-    'screen_name' => 'Screen Name',
+    'screen_name' => 'Nombre de usuario',
 
-    'screen_name_asc' => 'Screen Name - ascending',
+    'screen_name_asc' => 'Nombre de pantalla - ascendente',
 
-    'screen_name_desc' => 'Screen Name - descending',
+    'screen_name_desc' => 'Nombre de pantalla - descendente',
 
-    'screen_name_description' => 'Used for alternate name display in website content',
+    'screen_name_description' => 'Utilizado para mostrar nombres alternativos en el contenido del sitio web',
 
-    'screen_name_taken' => 'The screen name you chose is not available',
+    'screen_name_taken' => 'El nombre de pantalla seleccionado no está disponible',
 
-    'search' => 'Search',
+    'search' => 'Buscar',
 
-    'security_lock' => 'Security Lock',
+    'security_lock' => 'Bloqueo de seguridad',
 
-    'send_email_notification' => 'Send email notification to each person',
+    'send_email_notification' => 'Enviar notificación por correo electrónico a cada persona',
 
-    'sort_order' => 'Sort Order',
+    'sort_order' => 'Ordenar',
 
-    'thank_you' => 'Thank you!',
+    'thank_you' => 'Gracias.',
 
-    'title' => 'Title',
+    'title' => 'Título',
 
-    'topic' => 'Topic',
+    'topic' => 'Tema',
 
-    'total_members' => 'Total Members:',
+    'total_members' => 'Total de miembros:',
 
-    'unlocked' => 'Unlocked',
+    'unlocked' => 'Desbloqueado',
 
-    'username_asc' => 'Username - ascending',
+    'username_asc' => 'Nombre de usuario - ascendente',
 
-    'username_desc' => 'Username - descending',
+    'username_desc' => 'Nombre de usuario - descendente',
 
-    'username_description' => 'Used for signing into ExpressionEngine.',
+    'username_description' => 'Utilizado para iniciar sesión en ExpressionEngine.',
 
-    'username_taken' => 'The username you chose is not available',
+    'username_taken' => 'El nombre de usuario seleccionado no está disponible',
 
-    'username_too_long' => 'Your username cannot be over 50 characters in length',
+    'username_too_long' => 'Tu nombre de usuario no puede tener más de 50 caracteres de longitud',
 
-    'username_too_short' => 'Your username must be at least %d characters long',
+    'username_too_short' => 'Tu nombre de usuario debe tener al menos %d caracteres',
 
-    'valid_user_email' => 'The email you chose is not valid',
+    'valid_user_email' => 'El correo electrónico que eligió no es válido',
 
-    'validate_selected' => 'Activate Selected Members',
+    'validate_selected' => 'Activar miembros seleccionados',
 
-    'view_cp_logs' => 'View %s\'s Control Panel Logs',
+    'view_cp_logs' => 'Ver los registros del Panel de Control de %s',
 
-    'view_members' => 'View Members',
+    'view_members' => 'Ver Miembros',
 
-    'view_search_members' => 'View / Search Members',
+    'view_search_members' => 'Ver / Buscar Miembros',
 
-    'visibility' => 'Visibility',
+    'visibility' => 'Visibilidad',
 
-    'your_account_ready' => 'Your membership account has been activated and is ready for use.',
+    'your_account_ready' => 'Tu cuenta de miembro ha sido activada y está lista para ser usada.',
 
-    'your_account_validated' => 'Your account has been activated.',
+    'your_account_validated' => 'Tu cuenta ha sido activada.',
 
-    'your_password' => 'Your Password',
+    'your_password' => 'Su contraseña',
 
-    'your_password_desc' => 'You <b>must</b> enter your password in order to create a member that has control panel access.',
+    'your_password_desc' => 'Usted <b>debe</b> introducir su contraseña para crear un miembro que tenga acceso al panel de control.',
 
-    'your_password_anonymize_members_desc' => 'You <b>must</b> enter your password in order to anomymize members.',
+    'your_password_anonymize_members_desc' => 'Usted <b>debe</b> introducir su contraseña para anomizar a los miembros.',
 
-    'your_password_delete_members_desc' => 'You <b>must</b> enter your password in order to delete members.',
+    'your_password_delete_members_desc' => 'Usted <b>debe</b> introducir su contraseña para eliminar miembros.',
 
-    'your_password_delete_roles_desc' => 'You <b>must</b> enter your password in order to delete roles.',
+    'your_password_delete_roles_desc' => 'Usted <b>debe</b> introducir su contraseña para eliminar roles.',
 
-    'profile' => 'Profile',
+    'profile' => 'Perfil',
 
     /* Member banning */
-    'ban_message' => 'This site is currently unavailable',
+    'ban_message' => 'Este sitio no está disponible actualmente',
 
-    'ban_options' => 'When a banned user attempts access',
+    'ban_options' => 'Cuando un usuario baneado intenta acceder',
 
-    'ban_options_desc' => 'You can prevent access completely by forwarding them to another website, or show them an unavailable message, or allow them to access the website in view only mode.',
+    'ban_options_desc' => 'Puede prevenir el acceso completamente reenviándolos a otro sitio web. o mostrarles un mensaje no disponible, o permitirles acceder al sitio web en modo de sólo visualización.',
 
-    'ban_settings_updated' => 'Ban Settings updated',
+    'ban_settings_updated' => 'Configuración de ban actualizada',
 
-    'banned_members' => 'Banned Members',
+    'banned_members' => 'Miembros prohibidos',
 
-    'email_address_banning' => 'Email Addresses',
+    'email_address_banning' => 'Direcciones de email',
 
-    'email_banning_instructions' => '<b>Place each email address on a separate line</b><br> You may use * as a wild-card e.g. *@hotmail.com',
+    'email_banning_instructions' => '<b>Coloca cada dirección de correo electrónico en una línea separada</b><br> Puedes usar * como comodín ej. *@hotmail.com',
 
-    'ip_address_banning' => 'IP Addresses',
+    'ip_address_banning' => 'Direcciones IP',
 
-    'ip_banning_instructions' => '<b>Place each IP address on a separate line</b> <br>You may use * as a wild-card e.g. 123.345.*',
+    'ip_banning_instructions' => '<b>Coloca cada dirección IP en una línea separada</b> <br>Puedes usar * como comodín ej. 123.345.*',
 
-    'restrict_to_viewing' => 'Allow access in view only mode',
+    'restrict_to_viewing' => 'Permitir acceso solo en modo vista',
 
-    'screen_name_banning' => 'Restricted Screen Names',
+    'screen_name_banning' => 'Nombres de pantalla restringidos',
 
-    'screen_name_banning_instructions' => '<b>Place each screen name on a separate line</b><br> These screen names will not be allowed.',
+    'screen_name_banning_instructions' => '<b>Coloca cada nombre de pantalla en una línea separada</b><br> Estos nombres de pantalla no serán permitidos.',
 
-    'send_to_site' => 'Forward to',
+    'send_to_site' => 'Reenviar a',
 
-    'show_this_message' => 'Show message',
+    'show_this_message' => 'Mostrar mensaje',
 
-    'user_banning' => 'Ban Condition Management',
+    'user_banning' => 'Gestión de Condición de Ban',
 
-    'username_banning' => 'Restricted Usernames',
+    'username_banning' => 'Nombres de usuario restringidos',
 
-    'username_banning_instructions' => '<b>Place each username on a separate line</b><br> These usernames will not be allowed.',
+    'username_banning_instructions' => '<b>Coloca cada nombre de usuario en una línea separada</b><br> Estos nombres de usuario no serán permitidos.',
 
     /* Member group settings */
-    'access_privilege_caution' => 'Any setting marked with <span class="icon--caution" title="exercise caution"></span> should only be granted to people you trust implicitly.',
+    'access_privilege_caution' => 'Cualquier ajuste marcado con <span class="icon--caution" title="exercise caution"></span> solo se debe conceder implícitamente a las personas en las que confíes.',
 
-    'access_privilege_warning' => '<b>Warning</b>: Please be very careful with the access privileges you grant.',
+    'access_privilege_warning' => '<b>Advertencia</b>: Tenga mucho cuidado con los privilegios de acceso que concedes.',
 
-    'access_utilities' => 'Access system utilities',
+    'access_utilities' => 'Acceso a utilidades del sistema',
 
-    'access_utilities_desc' => 'When enabled, users assigned to this group may access the system utilities section.',
+    'access_utilities_desc' => 'Cuando está habilitado, los usuarios asignados a este grupo pueden acceder a la sección de utilidades del sistema.',
 
-    'addon_access' => 'Add-On Access Permissions',
+    'addon_access' => 'Permisos de acceso adicional',
 
-    'addons_access' => 'Allowed add-on access',
+    'addons_access' => 'Acceso a complementos permitido',
 
-    'addons_access_desc' => 'Users can access all of the selected add-ons.',
+    'addons_access_desc' => 'Los usuarios pueden acceder a todos los complementos seleccionados.',
 
-    'allowed_actions' => 'Allowed actions',
+    'allowed_actions' => 'Acciones permitidas',
 
-    'allowed_actions_desc' => 'Users can perform all selected actions.',
+    'allowed_actions_desc' => 'Los usuarios pueden realizar todas las acciones seleccionadas.',
 
-    'allowed_channels' => 'Allowed channels',
+    'allowed_channels' => 'Canales permitidos',
 
-    'allowed_channels_desc' => 'Users can access and perform the above selected actions on all selected channels.',
+    'allowed_channels_desc' => 'Los usuarios pueden acceder y realizar las acciones seleccionadas arriba en todos los canales seleccionados.',
 
-    'allowed_template_groups' => 'Allowed template groups',
+    'allowed_template_groups' => 'Grupos de plantillas permitidos',
 
-    'allowed_template_groups_desc' => 'Users can perform all the above selected actions on all selected template groups.',
+    'allowed_template_groups_desc' => 'Los usuarios pueden realizar todas las acciones seleccionadas arriba en todos los grupos de plantillas seleccionados.',
 
-    'applies_to_all_sites' => 'applies to all sites',
+    'applies_to_all_sites' => 'se aplica a todos los sitios',
 
-    'be_careful_assigning_groups' => 'Be EXTREMELY careful assigning group preferences - especially the highlighted ones.',
+    'be_careful_assigning_groups' => 'Ser EXTREMELY cuidadosamente asignando preferencias de grupo - especialmente las resaltadas.',
 
-    'can_access_addons' => 'Access add-ons',
+    'can_access_addons' => 'Acceso a complementos',
 
-    'can_access_addons_desc' => 'When enabled, users assigned to this group may access the add-on manager.',
+    'can_access_addons_desc' => 'Cuando está habilitado, los usuarios asignados a este grupo pueden acceder al administrador de complementos.',
 
-    'can_access_communicate' => 'Communicate',
+    'can_access_communicate' => 'Comienza',
 
-    'can_access_cp' => 'Access control panel',
+    'can_access_cp' => 'Panel de control de acceso',
 
-    'can_access_cp_desc' => 'When enabled, users assigned to this group may access the control panel.',
+    'can_access_cp_desc' => 'Cuando está habilitado, los usuarios asignados a este grupo pueden acceder al panel de control.',
 
-    'can_access_data' => 'Data Operations',
+    'can_access_data' => 'Operaciones de datos',
 
-    'can_access_design' => 'Access template manager',
+    'can_access_design' => 'Administrador de plantillas de acceso',
 
-    'can_access_design_desc' => 'When enabled, users assigned to this group may access the template manager.',
+    'can_access_design_desc' => 'Cuando está habilitado, los usuarios asignados a este grupo pueden acceder al gestor de plantillas.',
 
-    'can_access_file_manager' => 'Access file manager',
+    'can_access_file_manager' => 'Administrador de archivos',
 
-    'can_access_files' => 'Files',
+    'can_access_files' => 'Archivos',
 
-    'can_access_import' => 'Import',
+    'can_access_import' => 'Importar',
 
-    'can_access_logs' => 'Logs',
+    'can_access_logs' => 'Registros',
 
-    'can_access_logs_desc' => 'Can access and edit all logs (Developer, Control Panel, Throttling, Email and Search).',
+    'can_access_logs_desc' => 'Puede acceder y editar todos los registros (desarrollador, Panel de Control, Throttling, Email y Search).',
 
-    'can_access_members' => 'Access members',
+    'can_access_members' => 'Acceder a miembros',
 
-    'can_access_members_desc' => 'When enabled, users assigned to this group may access the member section of the control panel.',
+    'can_access_members_desc' => 'Cuando está habilitado, los usuarios asignados a este grupo pueden acceder a la sección de miembros del panel de control.',
 
-    'can_access_mod' => 'Can access module:',
+    'can_access_mod' => 'Puede acceder al módulo:',
 
-    'can_access_sql' => 'SQL Management',
+    'can_access_sql' => 'Administración SQL',
 
-    'can_access_sys_prefs' => 'Access settings',
+    'can_access_sys_prefs' => 'Ajustes de acceso',
 
-    'can_access_sys_prefs_desc' => 'When enabled, users assigned to this group may access the software settings.',
+    'can_access_sys_prefs_desc' => 'Cuando está habilitado, los usuarios asignados a este grupo pueden acceder a la configuración del software.',
 
-    'can_access_tg' => 'Can edit templates with this role:',
+    'can_access_tg' => 'Puede editar plantillas con este rol:',
 
-    'can_access_translate' => 'Translation',
+    'can_access_translate' => 'Traducción',
 
-    'can_access_utilities' => 'Utilities',
+    'can_access_utilities' => 'Utilidades',
 
-    'add_on_manager' => 'Add-Ons',
+    'add_on_manager' => 'Añadidos',
 
-    'can_admin_addons' => 'Install or remove add-ons',
+    'can_admin_addons' => 'Instalar o eliminar complementos',
 
-    'can_admin_addons_desc' => 'When enabled, users assigned to this group may install and remove add-ons.',
+    'can_admin_addons_desc' => 'Cuando está habilitado, los usuarios asignados a este grupo pueden instalar y eliminar complementos.',
 
-    'can_admin_channels' => 'Access channel manager',
+    'can_admin_channels' => 'Administrador de canales de acceso',
 
-    'can_admin_channels_desc' => 'When enabled, users can access the channel manager, and optionally channel fields, categories, and statuses.',
+    'can_admin_channels_desc' => 'Cuando está habilitado, los usuarios pueden acceder al gestor de canales, y opcionalmente a los campos, categorías y estados.',
 
-    'can_admin_design' => 'Global template settings',
+    'can_admin_design' => 'Configuración de plantilla global',
 
-    'can_admin_design_desc' => 'When enabled, users assigned to this group may access the global template settings and template routes.',
+    'can_admin_design_desc' => 'Cuando está habilitado, los usuarios asignados a este grupo pueden acceder a la configuración global de plantillas y rutas de plantilla.',
 
-    'can_admin_mbr_groups' => 'Access roles',
+    'can_admin_mbr_groups' => 'Roles de acceso',
 
-    'can_admin_mbr_groups_desc' => 'When enabled, users assigned to this group may access role settings in the software.',
+    'can_admin_mbr_groups_desc' => 'Cuando está habilitado, los usuarios asignados a este grupo pueden acceder a la configuración del rol en el software.',
 
-    'can_admin_mbr_templates' => 'Can administrate member profile templates',
+    'can_admin_mbr_templates' => 'Puede administrar plantillas de perfil de miembro',
 
-    'can_admin_members' => 'Create and edit members',
+    'can_admin_members' => 'Crear y editar miembros',
 
-    'can_admin_templates' => 'Can administrate template groups and templates',
+    'can_admin_templates' => 'Puede administrar grupos de plantillas y plantillas',
 
-    'can_admin_templates_desc' => 'When enabled, users assigned to this group may manage template groups and templates.',
+    'can_admin_templates_desc' => 'Cuando está habilitado, los usuarios asignados a este grupo pueden administrar grupos de plantillas y plantillas.',
 
-    'can_admin_upload_prefs' => 'Can administrate file upload preferences',
+    'can_admin_upload_prefs' => 'Puede administrar las preferencias de subida de archivos',
 
-    'can_ban_users' => 'Ban members',
+    'can_ban_users' => 'Prohibir miembros',
 
-    'can_delete_all_comments' => 'Delete comments by others',
+    'can_delete_all_comments' => 'Eliminar comentarios de otros',
 
-    'can_delete_members' => 'Delete members',
+    'can_delete_members' => 'Eliminar miembros',
 
-    'can_delete_own_comments' => 'Delete own comments',
+    'can_delete_own_comments' => 'Eliminar comentarios propios',
 
-    'can_delete_self' => 'Delete account',
+    'can_delete_self' => 'Eliminar cuenta',
 
-    'can_delete_self_desc' => 'When enabled, users assigned to this group may delete their own accounts without approval',
+    'can_delete_self_desc' => 'Cuando está habilitado, los usuarios asignados a este grupo pueden eliminar sus propias cuentas sin aprobación',
 
-    'can_edit_all_comments' => 'Edit comments by others',
+    'can_edit_all_comments' => 'Editar comentarios de otros',
 
-    'can_edit_html_buttons' => 'Can edit own HTML formatting buttons',
+    'can_edit_html_buttons' => 'Puede editar sus propios botones de formato HTML',
 
-    'can_edit_own_comments' => 'Edit own comments',
+    'can_edit_own_comments' => 'Editar mis comentarios',
 
-    'can_email_from_profile' => 'Can email other members via the profile email console',
+    'can_email_from_profile' => 'Puede enviar correos a otros usuarios a través de la consola de correo electrónico del perfil',
 
-    'can_email_roles' => 'Send email to Roles',
+    'can_email_roles' => 'Enviar correo electrónico a roles',
 
-    'can_post_comments' => 'Submit comments',
+    'can_post_comments' => 'Enviar comentarios',
 
-    'can_post_comments_desc' => 'When enabled, users assigned to this group may submit comments to the website.',
+    'can_post_comments_desc' => 'Cuando está habilitado, los usuarios asignados a este grupo pueden enviar comentarios al sitio web.',
 
-    'can_post_in' => 'Can post and edit entries in:',
+    'can_post_in' => 'Puede publicar y editar entradas en:',
 
-    'can_search' => 'Access search utility',
+    'can_search' => 'Acceder a la utilidad de búsqueda',
 
-    'can_search_desc' => 'When enabled, users assigned to this group may use the search functionality of the website.',
+    'can_search_desc' => 'Cuando está habilitado, los usuarios asignados a este grupo pueden utilizar la funcionalidad de búsqueda del sitio web.',
 
-    'can_send_cached_email' => 'View/Send cached email',
+    'can_send_cached_email' => 'Ver/Enviar email en caché',
 
-    'can_view_offline_system' => 'Offline - <i>Not recommended</i>',
+    'can_view_offline_system' => 'Desconectado - <i>No recomendado</i>',
 
-    'can_view_online_system' => 'Online',
+    'can_view_online_system' => 'En línea',
 
-    'can_view_other_comments' => 'Can view comments in channel entries authored by others',
+    'can_view_other_comments' => 'Puede ver comentarios en entradas de canal escritas por otros',
 
-    'can_view_other_entries' => 'Can view channel entries authored by others',
+    'can_view_other_entries' => 'Puede ver las entradas de canal escritas por otros',
 
-    'can_view_profiles' => 'Access public profiles',
+    'can_view_profiles' => 'Acceder a perfiles públicos',
 
-    'can_view_profiles_desc' => 'When enabled, users assigned to this group may view public profiles of other members.',
+    'can_view_profiles_desc' => 'Cuando está habilitado, los usuarios asignados a este grupo pueden ver los perfiles públicos de otros miembros.',
 
-    'category_actions' => 'Categories',
+    'category_actions' => 'Categorías',
 
-    'category_actions_desc' => 'Users may perform all selected actions.',
+    'category_actions_desc' => 'Los usuarios pueden realizar todas las acciones seleccionadas.',
 
-    'channel_entries_management' => 'Channel Entries Management',
+    'channel_entries_management' => 'Gestión de entradas del canal',
 
-    'channel_entry_actions' => 'Allowed actions',
+    'channel_entry_actions' => 'Acciones permitidas',
 
-    'channel_entry_actions_desc' => 'Users can perform all selected actions on the below selected channels.',
+    'channel_entry_actions_desc' => 'Los usuarios pueden realizar todas las acciones seleccionadas en los siguientes canales seleccionados.',
 
-    'channels' => 'Channels',
+    'channels' => 'Canales',
 
-    'choose_channels_per_site' => 'choose channels, per site below',
+    'choose_channels_per_site' => 'elige canales, por debajo del sitio',
 
-    'comment_actions' => 'Moderation actions',
+    'comment_actions' => 'Acciones de moderación',
 
-    'comment_actions_desc' => 'Users with this role will be allowed to perform all of the selected actions.',
+    'comment_actions_desc' => 'Los usuarios con este rol podrán realizar todas las acciones seleccionadas.',
 
-    'commenting' => 'Commenting',
+    'commenting' => 'Comentando',
 
-    'commenting_privs' => 'Comment Posting Privileges',
+    'commenting_privs' => 'Comentario Publicando Privilegios',
 
-    'cp_admin_privs' => 'Control Panel Administration',
+    'cp_admin_privs' => 'Panel de control de administración',
 
-    'cp_channel_post_privs' => 'Channel Assignment',
+    'cp_channel_post_privs' => 'Asignación de canal',
 
-    'cp_channel_privs' => 'Channel Posting Privileges',
+    'cp_channel_privs' => 'Privilegios de publicación del canal',
 
-    'cp_comment_privs' => 'Comment Administration',
+    'cp_comment_privs' => 'Comentario Administración',
 
-    'cp_email_privs' => 'Control Panel Email Privileges',
+    'cp_email_privs' => 'Privilegios de Email del Panel de Control',
 
-    'cp_module_access_privs' => 'Module Access Privileges',
+    'cp_module_access_privs' => 'Privilegios de acceso de módulos',
 
-    'cp_overview' => '<abbr title="Control Panel">CP</abbr> Overview',
+    'cp_overview' => '<abbr title="Control Panel">CP</abbr> Resumen',
 
-    'cp_template_access_privs' => 'Template Editing Privileges',
+    'cp_template_access_privs' => 'Privilegios de edición de plantillas',
 
-    'create_group_based_on_old' => 'Create a new group based on an existing one',
+    'create_group_based_on_old' => 'Crear un nuevo grupo basado en uno existente',
 
-    'custom_uri' => 'Custom URI &mdash; <i>e.g. members/groups</i>',
+    'custom_uri' => 'URI personalizada &mdash; <i>p. ej. miembros/grupos</i>',
 
-    'default_cp_homepage' => 'Default <abbr title="Control Panel">CP</abbr> homepage',
+    'default_cp_homepage' => 'Página de inicio por defecto de <abbr title="Control Panel">CP</abbr>',
 
-    'default_cp_homepage_desc' => 'Page of the <abbr title="Control Panel">CP</abbr> this group should see when logging in.',
+    'default_cp_homepage_desc' => 'Página del <abbr title="Control Panel">CP</abbr> este grupo debería ver al iniciar sesión.',
 
-    'delete_confirmation_form' => 'Delete Account Confirmation Form',
+    'delete_confirmation_form' => 'Eliminar formulario de confirmación de cuenta',
 
-    'design' => 'Design',
+    'design' => 'Diseño',
 
-    'edit_listing' => 'All entries edit listing',
+    'edit_listing' => 'Editar listado de todas las entradas',
 
-    'file_manager' => 'Files',
+    'file_manager' => 'Archivos',
 
-    'file_manager_desc' => 'When enabled, users assigned to this group may access the file manager.',
+    'file_manager_desc' => 'Cuando está habilitado, los usuarios asignados a este grupo pueden acceder al gestor de archivos.',
 
-    'footer_helper_links' => 'Access footer helper links',
+    'footer_helper_links' => 'Acceder a enlaces de ayuda al pie de página',
 
-    'footer_helper_links_desc' => 'Choose which links this role can access in the CP footer.',
+    'footer_helper_links_desc' => 'Elija qué enlaces puede acceder este rol en el pie de página del CP.',
 
-    'global_cp_access' => 'Control Panel Access',
+    'global_cp_access' => 'Acceso al Panel de Control',
 
-    'group_name' => 'Name',
+    'group_name' => 'Nombre',
 
-    'group_name_desc' => 'Be descriptive, like authors or editors',
+    'group_name_desc' => 'Ser descriptivo, como autores o editores',
 
-    'group_title_exists' => 'There is already a Role with that name.',
+    'group_title_exists' => 'Ya hay un rol con ese nombre.',
 
-    'homepage_news' => 'Show news on CP homepage',
+    'homepage_news' => 'Mostrar noticias en la página de inicio de CP',
 
-    'homepage_news_desc' => 'When enabled, users assigned to this group will see ExpressionEngine news on the CP homepage.',
+    'homepage_news_desc' => 'Cuando está habilitado, los usuarios asignados a este grupo verán las noticias de ExpressionEngine en la página principal de CP.',
 
-    'include_members_in' => 'Include members in',
+    'include_members_in' => 'Incluye miembros en',
 
-    'include_members_in_desc' => 'Users with this role will be included in all of the selected list types.',
+    'include_members_in_desc' => 'Los usuarios con este rol se incluirán en todos los tipos de lista seleccionados.',
 
-    'mbr_account_privs' => 'Member Account Privileges',
+    'mbr_account_privs' => 'Privilegios de la cuenta de miembro',
 
-    'mbr_delete_notify_emails' => 'Recipient(s) for delete notifications',
+    'mbr_delete_notify_emails' => 'Destinatario(s) para eliminar notificaciones',
 
-    'mbr_delete_notify_emails_desc' => 'All recipients will be notified anytime a user deletes their account. Separate e-mails with a comma.',
+    'mbr_delete_notify_emails_desc' => 'Todos los destinatarios serán notificados en cualquier momento que un usuario elimine su cuenta. Separa los correos electrónicos con una coma.',
 
-    'role_created' => 'Role Created:',
+    'role_created' => 'Rol creado:',
 
-    'role_updated' => 'Role Updated:',
+    'role_updated' => 'Rol actualizado:',
 
-    'members' => 'Members',
+    'members' => 'Miembros',
 
-    'missing_group_title' => 'The role must have a name',
+    'missing_group_title' => 'El rol debe tener un nombre',
 
-    'must_have_channels' => 'All sites must have channels.',
+    'must_have_channels' => 'Todos los sitios deben tener canales.',
 
-    'no_cp_modules_installed' => 'No Modules with Control Panel Access Installed',
+    'no_cp_modules_installed' => 'No hay módulos con acceso al Panel de Control instalados',
 
-    'only_superadmins_can_admin_groups' => 'Only Super Admins can access the Roles page',
+    'only_superadmins_can_admin_groups' => 'Sólo los Super Admins pueden acceder a la página de Rol',
 
-    'prv_msg_send_limit' => 'Per day maximum',
+    'prv_msg_send_limit' => 'Máximo por día',
 
-    'prv_msg_send_limit_desc' => 'Maximum number of personal messages that a user may send per day.',
+    'prv_msg_send_limit_desc' => 'Número máximo de mensajes personales que un usuario puede enviar por día.',
 
-    'prv_msg_storage_limit' => 'Storage Maximum',
+    'prv_msg_storage_limit' => 'Almacenamiento máximo',
 
-    'prv_msg_storage_limit_desc' => 'Maximum number of personal messages a user may store in their account.',
+    'prv_msg_storage_limit_desc' => 'Número máximo de mensajes personales que un usuario puede almacenar en su cuenta.',
 
-    'publish_form' => 'Publish form',
+    'publish_form' => 'Publicar formulario',
 
-    'search_flood_control' => 'Search limit (in seconds)',
+    'search_flood_control' => 'Límite de búsqueda (en segundos)',
 
-    'search_flood_control_desc' => 'Length of time between searches a user must wait before performing another search.',
+    'search_flood_control_desc' => 'Longitud de tiempo entre búsquedas que un usuario debe esperar antes de realizar otra búsqueda.',
 
-    'search_privs' => 'Search Privileges',
+    'search_privs' => 'Buscar Privilegios',
 
-    'cp_access' => 'CP Access',
+    'cp_access' => 'Acceso CP',
 
-    'site_access' => 'Website Access',
+    'site_access' => 'Acceso al sitio web',
 
-    'site_access_desc' => 'Users with this role will be allowed access to the website for each status mode selected.',
+    'site_access_desc' => 'Los usuarios con este rol tendrán acceso al sitio web para cada modo de estado seleccionado.',
 
-    'super_admin_edit_note' => 'Note: You can only edit the name and description for the Super Admin group',
+    'super_admin_edit_note' => 'Nota: Sólo puede editar el nombre y la descripción del grupo Super Admin',
 
-    'template_access' => 'Template Access',
+    'template_access' => 'Acceso a Plantillas',
 
-    'assigned_templates' => 'Allowed Templates',
+    'assigned_templates' => 'Plantillas permitidas',
 
-    'assigned_templates_desc' => 'Members with this role are allowed to access pages that are using selected templates.',
+    'assigned_templates_desc' => 'Los miembros con este rol pueden acceder a páginas que están usando plantillas seleccionadas.',
 
-    'template_manager' => 'Templates',
+    'template_manager' => 'Plantillas',
 
-    'tools_utilities' => 'Utilities',
+    'tools_utilities' => 'Utilidades',
 
-    'utilities_section' => 'Utilities',
+    'utilities_section' => 'Utilidades',
 
-    'utilities_section_desc' => 'Users can access all selected sections.',
+    'utilities_section_desc' => 'Los usuarios pueden acceder a todas las secciones seleccionadas.',
 
-    'utility' => 'Utility',
+    'utility' => 'Utilidad',
 
-    'warning' => 'WARNING:',
+    'warning' => 'ADVERTENCIA:',
 
     /* Member fields */
-    'access_settings' => 'Settings',
+    'access_settings' => 'Ajustes',
 
-    'access_settings_desc' => 'Users can access all selected sections.',
+    'access_settings_desc' => 'Los usuarios pueden acceder a todas las secciones seleccionadas.',
 
-    'activation_email_resent' => 'Activation Email Resent',
+    'activation_email_resent' => 'Email de activación reenviado',
 
-    'activation_emails_resent' => 'Activation Emails Resent',
+    'activation_emails_resent' => 'Correos de activación reenviados',
 
-    'can_access_addon_settings' => 'Add-ons',
+    'can_access_addon_settings' => 'Complementos',
 
-    'can_manage_consents' => 'Consent Requests',
+    'can_manage_consents' => 'Solicitudes de consentimiento',
 
-    'can_manage_consents_desc' => 'When enabled members of this group will be able to manage consent requests.',
+    'can_manage_consents_desc' => 'Cuando esté habilitado los miembros de este grupo podrán administrar solicitudes de consentimiento.',
 
-    'can_access_security_settings' => 'Security &amp; Privacy',
+    'can_access_security_settings' => 'Seguridad &amp; Privacidad',
 
-    'can_access_security_settings_desc' => 'When enabled members of this group will be able to access the system security and privacy settings.',
+    'can_access_security_settings_desc' => 'Cuando esté habilitado los miembros de este grupo podrán acceder a la configuración de seguridad y privacidad del sistema.',
 
-    'can_access_site' => 'Can Access Site',
+    'can_access_site' => 'Puede acceder al sitio',
 
-    'can_not_delete_only_member' => 'You cannot delete the only member in the database',
+    'can_not_delete_only_member' => 'No puede eliminar el único miembro de la base de datos',
 
-    'can_send_bulletins' => 'Send bulletins',
+    'can_send_bulletins' => 'Enviar boletines',
 
-    'can_send_bulletins_desc' => 'When enabled, users assigned to this group may send bulletins.',
+    'can_send_bulletins_desc' => 'Cuando está habilitado, los usuarios asignados a este grupo pueden enviar boletines.',
 
-    'cannot_change_your_group' => 'Super Admins cannot change their role assignment. Please have another Super Admin reassign you.',
+    'cannot_change_your_group' => 'Los Super Admins no pueden cambiar su tarea de rol. Por favor, tenga otro Super Admin reasignándote.',
 
-    'cannot_delete_super_admin' => 'You may not delete the only Super Admin. Please create a new Super Admin first.',
+    'cannot_delete_super_admin' => 'No puedes eliminar el único Super Admin. Por favor, crea un nuevo Super Admin primero.',
 
-    'channel_categories' => 'Channel categories',
+    'channel_categories' => 'Categorías de canales',
 
-    'channel_fields' => 'Channel fields',
+    'channel_fields' => 'Campos del canal',
 
     'channel_statuses' => 'Statuses',
 
-    'content' => 'Content',
+    'content' => 'Contenido',
 
-    'create_categories' => 'Create categories',
+    'create_categories' => 'Crear categorías',
 
-    'create_channel_fields' => 'Create channel fields',
+    'create_channel_fields' => 'Crear campos de canal',
 
-    'create_channels' => 'Create channels',
+    'create_channels' => 'Crear canales',
 
-    'create_member_field' => 'Create Member Field',
+    'create_member_field' => 'Crear campo de miembro',
 
-    'create_roles' => 'Create new roles',
+    'create_roles' => 'Crear nuevos roles',
 
-    'create_members' => 'Create new members',
+    'create_members' => 'Crear nuevos miembros',
 
-    'create_new_profile_field' => 'Create a New Member Field',
+    'create_new_profile_field' => 'Crear un nuevo campo de miembro',
 
-    'create_new_templates' => 'Create new templates',
+    'create_new_templates' => 'Crear nuevas plantillas',
 
     'create_statuses' => 'Create statuses',
 
-    'create_template_groups' => 'Create new groups',
+    'create_template_groups' => 'Crear nuevos grupos',
 
-    'create_template_partials' => 'Create new partials',
+    'create_template_partials' => 'Crear nuevos parciales',
 
-    'create_template_variables' => 'Create new variables',
+    'create_template_variables' => 'Crear nuevas variables',
 
-    'create_upload_directories' => 'Create upload directories',
+    'create_upload_directories' => 'Crear directorios de subida',
 
-    'current_fields' => 'Member Fields',
+    'current_fields' => 'Campos de miembros',
 
-    'delete_categories' => 'Delete categories',
+    'delete_categories' => 'Eliminar categorías',
 
-    'delete_channel_fields' => 'Delete channel fields',
+    'delete_channel_fields' => 'Eliminar campos de canal',
 
-    'delete_channels' => 'Delete channels',
+    'delete_channels' => 'Eliminar canales',
 
-    'delete_files' => 'Delete files',
+    'delete_files' => 'Eliminar archivos',
 
-    'delete_roles' => 'Delete roles',
+    'delete_roles' => 'Eliminar roles',
 
-    'delete_profile_field_confirmation' => 'Are you sure you want to permanently delete this Member Profile Field?',
+    'delete_profile_field_confirmation' => '¿Está seguro que desea eliminar permanentemente este campo del perfil de miembro?',
 
-    'delete_statuses' => 'Delete statuses',
+    'delete_statuses' => 'Eliminar estados',
 
-    'delete_template_groups' => 'Delete groups',
+    'delete_template_groups' => 'Eliminar grupos',
 
-    'delete_template_partials' => 'Delete partials',
+    'delete_template_partials' => 'Eliminar parciales',
 
-    'delete_template_variables' => 'Delete variables',
+    'delete_template_variables' => 'Eliminar variables',
 
-    'delete_templates' => 'Delete templates',
+    'delete_templates' => 'Eliminar plantillas',
 
-    'delete_toolsets' => 'Delete toolsets',
+    'delete_toolsets' => 'Eliminar conjuntos de herramientas',
 
-    'delete_upload_directories' => 'Delete upload directories',
+    'delete_upload_directories' => 'Eliminar los directorios de subida',
 
-    'edit_categories' => 'Edit categories',
+    'edit_categories' => 'Editar categorías',
 
-    'edit_channel_fields' => 'Edit channel fields',
+    'edit_channel_fields' => 'Editar campos de canal',
 
-    'edit_files' => 'Edit files',
+    'edit_files' => 'Editar archivos',
 
-    'edit_member_field' => 'Edit Field',
+    'edit_member_field' => 'Editar campo',
 
-    'edit_roles' => 'Edit roles',
+    'edit_roles' => 'Editar roles',
 
-    'edit_member' => 'Edit member',
+    'edit_member' => 'Editar miembro',
 
-    'edit_members' => 'Edit members',
+    'edit_members' => 'Editar miembros',
 
     'edit_statuses' => 'Edit statuses',
 
-    'edit_template_groups' => 'Edit groups',
+    'edit_template_groups' => 'Editar grupos',
 
-    'edit_template_partials' => 'Edit partials',
+    'edit_template_partials' => 'Editar parciales',
 
-    'edit_template_variables' => 'Edit variables',
+    'edit_template_variables' => 'Editar variables',
 
-    'edit_templates' => 'Edit templates',
+    'edit_templates' => 'Editar plantillas',
 
-    'edit_toolsets' => 'Edit toolsets',
+    'edit_toolsets' => 'Editar herramientas',
 
-    'edit_upload_directories' => 'Edit upload directories',
+    'edit_upload_directories' => 'Editar directorios de subida',
 
-    'email_console_log' => 'Email Console Logs',
+    'email_console_log' => 'Registros de la consola de email',
 
-    'email_deleted' => 'Email Message(s) Deleted',
+    'email_deleted' => 'Mensaje(s) de correo electrónico eliminados',
 
-    'email_title' => 'Email Title',
+    'email_title' => 'Título de Email',
 
-    'exclude_from_anonymization' => 'Exclude from Anonymization Actions?',
+    'exclude_from_anonymization' => '¿Excluir de acciones de anonimización?',
 
-    'exclude_from_anonymization_desc' => 'When enabled, this field will be unaffected by anonymization (right to forget) actions.', // TODO: docs link
+    'exclude_from_anonymization_desc' => 'Cuando está activado, este campo no se verá afectado por acciones de anonimización (derecho a olvidar).', // TODO: docs link
 
-    'field_created' => 'Field Created',
+    'field_created' => 'Campo creado',
 
-    'field_format' => 'Text Formatting',
+    'field_format' => 'Formato de texto',
 
-    'field_updated' => 'Field Updated',
+    'field_updated' => 'Campo actualizado',
 
-    'field_width' => 'Field Width',
+    'field_width' => 'Ancho de Campo',
 
-    'field_width_cont' => 'Can be in pixels or percent',
+    'field_width_cont' => 'Puede estar en píxeles o porcentaje',
 
-    'fieldname' => 'Field Name',
+    'fieldname' => 'Nombre del campo',
 
-    'fieldname_cont' => 'Single word, no spaces. Underscores and dashes allowed',
+    'fieldname_cont' => 'Una sola palabra, sin espacios. Se permiten guiones y guiones',
 
-    'file_upload_directories' => 'File upload directories',
+    'file_upload_directories' => 'Directorios de subida de archivos',
 
-    'files' => 'Files',
+    'files' => 'Archivos',
 
-    'for_profile_page' => 'Will be displayed in the member profile page',
+    'for_profile_page' => 'Se mostrará en la página de perfil de miembro',
 
-    'from' => 'From',
+    'from' => 'De',
 
-    'group_description' => 'Description',
+    'group_description' => 'Descripción',
 
-    'group_description_desc' => 'A brief description of the purpose for this group.',
+    'group_description_desc' => 'Una breve descripción del propósito para este grupo.',
 
-    'invalid_characters' => 'The field name you submitted contains invalid characters',
+    'invalid_characters' => 'El nombre del campo que ha enviado contiene caracteres no válidos',
 
-    'invalid_characters_in_username' => 'Your username cannot use the following characters: | " \' ! < > { }',
+    'invalid_characters_in_username' => 'Tu nombre de usuario no puede usar los siguientes caracteres: | " \' ! < > { }',
 
-    'is_field_cp_reg' => 'Is field visible in the control panel\'s administrative registration page?',
+    'is_field_cp_reg' => '¿Es visible el campo en la página de registro administrativo del panel de control?',
 
-    'is_field_public' => 'Show in profile?',
+    'is_field_public' => '¿Mostrar en el perfil?',
 
-    'is_field_public_cont' => 'When enabled, this field will be shown in public profiles.',
+    'is_field_public_cont' => 'Cuando está habilitado, este campo se mostrará en los perfiles públicos.',
 
-    'is_field_reg' => 'Show in registration?',
+    'is_field_reg' => '¿Mostrar en el registro?',
 
-    'is_field_reg_cont' => 'When enabled, this field will be shown in registration forms.',
+    'is_field_reg_cont' => 'Cuando está habilitado, este campo se mostrará en los formularios de registro.',
 
-    'm_max_length' => 'Maxlength',
+    'm_max_length' => 'Longitud máxima',
 
-    'max_length_cont' => 'For text field types',
+    'max_length_cont' => 'Para tipos de campos de texto',
 
-    'member_data_will_be_deleted' => 'All member data contained in this field will be permanently deleted',
+    'member_data_will_be_deleted' => 'Todos los datos de los miembros contenidos en este campo serán eliminados permanentemente',
 
-    'member_delete_dont_reassign_entries' => 'Delete the member\'s entries',
+    'member_delete_dont_reassign_entries' => 'Eliminar las entradas del miembro',
 
-    'member_delete_reassign_entries' => 'Reassign the member\'s entries to:',
+    'member_delete_reassign_entries' => 'Reasignar las entradas del miembro a:',
 
-    'member_search_instructions' => 'Fill out at least one field. You can submit partial or full words.',
+    'member_search_instructions' => 'Rellene al menos un campo. Puede enviar palabras parciales o completas.',
 
-    'member_search_results' => 'Member Search Results',
+    'member_search_results' => 'Resultados de la búsqueda de miembros',
 
-    'member_settings' => 'Member Settings',
+    'member_settings' => 'Configuración de miembros',
 
-    'message_sent_to' => 'Message Sent to:',
+    'message_sent_to' => 'Mensaje enviado a:',
 
-    'must_be_superadmin_to_delete_one' => 'You must be a Super Admin to delete a member with this role',
+    'must_be_superadmin_to_delete_one' => 'Debes ser un Super Admin para eliminar un miembro con este rol',
 
-    'no_cached_email' => 'No <b>cached email messages</b> found.',
+    'no_cached_email' => 'No se encontraron <b>mensajes de correo electrónico en caché</b>.',
 
-    'no_custom_profile_fields' => 'There are currently no member fields.',
+    'no_custom_profile_fields' => 'Actualmente no hay campos de miembros.',
 
-    'no_search_results' => 'Your search resulted in no matches',
+    'no_search_results' => 'Tu búsqueda no resultó en coincidencias',
 
-    'preference' => 'Preference',
+    'preference' => 'Preferencia',
 
-    'preferences' => 'Preferences',
+    'preferences' => 'Preferencias',
 
-    'profile_field_deleted' => 'Member Field Deleted:',
+    'profile_field_deleted' => 'Campo de miembro eliminado:',
 
-    'pull_down_instructions' => 'Put each item on a separate line',
+    'pull_down_instructions' => 'Poner cada elemento en una línea separada',
 
-    'pull_down_items' => 'Select List Options',
+    'pull_down_items' => 'Seleccionar opciones de lista',
 
-    'pull_down_items_cont' => 'For drop-down menus',
+    'pull_down_items_cont' => 'Para menús desplegables',
 
-    'resend_activation_email' => 'Resend Activation Email',
+    'resend_activation_email' => 'Reenviar Email de Activación',
 
-    'resend_activation_emails' => 'Resend Activation Emails',
+    'resend_activation_emails' => 'Reenviar Correos de Activación',
 
-    'search_roles_button' => 'Search Roles',
+    'search_roles_button' => 'Buscar roles',
 
-    'search_members_button' => 'Search Members',
+    'search_members_button' => 'Buscar miembros',
 
-    'setting' => 'Setting',
+    'setting' => 'Ajustes',
 
-    'settings' => 'Settings',
+    'settings' => 'Ajustes',
 
-    'show_all_banned' => 'All %d banned',
+    'show_all_banned' => 'Todos %d baneados',
 
-    'show_all_roles' => 'All %d roles',
+    'show_all_roles' => 'Todos los roles %d',
 
-    'show_all_members' => 'All %d members',
+    'show_all_members' => 'Todos los %d miembros',
 
-    'show_all_pending' => 'All %d pending',
+    'show_all_pending' => 'Todos %d pendientes',
 
-    'template_groups' => 'Template groups',
+    'template_groups' => 'Grupos de plantillas',
 
-    'template_partials' => 'Template partials',
+    'template_partials' => 'Plantillas parciales',
 
-    'template_permissions_desc' => 'Users can perform all the selected actions on all below selected template groups.',
+    'template_permissions_desc' => 'Los usuarios pueden realizar todas las acciones seleccionadas en todos los siguientes grupos de plantillas.',
 
-    'template_variables' => 'Template variables',
+    'template_variables' => 'Variables de plantilla',
 
-    'templates' => 'Templates',
+    'templates' => 'Plantillas',
 
     'text_area_rows' => 'Textarea Rows',
 
-    'text_area_rows_cont' => 'For textarea field types',
+    'text_area_rows_cont' => 'Para tipos de campo de textarea',
 
-    'to' => 'To',
+    'to' => 'A',
 
-    'upload_new_files' => 'Upload new files',
+    'upload_new_files' => 'Subir nuevos archivos',
 
-    'upload_new_toolsets' => 'Upload new toolsets',
+    'upload_new_toolsets' => 'Subir nuevas herramientas',
 
     /* Roles */
 
-    'roles_manager' => 'Member Roles',
+    'roles_manager' => 'Roles de miembros',
 
-    'role_groups' => 'Role Groups',
+    'role_groups' => 'Grupos de Rol',
 
-    'role_group' => 'Role Group',
+    'role_group' => 'Grupo de Rol',
 
-    'new_role' => 'New Role',
+    'new_role' => 'Nuevo rol',
 
-    'group_roles_desc' => 'Assign one of more roles to this group.',
+    'group_roles_desc' => 'Asigna uno de los roles más a este grupo.',
 
-    'create_role_group' => 'New Role Group',
+    'create_role_group' => 'Nuevo grupo de rol',
 
-    'create_role_group_error' => 'Cannot Create Role Group',
+    'create_role_group_error' => 'No se puede crear el Grupo de Rol',
 
-    'create_role_group_error_desc' => 'We were unable to create this role group, please review and fix errors below.',
+    'create_role_group_error_desc' => 'No hemos podido crear este grupo de rol, por favor revise y corrija los errores a continuación.',
 
-    'create_role_group_success' => 'Role Group Created',
+    'create_role_group_success' => 'Grupo de Rol creado',
 
-    'create_role_group_success_desc' => 'The role group <b>%s</b> has been created.',
+    'create_role_group_success_desc' => 'El grupo de roles <b>%s</b> ha sido creado.',
 
-    'edit_role_group' => 'Edit Role Group',
+    'edit_role_group' => 'Editar Grupo de Rol',
 
-    'edit_role_group_error' => 'Cannot Update Role Group',
+    'edit_role_group_error' => 'No se puede actualizar el Grupo de Rol',
 
-    'edit_role_group_error_desc' => 'We were unable to update this role group, please review and fix errors below.',
+    'edit_role_group_error_desc' => 'No hemos podido actualizar este grupo de rol, por favor revise y corrija los errores a continuación.',
 
-    'edit_role_group_success' => 'Role Group Updated',
+    'edit_role_group_success' => 'Grupo de Rol actualizado',
 
-    'edit_role_group_success_desc' => 'The role group <b>%s</b> has been updated.',
+    'edit_role_group_success_desc' => 'El grupo de roles <b>%s</b> ha sido actualizado.',
 
-    'role_groups_removed_desc' => 'The following role groups were deleted',
+    'role_groups_removed_desc' => 'Se eliminaron los siguientes grupos de roles',
 
-    'create_role' => 'New Role',
+    'create_role' => 'Nuevo rol',
 
-    'create_role_error' => 'Cannot Create Role',
+    'create_role_error' => 'No se puede crear el rol',
 
-    'create_role_error_desc' => 'We were unable to create this role, please review and fix errors below.',
+    'create_role_error_desc' => 'No hemos podido crear este rol, por favor revise y corrija los errores a continuación.',
 
-    'create_role_success' => 'Role Created',
+    'create_role_success' => 'Rol creado',
 
-    'create_role_success_desc' => 'The role <b>%s</b> has been created.',
+    'create_role_success_desc' => 'El rol <b>%s</b> ha sido creado.',
 
-    'edit_role' => 'Edit Role',
+    'edit_role' => 'Editar rol',
 
-    'edit_role_error' => 'Cannot Update Role',
+    'edit_role_error' => 'No se puede actualizar el rol',
 
-    'edit_role_error_desc' => 'We were unable to update this role, please review and fix errors below.',
+    'edit_role_error_desc' => 'No hemos podido actualizar esta función, por favor revise y corrija los errores a continuación.',
 
-    'edit_role_success' => 'Role Updated',
+    'edit_role_success' => 'Rol actualizado',
 
-    'edit_role_success_desc' => 'The role <b>%s</b> has been updated.',
+    'edit_role_success_desc' => 'El rol <b>%s</b> ha sido actualizado.',
 
-    'roles_deleted_desc' => 'The following roles were deleted',
+    'roles_deleted_desc' => 'Los siguientes roles fueron eliminados',
 
-    'roles_delete_error' => 'Cannot Delete Roles',
+    'roles_delete_error' => 'No se pueden eliminar roles',
 
-    'roles_not_deleted_desc' => 'The following roles could not be deleted',
+    'roles_not_deleted_desc' => 'No se han podido eliminar los siguientes roles',
 
-    'channel_access' => 'Channel access',
+    'channel_access' => 'Acceso al canal',
 
-    'channel_access_desc' => 'Users can perform each selected action on the selected channel.',
+    'channel_access_desc' => 'Los usuarios pueden realizar cada acción seleccionada en el canal seleccionado.',
 
-    'can_admin_roles' => 'Access member roles',
+    'can_admin_roles' => 'Acceder a roles de miembro',
 
-    'can_admin_roles_desc' => 'When enabled, users assigned to this role may access member role settings in the software.',
+    'can_admin_roles_desc' => 'Cuando está habilitado, los usuarios asignados a este rol pueden acceder a la configuración del rol de miembro en el software.',
 
-    'template_group_access' => 'Template group access',
+    'template_group_access' => 'Acceso al grupo de plantillas',
 
-    'template_group_access_desc' => 'Users can perform each selected action on the selected template group.',
+    'template_group_access_desc' => 'Los usuarios pueden realizar cada acción seleccionada en el grupo de plantillas seleccionado.',
 
-    'upload_destination_access' => 'Allowed upload directory access',
+    'upload_destination_access' => 'Acceso al directorio de subida permitido',
 
-    'upload_destination_access_desc' => 'Users can access all of the selected upload directories.',
+    'upload_destination_access_desc' => 'Los usuarios pueden acceder a todos los directorios de subida seleccionados.',
 
-    'member_role_assignment' => 'Member Role Assignment',
+    'member_role_assignment' => 'Asignación de Rol de Miembro',
 
-    'http_auth_protected' => 'HTTP Auth Protected',
+    'http_auth_protected' => 'Protegido HTTP Auth',
 
     /* Access Overview */
 
-    'access_overview' => 'Access Overview',
+    'access_overview' => 'Vista general de acceso',
 
-    'access_permissions' => 'Access permissions',
+    'access_permissions' => 'Permisos de acceso',
 
-    'access' => 'Access?',
+    'access' => '¿Acceso?',
 
-    'granted_by' => 'Granted by',
+    'granted_by' => 'Concedido por',
 
-    'primary_role' => 'Primary Role',
+    'primary_role' => 'Rol primario',
 
-    'permissions_granted' => 'The following permissions are granted to <b>%s</b>.',
+    'permissions_granted' => 'Los siguientes permisos son otorgados a <b>%s</b>.',
 
-    'member_roles' => 'Member Roles',
+    'member_roles' => 'Roles de miembros',
 
-    'access_to' => 'Access <b>%s</b>',
+    'access_to' => 'Acceso a <b>%s</b>',
 
-    'access_overview_can_view_online_system' => 'Website access (online)',
+    'access_overview_can_view_online_system' => 'Acceso al sitio web (en línea)',
 
-    'access_overview_can_view_offline_system' => 'Website access (offline)',
+    'access_overview_can_view_offline_system' => 'Acceso al sitio web (sin conexión)',
 
-    'access_overview_can_view_profiles' => 'Access public profiles',
+    'access_overview_can_view_profiles' => 'Acceder a perfiles públicos',
 
-    'access_overview_can_delete_self' => 'Delete account',
+    'access_overview_can_delete_self' => 'Eliminar cuenta',
 
-    'access_overview_can_post_comments' => 'Submit comments',
+    'access_overview_can_post_comments' => 'Enviar comentarios',
 
-    'access_overview_can_moderate_comments' => 'Moderate comments',
+    'access_overview_can_moderate_comments' => 'Moderar comentarios',
 
-    'access_overview_can_edit_own_comments' => 'Edit own comments',
+    'access_overview_can_edit_own_comments' => 'Editar mis comentarios',
 
-    'access_overview_can_delete_own_comments' => 'Delete own comments',
+    'access_overview_can_delete_own_comments' => 'Eliminar comentarios propios',
 
-    'access_overview_can_edit_all_comments' => 'Edit comments by others',
+    'access_overview_can_edit_all_comments' => 'Editar comentarios de otros',
 
-    'access_overview_can_delete_all_comments' => 'Delete comments by others',
+    'access_overview_can_delete_all_comments' => 'Eliminar comentarios de otros',
 
-    'access_overview_can_search' => 'Access search utility',
+    'access_overview_can_search' => 'Acceder a la utilidad de búsqueda',
 
-    'access_overview_can_send_private_messages' => 'Access personal messages',
+    'access_overview_can_send_private_messages' => 'Acceder a mensajes personales',
 
-    'access_overview_can_attach_in_private_messages' => 'Allow attachments',
+    'access_overview_can_attach_in_private_messages' => 'Permitir archivos adjuntos',
 
-    'access_overview_can_send_bulletins' => 'Send bulletins',
+    'access_overview_can_send_bulletins' => 'Enviar boletines',
 
-    'access_overview_can_access_cp' => 'Access control panel',
+    'access_overview_can_access_cp' => 'Panel de control de acceso',
 
-    'access_overview_can_access_footer_report_bug' => 'Access Report Bug link',
+    'access_overview_can_access_footer_report_bug' => 'Acceso al reporte de error',
 
-    'access_overview_can_access_footer_new_ticket' => 'Access New ticket link',
+    'access_overview_can_access_footer_new_ticket' => 'Acceso al nuevo enlace de ticket',
 
-    'access_overview_can_access_footer_user_guide' => 'Access User Guide link',
+    'access_overview_can_access_footer_user_guide' => 'Enlace de acceso a la guía de usuario',
 
-    'access_overview_can_view_homepage_news' => 'See homepage news',
+    'access_overview_can_view_homepage_news' => 'Ver noticias de la página principal',
 
-    'access_overview_can_admin_channels' => 'Access channel manager',
+    'access_overview_can_admin_channels' => 'Administrador de canales de acceso',
 
-    'access_overview_can_create_channels' => 'Create channels',
+    'access_overview_can_create_channels' => 'Crear canales',
 
-    'access_overview_can_edit_channels' => 'Edit channels',
+    'access_overview_can_edit_channels' => 'Editar canales',
 
-    'access_overview_can_delete_channels' => 'Delete channels',
+    'access_overview_can_delete_channels' => 'Eliminar canales',
 
-    'access_overview_can_create_channel_fields' => 'Create fields',
+    'access_overview_can_create_channel_fields' => 'Crear campos',
 
-    'access_overview_can_edit_channel_fields' => 'Edit fields',
+    'access_overview_can_edit_channel_fields' => 'Editar campos',
 
-    'access_overview_can_delete_channel_fields' => 'Delete fields',
+    'access_overview_can_delete_channel_fields' => 'Eliminar campos',
 
-    'access_overview_can_create_categories' => 'Create categories',
+    'access_overview_can_create_categories' => 'Crear categorías',
 
-    'access_overview_can_edit_categories' => 'Edit categories',
+    'access_overview_can_edit_categories' => 'Editar categorías',
 
-    'access_overview_can_delete_categories' => 'Delete categories',
+    'access_overview_can_delete_categories' => 'Eliminar categorías',
 
     'access_overview_can_create_statuses' => 'Create statuses',
 
     'access_overview_can_edit_statuses' => 'Edit statuses',
 
-    'access_overview_can_delete_statuses' => 'Delete statuses',
+    'access_overview_can_delete_statuses' => 'Eliminar estados',
 
-    'access_overview_can_create_entries' => 'Create entries',
+    'access_overview_can_create_entries' => 'Crear entradas',
 
-    'access_overview_can_edit_self_entries' => 'Edit own entries',
+    'access_overview_can_edit_self_entries' => 'Editar mis entradas',
 
-    'access_overview_can_delete_self_entries' => 'Delete own entries',
+    'access_overview_can_delete_self_entries' => 'Eliminar mis entradas',
 
-    'access_overview_can_edit_other_entries' => 'Edit entries, by others',
+    'access_overview_can_edit_other_entries' => 'Editar entradas, por otros',
 
-    'access_overview_can_delete_all_entries' => 'Delete entries, by others',
+    'access_overview_can_delete_all_entries' => 'Eliminar entradas, por otros',
 
-    'access_overview_can_assign_post_authors' => 'Change author',
+    'access_overview_can_assign_post_authors' => 'Cambiar autor',
 
-    'access_overview_can_access_files' => 'Access file manager',
+    'access_overview_can_access_files' => 'Administrador de archivos',
 
-    'access_overview_can_create_upload_directories' => 'Create upload directories',
+    'access_overview_can_create_upload_directories' => 'Crear directorios de subida',
 
-    'access_overview_can_edit_upload_directories' => 'Edit upload directories',
+    'access_overview_can_edit_upload_directories' => 'Editar directorios de subida',
 
-    'access_overview_can_delete_upload_directories' => 'Delete upload directories',
+    'access_overview_can_delete_upload_directories' => 'Eliminar los directorios de subida',
 
-    'access_overview_can_upload_new_files' => 'Upload files',
+    'access_overview_can_upload_new_files' => 'Subir archivos',
 
-    'access_overview_can_edit_files' => 'Edit files',
+    'access_overview_can_edit_files' => 'Editar archivos',
 
-    'access_overview_can_delete_files' => 'Delete files',
+    'access_overview_can_delete_files' => 'Eliminar archivos',
 
-    'access_overview_can_access_members' => 'Access members',
+    'access_overview_can_access_members' => 'Acceder a miembros',
 
-    'access_overview_can_create_members' => 'Create members',
+    'access_overview_can_create_members' => 'Crear miembros',
 
-    'access_overview_can_edit_members' => 'Edit members',
+    'access_overview_can_edit_members' => 'Editar miembros',
 
-    'access_overview_can_delete_members' => 'Delete members',
+    'access_overview_can_delete_members' => 'Eliminar miembros',
 
-    'access_overview_can_ban_users' => 'Ban members',
+    'access_overview_can_ban_users' => 'Prohibir miembros',
 
-    'access_overview_can_email_from_profile' => 'Email members',
+    'access_overview_can_email_from_profile' => 'Miembros de correo',
 
-    'access_overview_can_edit_html_buttons' => 'Manage own HTML Buttons',
+    'access_overview_can_edit_html_buttons' => 'Administrar propios botones HTML',
 
-    'access_overview_can_admin_roles' => 'Access roles',
+    'access_overview_can_admin_roles' => 'Roles de acceso',
 
-    'access_overview_can_create_roles' => 'Create roles',
+    'access_overview_can_create_roles' => 'Crear roles',
 
-    'access_overview_can_edit_roles' => 'Edit roles',
+    'access_overview_can_edit_roles' => 'Editar roles',
 
-    'access_overview_can_delete_roles' => 'Delete roles',
+    'access_overview_can_delete_roles' => 'Eliminar roles',
 
-    'access_overview_can_access_design' => 'Access template manager',
+    'access_overview_can_access_design' => 'Administrador de plantillas de acceso',
 
-    'access_overview_can_admin_design' => 'Access global template settings',
+    'access_overview_can_admin_design' => 'Acceder a la configuración global de plantillas',
 
-    'access_overview_can_create_template_groups' => 'Create template groups',
+    'access_overview_can_create_template_groups' => 'Crear grupos de plantillas',
 
-    'access_overview_can_edit_template_groups' => 'Edit template groups',
+    'access_overview_can_edit_template_groups' => 'Editar grupos de plantillas',
 
-    'access_overview_can_delete_template_groups' => 'Delete template groups',
+    'access_overview_can_delete_template_groups' => 'Eliminar grupos de plantillas',
 
-    'access_overview_can_create_template_partials' => 'Create template partials',
+    'access_overview_can_create_template_partials' => 'Crear partiales de plantilla',
 
-    'access_overview_can_edit_template_partials' => 'Edit template partials',
+    'access_overview_can_edit_template_partials' => 'Editar partiales de plantilla',
 
-    'access_overview_can_delete_template_partials' => 'Delete template partials',
+    'access_overview_can_delete_template_partials' => 'Eliminar partiales de plantilla',
 
-    'access_overview_can_create_template_variables' => 'Create template variables',
+    'access_overview_can_create_template_variables' => 'Crear variables de plantilla',
 
-    'access_overview_can_edit_template_variables' => 'Edit template variables',
+    'access_overview_can_edit_template_variables' => 'Editar variables de plantilla',
 
-    'access_overview_can_delete_template_variables' => 'Delete template variables',
+    'access_overview_can_delete_template_variables' => 'Eliminar variables de plantilla',
 
-    'access_overview_can_create_templates' => 'Create templates',
+    'access_overview_can_create_templates' => 'Crear plantillas',
 
-    'access_overview_can_edit_templates' => 'Edit templates',
+    'access_overview_can_edit_templates' => 'Editar plantillas',
 
-    'access_overview_can_delete_templates' => 'Delete templates',
+    'access_overview_can_delete_templates' => 'Eliminar plantillas',
 
-    'access_overview_can_manage_settings' => 'Manage settings & access',
+    'access_overview_can_manage_settings' => 'Administrar ajustes y acceso',
 
-    'access_overview_can_access_addons' => 'Access add-on manager',
+    'access_overview_can_access_addons' => 'Acceder al administrador de complementos',
 
-    'access_overview_can_admin_addons' => 'Manage add-ons (install/remove)',
+    'access_overview_can_admin_addons' => 'Administrar complementos (instalar/eliminar)',
 
-    'access_overview_can_upload_new_toolsets' => 'Upload RTE toolsets',
+    'access_overview_can_upload_new_toolsets' => 'Subir conjuntos de herramientas RTE',
 
-    'access_overview_can_edit_toolsets' => 'Edit RTE toolsets',
+    'access_overview_can_edit_toolsets' => 'Editar herramientas RTE',
 
-    'access_overview_can_delete_toolsets' => 'Delete RTE toolsets',
+    'access_overview_can_delete_toolsets' => 'Eliminar conjuntos de herramientas RTE',
 
-    'access_overview_can_access_utilities' => 'Access system utilities',
+    'access_overview_can_access_utilities' => 'Acceso a utilidades del sistema',
 
-    'access_overview_can_access_comm' => 'Access communicate',
+    'access_overview_can_access_comm' => 'Comunicar acceso',
 
-    'access_overview_can_email_roles' => 'Send email to specific roles',
+    'access_overview_can_email_roles' => 'Enviar correo electrónico a roles específicos',
 
-    'access_overview_can_send_cached_email' => 'View/Send cached email',
+    'access_overview_can_send_cached_email' => 'Ver/Enviar email en caché',
 
-    'access_overview_can_access_translate' => 'Access translation',
+    'access_overview_can_access_translate' => 'Acceder a la traducción',
 
-    'access_overview_can_access_import' => 'Access Import',
+    'access_overview_can_access_import' => 'Importar acceso',
 
-    'access_overview_can_access_sql_manager' => 'Access SQL management',
+    'access_overview_can_access_sql_manager' => 'Acceso a la administración SQL',
 
-    'access_overview_can_access_data' => 'Access data operations',
+    'access_overview_can_access_data' => 'Acceder a operaciones de datos',
 
-    'access_overview_can_access_logs' => 'Access system logs',
+    'access_overview_can_access_logs' => 'Registros del sistema de acceso',
 
-    'access_overview_can_access_sys_prefs' => 'Access system settings',
+    'access_overview_can_access_sys_prefs' => 'Configuración del sistema de acceso',
 
-    'access_overview_can_access_security_settings' => 'Access security & privacy',
+    'access_overview_can_access_security_settings' => 'Acceso a seguridad y privacidad',
 
-    'access_overview_can_manage_consents' => 'Access consent requests',
+    'access_overview_can_manage_consents' => 'Solicitudes de acceso',
 
 );
 
