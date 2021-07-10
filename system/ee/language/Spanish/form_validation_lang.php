@@ -2,79 +2,79 @@
 
 $lang = array(
 
-    'alpha' => 'This field may only contain alphabetical characters.',
+    'alpha' => 'Este campo sólo puede contener caracteres alfabéticos.',
 
-    'alpha_dash' => 'This field may only contain alpha-numeric characters, underscores, and dashes.',
+    'alpha_dash' => 'Este campo sólo puede contener caracteres alfanuméricos, guiones bajos y guiones.',
 
-    'alpha_dash_period' => 'This field may only contain alpha-numeric characters, underscores, dashes, periods, and emojis.',
+    'alpha_dash_period' => 'Este campo sólo puede contener caracteres alfanuméricos, guiones bajos, guiones, periodos y emojis.',
 
-    'alpha_dash_space' => 'This field may only contain alpha-numeric characters, underscores, dashes, and spaces.',
+    'alpha_dash_space' => 'Este campo sólo puede contener caracteres alfanuméricos, guiones bajos, guiones y espacios.',
 
-    'alpha_numeric' => 'This field may only contain alpha-numeric characters.',
+    'alpha_numeric' => 'Este campo sólo puede contener caracteres alfanuméricos.',
 
-    'boolean' => 'This field must be a boolean value.',
+    'boolean' => 'Este campo debe ser un valor booleano.',
 
-    'enum' => 'This field must be one of: %s.',
+    'enum' => 'Este campo debe ser uno de: %s.',
 
-    'exact_length' => 'This field must be exactly %s characters in length.',
+    'exact_length' => 'Este campo debe tener exactamente %s caracteres de largo.',
 
-    'greater_than' => 'This field must be greater than: %s',
+    'greater_than' => 'Este campo debe ser mayor a: %s',
 
-    'hex_color' => 'This field must contain a valid hex color code.',
+    'hex_color' => 'Este campo debe contener un código de color hexadecimal válido.',
 
-    'integer' => 'This field must contain an integer.',
+    'integer' => 'Este campo debe contener un entero.',
 
-    'invalid_path' => 'This path is either invalid or not writable.',
+    'invalid_path' => 'Esta ruta no es válida o no se puede escribir en ella.',
 
-    'invalid_xss_check' => 'The data you submitted did not pass our security check. If you did not intend to submit this form, please <a href="%s">click here</a> and no settings will be changed.',
+    'invalid_xss_check' => 'Los datos que ha enviado no han pasado nuestra comprobación de seguridad. Si no tiene intención de enviar este formulario, por favor <a href="%s">haga clic aquí</a> y no se cambiarán las configuraciones.',
 
-    'is_natural' => 'This field must contain only positive numbers.',
+    'is_natural' => 'Este campo debe contener sólo números positivos.',
 
-    'is_natural_no_zero' => 'This field must contain a number greater than zero.',
+    'is_natural_no_zero' => 'Este campo debe contener un número mayor que cero.',
 
-    'is_numeric' => 'This field must contain only numeric characters.',
+    'is_numeric' => 'Este campo debe contener sólo caracteres numéricos.',
 
-    'less_than' => 'This field must be less than: %s',
+    'less_than' => 'Este campo debe ser menor de: %s',
 
-    'limithtml' => 'This field can only contain the following HTML tags: %s. If you want to use angle brackets < in your text, but not HTML please try &amp;lt; to replace < and &amp;gt; to replace >.',
+    'limithtml' => 'Este campo sólo puede contener las siguientes etiquetas HTML: %s. Si quieres usar corchetes de ángulo < en tu texto, pero no en HTML, por favor intenta &amp;lt; reemplazar < y &amp;gt; reemplazar >.',
 
-    'matches' => 'This field does not match the %s field.',
+    'matches' => 'Este campo no coincide con el campo %s.',
 
-    'max_length' => 'This field cannot exceed %s characters in length.',
+    'max_length' => 'Este campo no puede exceder los %s caracteres de longitud.',
 
-    'min_length' => 'This field must be at least %s characters in length.',
+    'min_length' => 'Este campo debe tener al menos %s caracteres de longitud.',
 
-    'no_html' => 'This field cannot contain HTML.',
+    'no_html' => 'Este campo no puede contener HTML.',
 
-    'numeric' => 'This field must contain only numbers.',
+    'numeric' => 'Este campo debe contener sólo números.',
 
-    'regex' => 'This field must match the regular expression `%s`.',
+    'regex' => 'Este campo debe coincidir con la expresión regular `%s`.',
 
-    'required' => 'This field is required.',
+    'required' => 'Este campo es obligatorio.',
 
-    'unique' => 'This field must be unique.',
+    'unique' => 'Este campo debe ser único.',
 
-    'unique_email' => 'This field must contain a unique email address.',
+    'unique_email' => 'Este campo debe contener una dirección de email única.',
 
-    'valid_base64' => 'This field may only contain characters in the base64 character set (alpha-numeric, slash, plus, and equals).',
+    'valid_base64' => 'Este campo sólo puede contener caracteres en el conjunto de caracteres base64 (alfa, barra, y igual).',
 
-    'valid_email' => 'This field must contain a valid email address.',
+    'valid_email' => 'Este campo debe contener una dirección de correo electrónico válida.',
 
-    'valid_emails' => 'This field must contain all valid email addresses.',
+    'valid_emails' => 'Este campo debe contener todas las direcciones de correo electrónico válidas.',
 
-    'valid_ip' => 'This field must contain a valid IP.',
+    'valid_ip' => 'Este campo debe contener una IP válida.',
 
-    'valid_url' => 'This field must contain a valid URL.',
+    'valid_url' => 'Este campo debe contener una URL válida.',
 
     /* Legacy form validation lib */
-    'file_exists' => 'This path is either invalid or not writable.',
+    'file_exists' => 'Esta ruta no es válida o no se puede escribir en ella.',
 
-    'writable' => 'This path is either invalid or not writable.',
+    'writable' => 'Esta ruta no es válida o no se puede escribir en ella.',
 
     /* special and legacy things */
-    'auth_password' => 'The password entered is incorrect.',
+    'auth_password' => 'La contraseña introducida es incorrecta.',
 
-    'isset' => 'The %s field must have a value.',
+    'isset' => 'El campo %s debe tener un valor.',
 
 );
 
