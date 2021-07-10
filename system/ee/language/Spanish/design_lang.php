@@ -2,775 +2,775 @@
 
 $lang = array(
 
-    'access' => 'Access',
+    'access' => 'Acceder',
 
-    'all_sites' => 'All Sites',
+    'all_sites' => 'Todos los sitios',
 
-    'allowed_roles' => 'Allowed roles',
+    'allowed_roles' => 'Roles permitidos',
 
-    'allowed_roles_desc' => 'The following roles are allowed to access pages that are using this template.',
+    'allowed_roles_desc' => 'Los siguientes roles están permitidos para acceder a las páginas que están usando esta plantilla.',
 
-    'allowed_roles_super_admin' => 'Super Administrators are <b>always</b> allowed.',
+    'allowed_roles_super_admin' => 'Súper Administradores están <b>siempre</b> permitidos.',
 
-    'author_unknown' => 'unknown',
+    'author_unknown' => 'desconocido',
 
-    'breadcrumb_group' => 'Group: %s',
+    'breadcrumb_group' => 'Grupo: %s',
 
-    'btn_create_and_edit_template' => 'Save &amp; Edit Template',
+    'btn_create_and_edit_template' => 'Guardar &amp; Editar plantilla',
 
-    'btn_create_partial' => 'Create Partial',
+    'btn_create_partial' => 'Crear Parcial',
 
-    'btn_create_template' => 'Create Template',
+    'btn_create_template' => 'Crear Plantilla',
 
-    'btn_create_template_group' => 'Create Template Group',
+    'btn_create_template_group' => 'Crear grupo de plantillas',
 
-    'btn_create_template_variable' => 'Create Template Variable',
+    'btn_create_template_variable' => 'Crear variable de plantilla',
 
-    'btn_edit_partial' => 'Edit Partial',
+    'btn_edit_partial' => 'Editar parcial',
 
-    'btn_edit_template_variable' => 'Edit Template Variable',
+    'btn_edit_template_variable' => 'Editar variable de plantilla',
 
-    'btn_save_settings' => 'Save Settings',
+    'btn_save_settings' => 'Guardar ajustes',
 
-    'btn_update_and_finish_editing' => 'Save &amp; Finish Editing',
+    'btn_update_and_finish_editing' => 'Guardar &amp; Finalizar edición',
 
-    'create_new_template' => 'Create New Template',
+    'create_new_template' => 'Crear nueva plantilla',
 
-    'create_new_template_group' => 'Create a New Template Group',
+    'create_new_template_group' => 'Crear un nuevo grupo de plantillas',
 
-    'create_partial' => 'Create Partial',
+    'create_partial' => 'Crear Parcial',
 
-    'create_template_group_error' => 'Cannot Create Template Group',
+    'create_template_group_error' => 'No se puede crear el grupo de plantillas',
 
-    'create_template_group_error_desc' => 'We were unable to create this group, please review and fix errors below.',
+    'create_template_group_error_desc' => 'No hemos podido crear este grupo, por favor revise y corrija los errores a continuación.',
 
-    'create_template_group_success' => 'Template Group Created',
+    'create_template_group_success' => 'Grupo de plantillas creado',
 
-    'create_template_group_success_desc' => 'The template group <b>%s</b> has been created.',
+    'create_template_group_success_desc' => 'Se ha creado el grupo de plantillas <b>%s</b>.',
 
-    'create_template_partial_error' => 'Cannot Create Template Partial',
+    'create_template_partial_error' => 'No se puede crear la plantilla parcial',
 
-    'create_template_partial_error_desc' => 'We were unable to create this partial, please review and fix errors below.',
+    'create_template_partial_error_desc' => 'No hemos podido crear este parcial, por favor revise y corrija los errores a continuación.',
 
-    'create_template_partial_success' => 'Template Partial Created',
+    'create_template_partial_success' => 'Plantilla parcial creada',
 
-    'create_template_partial_success_desc' => 'The template partial <b>%s</b> has been created.',
+    'create_template_partial_success_desc' => 'La plantilla parcial <b>%s</b> ha sido creada.',
 
-    'create_template_success' => 'Template Created',
+    'create_template_success' => 'Plantilla creada',
 
-    'create_template_success_desc' => 'The template <b>%s/%s</b> has been created.',
+    'create_template_success_desc' => 'Se ha creado la plantilla <b>%s/%s</b>.',
 
-    'create_template_variable' => 'Create Template Variable',
+    'create_template_variable' => 'Crear variable de plantilla',
 
-    'create_template_variable_error' => 'Cannot Create Template Variable',
+    'create_template_variable_error' => 'No se puede crear Variable de Plantilla',
 
-    'create_template_variable_error_desc' => 'We were unable to create this variable, please review and fix errors below.',
+    'create_template_variable_error_desc' => 'No hemos podido crear esta variable, por favor revise y corrija los errores a continuación.',
 
-    'create_template_variable_success' => 'Template Variable Created',
+    'create_template_variable_success' => 'Plantilla Variable Creada',
 
-    'create_template_variable_success_desc' => 'The template variable <b>%s</b> has been created.',
+    'create_template_variable_success_desc' => 'La variable de plantilla <b>%s</b> ha sido creada.',
 
-    'default' => 'default',
+    'default' => 'por defecto',
 
-    'default_404_option' => 'Default 404 Page',
+    'default_404_option' => 'Página 404 por defecto',
 
-    'design' => 'Design',
+    'design' => 'Diseño',
 
-    'duplicate_existing_template' => 'Duplicate existing template?',
+    'duplicate_existing_template' => '¿Duplicar plantilla existente?',
 
-    'duplicate_existing_template_desc' => 'Will be created with all code found in copied template.',
+    'duplicate_existing_template_desc' => 'Se creará con todo el código encontrado en la plantilla copiada.',
 
-    'duplicate_group' => 'Duplicate existing group?',
+    'duplicate_group' => '¿Duplicar grupo existente?',
 
-    'duplicate_group_desc' => 'Will be created with all templates found in copied group.',
+    'duplicate_group_desc' => 'Se creará con todas las plantillas encontradas en el grupo copiado.',
 
-    'edit_partial' => 'Edit Partial',
+    'edit_partial' => 'Editar parcial',
 
-    'edit_template' => 'Edit Template: %s',
+    'edit_template' => 'Editar plantilla: %s',
 
-    'edit_template_title' => 'Edit Template',
+    'edit_template_title' => 'Editar plantilla',
 
-    'edit_template_group' => 'Edit Template Group',
+    'edit_template_group' => 'Editar grupo de plantillas',
 
-    'edit_template_group_error' => 'Cannot Update Template Group',
+    'edit_template_group_error' => 'No se puede actualizar el grupo de plantillas',
 
-    'edit_template_group_error_desc' => 'We were unable to update this group, please review and fix errors below.',
+    'edit_template_group_error_desc' => 'No hemos podido actualizar este grupo, por favor revise y corrija los errores a continuación.',
 
-    'edit_template_group_success' => 'Template Group Updated',
+    'edit_template_group_success' => 'Grupo de plantillas actualizado',
 
-    'edit_template_group_success_desc' => 'The template group <b>%s</b> has been updated.',
+    'edit_template_group_success_desc' => 'El grupo de plantillas <b>%s</b> ha sido actualizado.',
 
-    'edit_template_partial_error' => 'Cannot Update Template Partial',
+    'edit_template_partial_error' => 'No se puede actualizar la plantilla parcial',
 
-    'edit_template_partial_error_desc' => 'We were unable to update this partial, please review and fix errors below.',
+    'edit_template_partial_error_desc' => 'No hemos podido actualizar este parcial, por favor revise y corrija los errores a continuación.',
 
-    'edit_template_partial_success' => 'Template Partial Updated',
+    'edit_template_partial_success' => 'Plantilla parcial actualizada',
 
-    'edit_template_partial_success_desc' => 'The template partial <b>%s</b> has been updated.',
+    'edit_template_partial_success_desc' => 'La plantilla parcial <b>%s</b> ha sido actualizada.',
 
-    'edit_template_variable' => 'Edit Template Variable',
+    'edit_template_variable' => 'Editar variable de plantilla',
 
-    'edit_template_variable_error' => 'Cannot Update Template Variable',
+    'edit_template_variable_error' => 'No se puede actualizar la variable de plantilla',
 
-    'edit_template_variable_error_desc' => 'We were unable to update this variable, please review and fix errors below.',
+    'edit_template_variable_error_desc' => 'No hemos podido actualizar esta variable, por favor revise y corrija los errores a continuación.',
 
-    'edit_template_variable_success' => 'Template Variable Updated',
+    'edit_template_variable_success' => 'Plantilla Variable Actualizada',
 
-    'edit_template_variable_success_desc' => 'The template variable <b>%s</b> has been updated.',
+    'edit_template_variable_success_desc' => 'La variable de plantilla <b>%s</b> ha sido actualizada.',
 
-    'email' => 'Email',
+    'email' => 'E-mail',
 
-    'enable_caching' => 'Enable Caching?',
+    'enable_caching' => '¿Habilitar caché?',
 
-    'enable_caching_desc' => 'When enabled, ExpressionEngine will cache this template.',
+    'enable_caching_desc' => 'Cuando está activado, ExpressionEngine almacenará en caché esta plantilla.',
 
-    'enable_http_authentication' => 'Enable HTTP Authentication?',
+    'enable_http_authentication' => '¿Habilitar autenticación HTTP?',
 
-    'enable_http_authentication_desc' => 'When enabled, users with permissions will have to login to view this template.',
+    'enable_http_authentication_desc' => 'Cuando está habilitado, los usuarios con permisos tendrán que iniciar sesión para ver esta plantilla.',
 
-    'enable_partial_on_all_sites' => 'Enable on all sites?',
+    'enable_partial_on_all_sites' => '¿Habilitar en todos los sitios?',
 
-    'enable_partial_on_all_sites_desc' => 'When enabled, this partial will be available for use in all sites.',
+    'enable_partial_on_all_sites_desc' => 'Cuando está habilitado, este parcial estará disponible para su uso en todos los sitios.',
 
-    'enable_php' => 'Allow PHP?',
+    'enable_php' => '¿Permitir PHP?',
 
-    'enable_php_desc' => 'When enabled, you can use standard PHP within this template. <a href="' . DOC_URL . 'templates/overview.html#php-in-templates" rel="external">Read about the implications before enabling</a>.',
+    'enable_php_desc' => 'Cuando está habilitado, puede utilizar PHP estándar dentro de esta plantilla. <a href="' . DOC_URL . 'templates/overview.html#php-in-templates" rel="external">Lee sobre las implicaciones antes de habilitar</a>.',
 
-    'enable_template_variable_on_all_sites' => 'Enable on all sites?',
+    'enable_template_variable_on_all_sites' => '¿Habilitar en todos los sitios?',
 
-    'enable_template_variable_on_all_sites_desc' => 'When enabled, this variable will be available for use in all sites.',
+    'enable_template_variable_on_all_sites_desc' => 'Cuando está habilitado, esta variable estará disponible para su uso en todos los sitios.',
 
-    'error_cannot_create_zip' => 'Cannot create a .zip file',
+    'error_cannot_create_zip' => 'No se puede crear un archivo .zip',
 
-    'error_export' => 'Cannot Export',
+    'error_export' => 'No se puede exportar',
 
-    'error_export_no_templates' => 'No templates found, please create a template before exporting.',
+    'error_export_no_templates' => 'No se encontraron plantillas, por favor cree una plantilla antes de exportar.',
 
-    'error_no_template' => 'No such Template exists.',
+    'error_no_template' => 'No existe tal Plantilla.',
 
-    'error_no_template_group' => 'The Template Group <b>%s</b> does not exist.',
+    'error_no_template_group' => 'El grupo de plantillas <b>%s</b> no existe.',
 
-    'export_all' => 'Export All Templates',
+    'export_all' => 'Exportar todas las plantillas',
 
-    'export_partials' => 'Export Partials',
+    'export_partials' => 'Exportar Parciales',
 
-    'export_variables' => 'Export Variables',
+    'export_variables' => 'Exportar variables',
 
-    'group_not_found' => 'No template group found',
+    'group_not_found' => 'Grupo de plantillas no encontrado',
 
-    'hit_counter' => 'Hit Counter',
+    'hit_counter' => 'Contador de Golpes',
 
-    'hit_counter_desc' => 'Shows the number of times this template has been accessed from the website.',
+    'hit_counter_desc' => 'Muestra el número de veces que se ha accedido a esta plantilla desde el sitio web.',
 
-    'illegal_characters' => 'The name you submitted may only contain alpha-numeric characters, underscores, and dashes',
+    'illegal_characters' => 'El nombre que has enviado sólo puede contener caracteres alfanuméricos, guiones bajos y guiones',
 
-    'last_edit' => 'Last Edit: %s by %s',
+    'last_edit' => 'Última edición: %s por %s',
 
-    'make_default_group' => 'Make default group?',
+    'make_default_group' => '¿Crear grupo predeterminado?',
 
-    'make_default_group_desc' => 'When enabled, this group will become the default group for this website.',
+    'make_default_group_desc' => 'Cuando está habilitado, este grupo se convertirá en el grupo predeterminado de este sitio web.',
 
     'roles' => 'Roles',
 
-    'messages' => 'Messages',
+    'messages' => 'Mensajes',
 
-    'name' => 'Name',
+    'name' => 'Nombre',
 
-    'name_desc' => 'No spaces. Underscores and dashes are allowed.',
+    'name_desc' => 'No hay espacios. Se permiten guiones y guiones.',
 
-    'no_access_redirect' => 'No access redirect',
+    'no_access_redirect' => 'No hay redirección de acceso',
 
-    'no_access_redirect_desc' => 'Page to redirect unauthorized users to.',
+    'no_access_redirect_desc' => 'Página a la que redirigir los usuarios no autorizados.',
 
-    'no_revisions' => 'No revisions',
+    'no_revisions' => 'No hay revisiones',
 
-    'no_snippets' => 'No <b>Template Partials</b> found.',
+    'no_snippets' => 'No se encontraron <b>plantillas parciales</b>.',
 
     'no_template_routes' => 'No <b>Template Routes</b> found.',
 
-    'no_template_variables' => 'No <b>Template Variables</b> found.',
+    'no_template_variables' => 'No se encontró <b>Variables de plantilla</b>.',
 
-    'notes' => 'Notes',
+    'notes' => 'Notas',
 
-    'only' => '<strong>only</strong>',
+    'only' => '<strong>solo</strong>',
 
-    'parse_stage' => 'PHP Parsing Stage',
+    'parse_stage' => 'Etapa de análisis PHP',
 
-    'parse_stage_desc' => 'When set to <b>output</b>, PHP will be parsed after the template.',
+    'parse_stage_desc' => 'Cuando se establece en <b>output</b>, PHP será analizado después de la plantilla.',
 
-    'partial' => 'Partial',
+    'partial' => 'Parcial',
 
-    'refresh_interval' => 'Refresh Interval',
+    'refresh_interval' => 'Intervalo de actualización',
 
-    'refresh_interval_desc' => 'Set how often should the cache refresh in minutes.',
+    'refresh_interval_desc' => 'Ajusta la frecuencia de actualización de la caché en minutos.',
 
-    'require_all_segments' => 'Require all variables?',
+    'require_all_segments' => '¿Requiere todas las variables?',
 
-    'require_all_segments_desc' => 'When enabled, all variables must be present in the request <abbr title="Unified Resource Identifier">URI</abbr>.',
+    'require_all_segments_desc' => 'Cuando está habilitado, todas las variables deben estar presentes en la solicitud <abbr title="Unified Resource Identifier">URI</abbr>.',
 
-    'reserved_name' => 'The name you have chosen is a reserved word that cannot be used.',
+    'reserved_name' => 'El nombre que has elegido es una palabra reservada que no se puede utilizar.',
 
-    'routes' => 'Routes',
+    'routes' => 'Rutas',
 
-    'search_templates' => 'Search Templates',
+    'search_templates' => 'Buscar plantillas',
 
-    'settings' => 'Settings',
+    'settings' => 'Ajustes',
 
-    'snippet_contents' => 'Content',
+    'snippet_contents' => 'Contenido',
 
-    'snippet_name' => 'Name',
+    'snippet_name' => 'Nombre',
 
-    'snippet_name_taken' => 'The template partial name you submitted is already taken',
+    'snippet_name_taken' => 'El nombre parcial de la plantilla que ha enviado ya está en uso',
 
-    'snippets_deleted_desc' => 'The following snippets were deleted',
+    'snippets_deleted_desc' => 'Los siguientes fragmentos fueron eliminados',
 
-    'sync_all_templates' => 'Sync All Templates',
+    'sync_all_templates' => 'Sincronizar todas las plantillas',
 
-    'system_templates' => 'System Templates',
+    'system_templates' => 'Plantillas del sistema',
 
-    'template_group_deleted' => 'Template Group deleted',
+    'template_group_deleted' => 'Grupo de plantillas eliminado',
 
-    'template_group_deleted_desc' => 'The template group <b>%s</b> has been deleted.',
+    'template_group_deleted_desc' => 'El grupo de plantillas <b>%s</b> ha sido eliminado.',
 
-    'template_group_taken' => 'The template group name you submitted is already taken',
+    'template_group_taken' => 'El nombre del grupo de plantillas que presentó ya está en uso',
 
-    'template_groups' => 'Template Groups',
+    'template_groups' => 'Grupos de plantillas',
 
-    'template_manager' => 'Templates',
+    'template_manager' => 'Plantillas',
 
-    'template_roles' => 'Allowed roles',
+    'template_roles' => 'Roles permitidos',
 
-    'template_roles_desc' => 'Members in these roles can perform each selected action in this template group.',
+    'template_roles_desc' => 'Los miembros en estos roles pueden realizar cada acción seleccionada en este grupo de plantillas.',
 
-    'template_name_taken' => 'The template name you submitted is already taken',
+    'template_name_taken' => 'El nombre de la plantilla que ha enviado ya está en uso',
 
-    'template_notes' => 'Template Notes',
+    'template_notes' => 'Notas de plantilla',
 
-    'template_notes_desc' => 'Use this form field to store notes and information about this template',
+    'template_notes_desc' => 'Utilice este campo de formulario para almacenar notas e información sobre esta plantilla',
 
-    'template_path_not_user' => 'Templates not found in themes/user, please see <a href="%s">the documentation</a> for details.',
+    'template_path_not_user' => 'Plantillas no encontradas en temas/usuario, por favor vea <a href="%s">la documentación</a> para más detalles.',
 
-    'template_partial' => 'Template Partial',
+    'template_partial' => 'Plantilla parcial',
 
-    'template_partials' => 'Template Partials',
+    'template_partials' => 'Parciales de la plantilla',
 
-    'template_partials_header' => 'Template Partials<br><i>Reusable dynamic content, tags &amp; templates.</i>',
+    'template_partials_header' => 'Plantilla Parciales<br><i>Contenido dinámico reutilizable, etiquetas &amp; plantillas.</i>',
 
-    'template_route_override' => 'Template route override',
+    'template_route_override' => 'Anulación de ruta de plantilla',
 
-    'template_route_override_desc' => 'Overrides the ExpressionEngine standard <code>group/template</code> routing.',
+    'template_route_override_desc' => 'Sobrescribe el enrutamiento estándar de ExpressionEngine <code>grupo/plantilla</code>.',
 
-    'template_routes' => 'Template Routes',
+    'template_routes' => 'Rutas de plantillas',
 
-    'template_settings_and_access' => 'Template Settings &amp; Access',
+    'template_settings_and_access' => 'Configuración de plantilla &amp; acceso',
 
-    'template_type' => 'Type',
+    'template_type' => 'Tipo',
 
-    'template_variable' => 'Template Variable',
+    'template_variable' => 'Variable de Plantilla',
 
-    'template_variables' => 'Template Variables',
+    'template_variables' => 'Variables de Plantilla',
 
-    'template_variables_header' => 'Template Variables<br><i>Reusable static content replacements.</i>',
+    'template_variables_header' => 'Variables de plantilla<br><i>reemplazos de contenido estático reutilizable.</i>',
 
-    'template_variables_deleted_desc' => 'The following template variables were deleted',
+    'template_variables_deleted_desc' => 'Se eliminaron las siguientes variables de plantilla',
 
-    'templates_in_group' => 'Templates in <b>%s</b>',
+    'templates_in_group' => 'Plantillas en <b>%s</b>',
 
-    'templates_deleted_desc' => 'The following templates were deleted',
+    'templates_deleted_desc' => 'Las siguientes plantillas fueron eliminadas',
 
-    'update_template_error' => 'Cannot Update Template',
+    'update_template_error' => 'No se puede actualizar la plantilla',
 
-    'update_template_error_desc' => 'We were unable to update this template, please review and fix the errors.',
+    'update_template_error_desc' => 'No hemos podido actualizar esta plantilla, por favor revise y corrija los errores.',
 
-    'update_template_success' => 'Template Updated',
+    'update_template_success' => 'Plantilla actualizada',
 
-    'update_template_success_desc' => 'The template <b>%s</b> has been updated.',
+    'update_template_success_desc' => 'La plantilla <b>%s</b> ha sido actualizada.',
 
     'variable' => 'Variable',
 
-    'variable_data' => 'Content',
+    'variable_data' => 'Contenido',
 
-    'variable_name' => 'Name',
+    'variable_name' => 'Nombre',
 
-    'view_rendered' => 'View Rendered',
+    'view_rendered' => 'Ver renderizado',
 
-    'zero_template_groups_found' => 'No <b>Template Groups</b> found',
+    'zero_template_groups_found' => 'No se encontraron grupos de plantillas <b></b>',
 
     /* System Templates -> Messages */
-    'message_template' => 'User Messages',
+    'message_template' => 'Mensajes de usuario',
 
-    'message_template_warning' => '<b>Warning</b>: Do not delete any of the five required variables: {title} {meta_refresh} {heading} {content} {link}',
+    'message_template_warning' => '<b>Advertencia</b>: No eliminar ninguna de las cinco variables requeridas: {title} {meta_refresh} {heading} {content} {link}',
 
-    'offline_template' => 'Site Offline',
+    'offline_template' => 'Sitio fuera de línea',
 
-    'system' => 'System',
+    'system' => 'Sistema',
 
-    'system_message_templates' => 'System Message Templates',
+    'system_message_templates' => 'Plantillas de mensajes del sistema',
 
-    'post_install_message_template' => 'Post-install Message',
+    'post_install_message_template' => 'Mensaje de post-instalación',
 
     /* System Templates -> Email */
-    'comments' => 'Comments',
+    'comments' => 'Comentarios',
 
-    'content' => 'Content',
+    'content' => 'Contenido',
 
-    'email_message_templates' => 'Email Templates',
+    'email_message_templates' => 'Plantillas de Email',
 
-    'enable_template' => 'Enable template?',
+    'enable_template' => '¿Habilitar plantilla?',
 
-    'enable_template_desc' => 'When enabled, this template will be used, in place of an auto generated Email in the users language.',
+    'enable_template_desc' => 'Cuando está habilitado, se utilizará esta plantilla, en lugar de un correo electrónico generado automáticamente en el idioma de los usuarios.',
 
-    'forums' => 'Forums',
+    'forums' => 'Foros',
 
-    'members' => 'Members',
+    'members' => 'Miembros',
 
-    'private_messages' => 'Private Messages',
+    'private_messages' => 'Mensajes privados',
 
     'variables' => 'Variables',
 
-    'variables_desc' => 'List of available variables for this Email template.',
+    'variables_desc' => 'Lista de variables disponibles para esta plantilla de correo electrónico.',
 
     /* System Templates -> Members */
-    'file_not_writable' => '<b>Warning</b>: This file is not writable',
+    'file_not_writable' => '<b>Advertencia</b>: Este archivo no es escribible',
 
-    'file_writing_instructions' => 'You will not be able to save changes to this template until it is given write permissions for this server.',
+    'file_writing_instructions' => 'No podrá guardar los cambios a esta plantilla hasta que se le den permisos de escritura para este servidor.',
 
     /* System Templates -> Forums */
-    'forum_manager' => 'Forum Manager',
+    'forum_manager' => 'Gestor del foro',
 
-    'forum_templates' => 'Forum Templates',
+    'forum_templates' => 'Plantillas del foro',
 
-    'unable_to_find_template_file' => 'Unable to locate the template file.',
+    'unable_to_find_template_file' => 'No se puede encontrar el archivo de plantilla.',
 
-    'unable_to_find_templates' => 'Unable to locate the templates.',
+    'unable_to_find_templates' => 'No se han podido encontrar las plantillas.',
 
     /* Menu */
-    'forum_themes' => 'Forum Themes',
+    'forum_themes' => 'Temas del foro',
 
-    'member_profile_templates' => 'Member Profile Templates',
+    'member_profile_templates' => 'Plantillas de perfil de miembros',
 
-    'message_pages' => 'Message Pages',
+    'message_pages' => 'Páginas de mensajes',
 
-    'specialty_templates' => 'Specialty Templates',
+    'specialty_templates' => 'Plantillas de especialidad',
 
-    'templates' => 'Templates',
+    'templates' => 'Plantillas',
 
-    'themes' => 'Themes',
+    'themes' => 'Temas',
 
-    'wiki_themes' => 'Wiki Themes',
+    'wiki_themes' => 'Temas Wiki',
 
     /* Templates */
-    '404_page' => '404 Page',
+    '404_page' => 'Página 404',
 
-    'all_fields_required' => 'You must submit all form fields',
+    'all_fields_required' => 'Debe enviar todos los campos del formulario',
 
-    'all_templates_will_be_nuked' => 'ALL TEMPLATES CONTAINED WITHIN THIS GROUP WILL BE PERMANENTLY DELETED!',
+    'all_templates_will_be_nuked' => '¡TODOS LOS TEMPLATES CONTAINADOS PARA ESTE GRUPO SERÁN DELECTADOS!',
 
-    'alphabetize_group_order' => 'Alphabetize Group Order',
+    'alphabetize_group_order' => 'Orden de grupo de alfabetizar',
 
-    'an_existing_template' => 'Duplicate an existing template',
+    'an_existing_template' => 'Duplicar una plantilla existente',
 
-    'available_to_sites' => 'Snippet Available to Sites',
+    'available_to_sites' => 'Fragmento disponible para sitios',
 
-    'cache_enable' => 'Enable Caching?',
+    'cache_enable' => '¿Habilitar caché?',
 
-    'can_view_template' => 'Can View This Page',
+    'can_view_template' => 'Puede ver esta página',
 
-    'choose_delete_template_group' => 'Please choose the template group to delete',
+    'choose_delete_template_group' => 'Por favor, elija el grupo de plantillas a eliminar',
 
-    'choose_group' => 'Choose Group',
+    'choose_group' => 'Elegir grupo',
 
-    'choose_templates' => 'Choose the templates you would like to export as files',
+    'choose_templates' => 'Elija las plantillas que desea exportar como archivos',
 
-    'clear' => 'Clear',
+    'clear' => 'Claro',
 
-    'clear_revision_history' => 'Clear Revision History',
+    'clear_revision_history' => 'Borrar historial de revisiones',
 
-    'clear_revision_history_info' => 'Clear the revision history for the following template:',
+    'clear_revision_history_info' => 'Borrar el historial de revisiones de la siguiente plantilla:',
 
-    'close_window' => 'Close Window',
+    'close_window' => 'Cerrar ventana',
 
-    'create_new_global_variable' => 'Create a New Global Variable',
+    'create_new_global_variable' => 'Crear una nueva variable global',
 
-    'create_new_snippet' => 'Create a New Snippet',
+    'create_new_snippet' => 'Crear un nuevo Snippet',
 
     'css_stylesheet' => 'CSS',
 
     'css_type_col' => '<abbr title="Cascading Style Sheet">CSS</abbr>',
 
-    'current_template' => 'Current Template:',
+    'current_template' => 'Plantilla actual:',
 
-    'default_site_page' => 'Indicates master site default page',
+    'default_site_page' => 'Indica la página predeterminada del sitio maestro',
 
-    'default_template_group' => 'Default Group:',
+    'default_template_group' => 'Grupo por defecto:',
 
-    'delete_global_variable' => 'Delete Global Variable',
+    'delete_global_variable' => 'Eliminar variable global',
 
-    'delete_snippet' => 'Delete Snippet',
+    'delete_snippet' => 'Eliminar Snippet',
 
-    'delete_template' => 'Delete Template',
+    'delete_template' => 'Eliminar Plantilla',
 
-    'delete_template_group' => 'Delete Group',
+    'delete_template_group' => 'Eliminar grupo',
 
-    'delete_this_group' => 'Delete the following template group?',
+    'delete_this_group' => '¿Eliminar el siguiente grupo de plantillas?',
 
-    'delete_this_snippet' => 'Delete the following Snippet?',
+    'delete_this_snippet' => '¿Eliminar el siguiente Snippet?',
 
-    'delete_this_template' => 'Delete the following template:',
+    'delete_this_template' => 'Eliminar la siguiente plantilla:',
 
-    'delete_this_variable' => 'Delete the following Global Variable?',
+    'delete_this_variable' => '¿Eliminar la siguiente variable global?',
 
-    'do_not_change' => 'Do Not Change',
+    'do_not_change' => 'No cambiar',
 
-    'do_not_duplicate_group' => 'Do not duplicate a group',
+    'do_not_duplicate_group' => 'No duplicar un grupo',
 
-    'do_not_duplicate_template' => 'Do not duplicate a template',
+    'do_not_duplicate_template' => 'No duplicar una plantilla',
 
-    'duplicate_snippet_name' => 'That Snippet name is already in use',
+    'duplicate_snippet_name' => 'Ese nombre de Snippet ya está en uso',
 
-    'duplicate_var_name' => 'A Global Variable with that name already exists.',
+    'duplicate_var_name' => 'Ya existe una variable global con ese nombre.',
 
-    'edit_group_order' => 'Edit Group Order',
+    'edit_group_order' => 'Editar pedido de grupo',
 
-    'edit_preferences' => 'Edit Preferences',
+    'edit_preferences' => 'Editar preferencias',
 
-    'edit_template_form' => 'Edit Template Form',
+    'edit_template_form' => 'Editar formulario de plantilla',
 
-    'edit_template_group_form' => 'Edit Template Group',
+    'edit_template_group_form' => 'Editar grupo de plantillas',
 
-    'edit_template_group_order' => 'Edit Group Order',
+    'edit_template_group_order' => 'Editar pedido de grupo',
 
-    'email_notification' => 'Email Notification',
+    'email_notification' => 'Notificación por email',
 
-    'email_notification_template' => 'Email Notification Templates',
+    'email_notification_template' => 'Plantillas de notificación por email',
 
-    'enable_template_routes' => 'Enable Template Routes',
+    'enable_template_routes' => 'Habilitar rutas de plantillas',
 
-    'enable_template_routes_exp' => 'Disabling template routes will remove the route options from the access panel and templates will only be accesible from the default group/template URL.',
+    'enable_template_routes_exp' => 'Deshabilitar rutas de plantillas eliminará las opciones de ruta del panel de acceso y las plantillas sólo serán accesibles desde la URL predeterminada de grupo/plantilla.',
 
-    'export_as' => 'Export files as',
+    'export_as' => 'Exportar archivos como',
 
-    'export_group' => 'Export Group',
+    'export_group' => 'Exportar grupo',
 
-    'export_template' => 'Export Template',
+    'export_template' => 'Exportar plantilla',
 
-    'export_templates' => 'Export Templates',
+    'export_templates' => 'Exportar plantillas',
 
-    'export_will_be_zip' => 'Note: Your exported data will be sent as a ZIP archive',
+    'export_will_be_zip' => 'Nota: Sus datos exportados se enviarán como un archivo ZIP',
 
     'feed_type_col' => '<abbr title="Really Simple Syndication">RSS</abbr>',
 
-    'file_edit_date' => 'File Edit Date',
+    'file_edit_date' => 'Fecha de edición del archivo',
 
-    'file_exists_warning' => 'A text file exists for this template and will be deleted as part of this action.',
+    'file_exists_warning' => 'Existe un archivo de texto para esta plantilla y será eliminado como parte de esta acción.',
 
-    'filename' => 'Filename',
+    'filename' => 'Nombre de archivo',
 
-    'folder_exists_warning' => 'A text file folder exists for this group. The folder and all contents will be automatically deleted as part of this action.',
+    'folder_exists_warning' => 'Existe una carpeta de archivos de texto para este grupo. La carpeta y todos los contenidos se eliminarán automáticamente como parte de esta acción.',
 
-    'form_is_empty' => 'You submitted an empty form',
+    'form_is_empty' => 'Has enviado un formulario vacío',
 
-    'from_db' => 'From Database',
+    'from_db' => 'Desde base de datos',
 
-    'from_file' => 'From File',
+    'from_file' => 'Desde archivo',
 
-    'global_template_preferences' => 'Global Template Preferences',
+    'global_template_preferences' => 'Preferencias de Plantilla Global',
 
-    'global_var_created' => 'Global Variable Created',
+    'global_var_created' => 'Variable global creada',
 
-    'global_var_update' => 'Global Variable Update',
+    'global_var_update' => 'Actualización Variable Global',
 
-    'global_var_updated' => 'Global Variable Updated',
+    'global_var_updated' => 'Variable global actualizada',
 
-    'global_variable_syntax' => 'Variable Syntax',
+    'global_variable_syntax' => 'Sintáctica variable',
 
-    'global_variables_explanation' => 'You can define your own variables and add them to any of your templates.',
+    'global_variables_explanation' => 'Puede definir sus propias variables y añadirlas a cualquiera de sus plantillas.',
 
-    'group_name' => 'Group Name',
+    'group_name' => 'Nombre del grupo',
 
-    'group_order' => 'Group order',
+    'group_order' => 'Orden de grupo',
 
-    'group_restriction' => 'Restrict this template to specific roles',
+    'group_restriction' => 'Restringir esta plantilla a roles específicos',
 
-    'history_cleared' => 'Template revision history has been deleted.',
+    'history_cleared' => 'El historial de revisiones de plantillas ha sido eliminado.',
 
-    'hits' => 'Hits',
+    'hits' => 'Golpes',
 
-    'http_auth_protected' => 'HTTP Auth Protected',
+    'http_auth_protected' => 'Protegido HTTP Auth',
 
-    'index_delete_disallowed' => 'Template groups must have an index template',
+    'index_delete_disallowed' => 'Los grupos de plantillas deben tener una plantilla de índice',
 
     'input' => 'Input',
 
-    'is_site_default' => 'Make the index template in this group your site\'s home page?',
+    'is_site_default' => '¿Hacer la plantilla de índice en este grupo de la página de inicio de su sitio?',
 
     'js' => 'JavaScript',
 
     'js_type_col' => 'JavaScript',
 
-    'large' => 'Large',
+    'large' => 'Grande',
 
-    'last_file_edit' => 'File Edited:',
+    'last_file_edit' => 'Archivo editado:',
 
-    'logged_out_select_blurb' => 'If you selected \'yes\', when a logged-out user tries to access this page, show this one instead:',
+    'logged_out_select_blurb' => 'Si seleccionaste \'sí\', cuando un usuario desconectado intenta acceder a esta página, muestra esta en su lugar:',
 
-    'max_revisions_exp' => 'The maximum number of revisions that should be kept for EACH template. For example, if you set this to 5, only the most recent 5 revisions will be saved for any given template.',
+    'max_revisions_exp' => 'El número máximo de revisiones que deben mantenerse para la plantilla EACH. Por ejemplo, si establece esto a 5, sólo se guardarán las 5 revisiones más recientes para una plantilla determinada.',
 
-    'max_tmpl_revisions' => 'Maximum Number of Revisions to Keep',
+    'max_tmpl_revisions' => 'Número máximo de revisiones a conservar',
 
-    'medium' => 'Medium',
+    'medium' => 'Medio',
 
-    'member_group' => 'Member Group',
+    'member_group' => 'Grupo de miembros',
 
-    'missing_name' => 'Your template must have a name',
+    'missing_name' => 'Tu plantilla debe tener un nombre',
 
-    'name_of_template' => 'Template Name',
+    'name_of_template' => 'Nombre de Plantilla',
 
-    'name_of_template_group' => 'Template Group Name',
+    'name_of_template_group' => 'Nombre de Grupo de Plantillas',
 
-    'new_template_form' => 'New Template Form',
+    'new_template_form' => 'Nuevo formulario de plantilla',
 
-    'new_template_group' => 'New Group',
+    'new_template_group' => 'Nuevo grupo',
 
-    'new_template_group_form' => 'New Template Group',
+    'new_template_group_form' => 'Nuevo grupo de plantillas',
 
-    'no_access_instructions' => 'When unauthorized users try to access this page, show this one instead:',
+    'no_access_instructions' => 'Cuando los usuarios no autorizados intentan acceder a esta página, mostrar esta en su lugar:',
 
-    'no_access_select_blurb' => 'If you selected \'no\' in any of the above:',
+    'no_access_select_blurb' => 'Si ha seleccionado \'no\' en cualquiera de los siguientes:',
 
-    'no_file_exists' => 'No file exists',
+    'no_file_exists' => 'No existe ningún archivo',
 
-    'no_results' => 'The search term you submitted was not found in any of your templates.',
+    'no_results' => 'El término de búsqueda enviado no se encontró en ninguna de sus plantillas.',
 
-    'no_templates_found' => 'No <b>Templates</b> found.',
+    'no_templates_found' => 'No se encontraron <b>plantillas</b>.',
 
-    'no_user_templates_found' => 'No <b>Templates</b> found. See <a href="%s" title="Documentation" rel="external">documentation</a>.',
+    'no_user_templates_found' => 'No se encontraron <b>plantillas</b> . Vea <a href="%s" title="Documentation" rel="external">documentación</a>.',
 
-    'no_templates_selected' => 'No Templates Selected',
+    'no_templates_selected' => 'No hay plantillas seleccionadas',
 
-    'no_valid_templates_sync' => 'No valid templates exist. You must have at least one template flagged to save as a text file.',
+    'no_valid_templates_sync' => 'No existen plantillas válidas. Debe tener al menos una plantilla marcada para guardar como un archivo de texto.',
 
-    'offline_template_desc' => 'This template contains the page that is shown when your site is offline.',
+    'offline_template_desc' => 'Esta plantilla contiene la página que se muestra cuando su sitio está fuera de línea.',
 
-    'order' => 'Order',
+    'order' => 'Pedido',
 
-    'output' => 'Output',
+    'output' => 'Salida',
 
-    'php_in_templates_warning' => '<b>Warning</b>: Allowing PHP in templates has <a href="' . DOC_URL . 'templates/overview.html#php-in-templates" target="_blank" rel="external">security implications</a>.',
+    'php_in_templates_warning' => '<b>Advertencia</b>: Permitir PHP en plantillas tiene <a href="' . DOC_URL . 'templates/overview.html#php-in-templates" target="_blank" rel="external">Implicaciones de seguridad</a>.',
 
-    'php_in_templates_warning2' => 'Any setting marked with %s should be used with caution.',
+    'php_in_templates_warning2' => 'Cualquier ajuste marcado con %s debe utilizarse con precaución.',
 
-    'php_in_templates_config_warning' => 'You need to set <code>$config[\'allow_php\'] = \'y\';</code> in <code>config.php</code> file if you want to use this feature.',
+    'php_in_templates_config_warning' => 'Necesitas establecer <code>$config[\'allow_php\'] = \'y\';</code> en el archivo <code>config.php</code> si quieres usar esta función.',
 
-    'preference' => 'Preference',
+    'preference' => 'Preferencia',
 
-    'preferences' => 'Preferences',
+    'preferences' => 'Preferencias',
 
-    'preferences_updated' => 'Preferences Updated',
+    'preferences_updated' => 'Preferencias actualizadas',
 
     'prefs' => 'Prefs',
 
-    'protect_javascript' => 'Protect Javascript',
+    'protect_javascript' => 'Proteger Javascript',
 
-    'refresh_in_minutes' => 'In minutes',
+    'refresh_in_minutes' => 'En minutos',
 
-    'require_logged_in' => 'Require users to be logged-in to view this page?',
+    'require_logged_in' => '¿Requiere que los usuarios inicien sesión para ver esta página?',
 
-    'revision_history' => 'View Revision History',
+    'revision_history' => 'Ver historial de revisiones',
 
-    'route_manager_group' => 'Group',
+    'route_manager_group' => 'Grupo',
 
-    'route_manager_required' => 'Segments Required',
+    'route_manager_required' => 'Segmentos requeridos',
 
-    'route_manager_route' => 'Route',
+    'route_manager_route' => 'Ruta',
 
-    'route_manager_template' => 'Template',
+    'route_manager_template' => 'Plantilla',
 
-    'route_required' => 'Require All Segments:',
+    'route_required' => 'Requerir todos los segmentos:',
 
-    'route_required_subtext' => 'If route segments are required all segments in the template route must be present in the request URI.',
+    'route_required_subtext' => 'Si se requieren segmentos de ruta, todos los segmentos de la ruta de plantilla deben estar presentes en la URI de solicitud.',
 
-    'rss' => 'RSS Page',
+    'rss' => 'Página RSS',
 
-    'save_template_revision' => 'Save Revision',
+    'save_template_revision' => 'Guardar revisión',
 
-    'save_tmpl_files' => 'Save Templates as Files',
+    'save_tmpl_files' => 'Guardar plantillas como archivos',
 
-    'save_tmpl_files_exp' => 'Saves templates as files on your server. Click Help for more information.',
+    'save_tmpl_files_exp' => 'Guarda plantillas como archivos en tu servidor. Haz clic en Ayuda para más información.',
 
-    'save_tmpl_revisions' => 'Save Template Revisions',
+    'save_tmpl_revisions' => 'Guardar revisiones de plantilla',
 
-    'save_to_sync' => 'Save template to sync database.',
+    'save_to_sync' => 'Guardar plantilla para sincronizar la base de datos.',
 
-    'search' => 'Search',
+    'search' => 'Buscar',
 
-    'search_terms' => 'Search Terms:',
+    'search_terms' => 'Términos de búsqueda:',
 
-    'security_warning' => 'Note: Allowing PHP in templates has security implications. Please consult the <a href="%s" title="Documentation" rel="external">documentation</a>.',
+    'security_warning' => 'Nota: Permitir PHP en las plantillas tiene implicaciones de seguridad. Por favor, consulte la <a href="%s" title="Documentation" rel="external">documentación</a>.',
 
-    'selected_templates' => 'Select Templates',
+    'selected_templates' => 'Seleccionar plantillas',
 
-    'setting' => 'Setting',
+    'setting' => 'Ajustes',
 
-    'settings_manager' => 'Settings/Manager',
+    'settings_manager' => 'Configuración/Administrador',
 
-    'show_all_partials' => 'All %d partials',
+    'show_all_partials' => 'Todos los %d parciales',
 
-    'show_all_templates' => 'All %d templates',
+    'show_all_templates' => 'Todas las plantillas %d',
 
-    'show_all_variables' => 'All %d variables',
+    'show_all_variables' => 'Todas las variables %d',
 
-    'site_404_exp' => 'Determines which template should be displayed when someone tries to access an invalid URL. Note: If you choose \'None\', your default channel will be shown when an invalid URL is requested.',
+    'site_404_exp' => 'Determina qué plantilla debe mostrarse cuando alguien intenta acceder a una URL no válida. Nota: Si elige \'Ninguno\', su canal por defecto se mostrará cuando se solicite una URL no válida.',
 
-    'small' => 'Small',
+    'small' => 'Pequeño',
 
-    'snippet_create' => 'Create Snippet',
+    'snippet_create' => 'Crear Fragmento',
 
-    'snippet_created' => 'Snippet Created',
+    'snippet_created' => 'Fragmento creado',
 
-    'snippet_deleted' => 'Snippet Deleted',
+    'snippet_deleted' => 'Fragmento eliminado',
 
-    'snippet_edit' => 'Edit Snippet: %s',
+    'snippet_edit' => 'Editar Fragmento: %s',
 
-    'snippet_syntax' => 'Snippet Syntax',
+    'snippet_syntax' => 'Sintáctica de Snippet',
 
-    'snippet_updated' => 'Snippet Updated',
+    'snippet_updated' => 'Fragmento actualizado',
 
-    'snippets' => 'Snippets',
+    'snippets' => 'Fragmentos',
 
-    'snippets_explanation' => 'Snippets are handy when you need small bits of reusable template or tag parts. For static content that does not include ExpressionEngine tags, variables, or PHP, consider <a href =\'%s\'>Global Variables</a>.',
+    'snippets_explanation' => 'Los fragmentos son útiles cuando necesitas pequeños trozos de plantillas reutilizables o partes de etiquetas. Para el contenido estático que no incluye etiquetas, variables o PHP, considere <a href =\'%s\'>Variables globales</a>.',
 
-    'static' => 'Static',
+    'static' => 'Estático',
 
-    'static_type_col' => 'Static',
+    'static_type_col' => 'Estático',
 
-    'strict_urls' => 'Enable Strict URLs',
+    'strict_urls' => 'Habilitar URLs estrictas',
 
-    'strict_urls_exp' => 'This feature enforces stricter rules for your URLs, and interacts with the 404 feature below. Please see user guide for info.',
+    'strict_urls_exp' => 'Esta característica impone reglas más estrictas para sus URLs, e interactúa con la función 404 a continuación. Consulte la guía de usuario para obtener información.',
 
-    'sync' => 'Sync',
+    'sync' => 'Sincronizar',
 
-    'sync_completed' => 'Templates in the database have been synced to files.',
+    'sync_completed' => 'Las plantillas de la base de datos han sido sincronizadas a archivos.',
 
-    'sync_not_allowed_1' => 'Saving templates as text files is not currently enabled in ',
+    'sync_not_allowed_1' => 'Guardar plantillas como archivos de texto no está habilitado actualmente en ',
 
-    'sync_not_allowed_2' => 'global template preferences.',
+    'sync_not_allowed_2' => 'preferencias de plantillas globales.',
 
-    'sync_templates' => 'Synchronize Templates',
+    'sync_templates' => 'Sincronizar plantillas',
 
-    'sync_templates_info1' => 'Selected templates will be updated to match the current associated file.',
+    'sync_templates_info1' => 'Las plantillas seleccionadas se actualizarán para que coincidan con el archivo asociado actual.',
 
-    'sync_templates_info2' => 'If a file does not yet exist for a flagged template, it will be created based on the template data.',
+    'sync_templates_info2' => 'Si un archivo aún no existe para una plantilla marcada, se creará basándose en los datos de la plantilla.',
 
-    'system_offline' => 'System Offline ',
+    'system_offline' => 'Sistema fuera de línea ',
 
-    'tag_class_error' => 'Invalid tag (no such plugin or module)',
+    'tag_class_error' => 'Etiqueta no válida (no existe ningún plugin o módulo)',
 
-    'tag_docs_link_error' => 'Please consult the module\'s <a href="%s">documentation</a> if you experience problems.',
+    'tag_docs_link_error' => 'Consulte la <a href="%s">documentación</a> del módulo si tiene problemas.',
 
-    'tag_install_error' => 'The Module is not Installed',
+    'tag_install_error' => 'El módulo no está instalado',
 
-    'tag_no_closing_tag_error' => 'No closing tag found. Note: some tags do not require closing.',
+    'tag_no_closing_tag_error' => 'No se encontró etiqueta de cierre. Nota: algunas etiquetas no requieren cierre.',
 
-    'template_access' => 'Template Access Restriction',
+    'template_access' => 'Restricción de acceso a plantillas',
 
-    'template_created' => 'Template Created',
+    'template_created' => 'Plantilla creada',
 
-    'template_del_conf' => 'Template delete confirm',
+    'template_del_conf' => 'Confirmar eliminación de plantillas',
 
-    'template_deleted' => 'Template Deleted',
+    'template_deleted' => 'Plantilla eliminada',
 
-    'template_edit_date' => 'Template Edit Date',
+    'template_edit_date' => 'Fecha de edición de plantilla',
 
-    'template_file_not_deleted' => 'Unable to delete the associated template file',
+    'template_file_not_deleted' => 'No se puede eliminar el archivo de plantilla asociado',
 
-    'template_file_not_renamed' => 'Unable to rename the associated template file',
+    'template_file_not_renamed' => 'No se puede renombrar el archivo de plantilla asociado',
 
-    'template_from_library' => 'Use a template from your library',
+    'template_from_library' => 'Usa una plantilla de tu biblioteca',
 
-    'template_group_created' => 'Template Group Created',
+    'template_group_created' => 'Grupo de plantillas creado',
 
-    'template_group_del_conf' => 'Template group delete confirm',
+    'template_group_del_conf' => 'Confirmar eliminación de grupo de plantillas',
 
-    'template_group_deleted' => 'Template group deleted',
+    'template_group_deleted' => 'Grupo de plantillas eliminado',
 
-    'template_group_instructions' => 'The name must be a single word with no spaces',
+    'template_group_instructions' => 'El nombre debe ser una sola palabra sin espacios',
 
-    'template_group_updated' => 'Template Group Updated',
+    'template_group_updated' => 'Grupo de plantillas actualizado',
 
-    'template_id_not_found' => 'Invalid template id selected',
+    'template_id_not_found' => 'Id de plantilla seleccionado inválido',
 
-    'template_intro' => 'This page is where templates are managed.',
+    'template_intro' => 'Esta página es donde se administran las plantillas.',
 
-    'template_management' => 'Template Management',
+    'template_management' => 'Gestión de plantillas',
 
-    'template_name' => 'Template Name',
+    'template_name' => 'Nombre de Plantilla',
 
-    'template_not_saved' => 'Unable to save your template as a text file',
+    'template_not_saved' => 'No se puede guardar la plantilla como un archivo de texto',
 
-    'template_preferences' => 'Template Preferences',
+    'template_preferences' => 'Preferencias de Plantilla',
 
-    'template_preferences_manager' => 'Template Preferences Manager',
+    'template_preferences_manager' => 'Gestor de preferencias de plantilla',
 
-    'template_rev_msg' => 'Note: Saving your revisions can use up a lot of database space so you are encouraged to set limits below.',
+    'template_rev_msg' => 'Nota: Guardar sus revisiones puede usar un montón de espacio de base de datos por lo que se le anima a establecer límites a continuación.',
 
-    'template_route' => 'Template Route:',
+    'template_route' => 'Ruta de plantilla:',
 
-    'template_route_notice' => 'Routes are listed in the order that the Template Router will match your templates.<br />You can drag and drop to rearrange the order.',
+    'template_route_notice' => 'Las rutas se muestran en el orden en que el enrutador de plantilla coincidirá con sus plantillas.<br />Puede arrastrar y soltar para reorganizar el pedido.',
 
-    'template_route_subtext' => 'If a route is provided here it will override the default group/template URL structure.',
+    'template_route_subtext' => 'Si aquí se proporciona una ruta, anulará la estructura por defecto de grupo/plantilla de URL.',
 
-    'template_routes_not_saved' => 'Template Routes Not Saved',
+    'template_routes_not_saved' => 'Rutas de plantillas no guardadas',
 
-    'template_routes_not_saved_desc' => 'We were unable to save the template routes, please review and fix errors below.',
+    'template_routes_not_saved_desc' => 'No hemos podido guardar las rutas de la plantilla, por favor revise y corrija los errores a continuación.',
 
-    'template_routes_saved' => 'Template Routes Saved',
+    'template_routes_saved' => 'Rutas de plantilla guardadas',
 
-    'template_routes_saved_desc' => 'Template routes have been saved.',
+    'template_routes_saved_desc' => 'Las rutas de plantilla han sido guardadas.',
 
-    'template_size' => 'Template Size',
+    'template_size' => 'Tamaño de la plantilla',
 
-    'template_warnings' => 'Template Warnings',
+    'template_warnings' => 'Advertencias de Plantillas',
 
-    'template_warnings_actions' => 'Suggestions',
+    'template_warnings_actions' => 'Sugerencias',
 
-    'template_warnings_blurb' => 'The following tags raised warnings.',
+    'template_warnings_blurb' => 'Las siguientes etiquetas plantearon advertencias.',
 
-    'this_site_only' => 'This Site Only',
+    'this_site_only' => 'Solo este sitio',
 
-    'tmpl_revisions_not_enabled' => 'Template Revisions are not enabled.',
+    'tmpl_revisions_not_enabled' => 'Las revisiones de plantillas no están habilitadas.',
 
-    'tmpl_search_result' => '(%s) Results in (%s) Template Groups',
+    'tmpl_search_result' => '(%s) Resultados en (%s) Grupos de plantillas',
 
-    'toggle_editor' => 'Toggle Editor',
+    'toggle_editor' => 'Cambiar editor',
 
-    'type' => 'Type',
+    'type' => 'Tipo',
 
-    'unable_to_write_files' => 'Unable to write the files to your cache directory',
+    'unable_to_write_files' => 'No se pueden escribir los archivos en el directorio de caché',
 
-    'breadcrumb' => 'Breadcrumb',
+    'breadcrumb' => 'migas de pan',
 
-    'undersores_allowed' => '(underscores and dashes are allowed)',
+    'undersores_allowed' => '(se permiten guiones bajos y guiones)',
 
-    'url_manager' => 'Template Route Manager',
+    'url_manager' => 'Gestor de rutas de plantillas',
 
-    'user_message' => 'User Message',
+    'user_message' => 'Mensaje de usuario',
 
-    'user_messages_template' => 'User Message Template',
+    'user_messages_template' => 'Plantilla de mensaje de usuario',
 
-    'variable_deleted' => 'Variable Deleted',
+    'variable_deleted' => 'Variable eliminada',
 
-    'variable_does_not_exist' => 'Global Variable does not exit',
+    'variable_does_not_exist' => 'La variable global no sale',
 
-    'variable_name_instructions' => 'The name must be a single alphanumeric word with no spaces (underscores, dashes, and periods allowed)',
+    'variable_name_instructions' => 'El nombre debe ser una sola palabra alfanumérica sin espacios (guiones bajos, guiones y períodos permitidos)',
 
-    'view' => 'View',
+    'view' => 'Ver',
 
-    'view_rendered_template' => 'View Rendered Template',
+    'view_rendered_template' => 'Ver plantilla procesada',
 
-    'localization_form' => 'Localization Preferences Form',
+    'localization_form' => 'Formulario de preferencias de localización',
 
-    'webpage' => 'Web Page (HTML)',
+    'webpage' => 'Página web (HTML)',
 
     'webpage_type_col' => '<abbr title="Hyper-Text Markup Language">HTML</abbr>',
 
@@ -778,190 +778,190 @@ $lang = array(
 
     'xml_type_col' => '<abbr title="Extensible Markup Language">XML</abbr>',
 
-    'you_must_submit_a_name' => 'Your template must have a name',
+    'you_must_submit_a_name' => 'Tu plantilla debe tener un nombre',
 
     /* Profile Theme Templates */
-    'activation_email_resent' => 'Activation Email Resent',
+    'activation_email_resent' => 'Email de activación reenviado',
 
-    'activation_emails_resent' => 'Activation Emails Resent',
+    'activation_emails_resent' => 'Correos de activación reenviados',
 
-    'aim_console' => 'AOL Instant Messenger Console',
+    'aim_console' => 'Consola de mensajería instantánea AOL',
 
-    'avatar_folder_list' => 'Pre-installed Avatar Folder List',
+    'avatar_folder_list' => 'Lista de carpetas de avatar preinstalada',
 
-    'basic_profile' => 'Limited Profile Page',
+    'basic_profile' => 'Página de perfil limitada',
 
-    'breadcrumb' => 'Breadcrumb',
+    'breadcrumb' => 'migas de pan',
 
-    'breadcrumb_current_page' => 'Breadcrumb Current Page',
+    'breadcrumb_current_page' => 'Página actual de Breadcrumb',
 
-    'breadcrumb_trail' => 'Breadcrumb Trail',
+    'breadcrumb_trail' => 'Rastro de migas de pan',
 
-    'browse_avatars' => 'Browse Avatars Page',
+    'browse_avatars' => 'Navegar por Avatares',
 
-    'buddies_block_list' => 'Private Message - Buddies and Block List',
+    'buddies_block_list' => 'Mensaje privado - Amigos y Lista de Bloques',
 
-    'buddies_block_row' => 'Private Message - Buddies and Block List Rows',
+    'buddies_block_row' => 'Mensaje privado - Amigos y Filas de Lista de Bloquear',
 
-    'bulletin' => 'Bulletin',
+    'bulletin' => 'Boletín',
 
-    'bulletin_board' => 'Bulletin Board',
+    'bulletin_board' => 'Boletín',
 
-    'bulletin_form' => 'Bulletin Form',
+    'bulletin_form' => 'Formulario de Boletín',
 
-    'can_send_bulletins' => 'Can Send Bulletins',
+    'can_send_bulletins' => 'Puedes enviar boletines',
 
-    'control_panel' => 'Control Panel',
+    'control_panel' => 'Panel de control',
 
-    'copyright' => 'Copyright Notice',
+    'copyright' => 'Aviso de Copyright',
 
-    'custom_profile_fields' => 'Custom Member Fields',
+    'custom_profile_fields' => 'Campos de miembros personalizados',
 
-    'delete_confirmation_form' => 'Delete Account Confirmation Form',
+    'delete_confirmation_form' => 'Eliminar formulario de confirmación de cuenta',
 
-    'edit_avatar' => 'Avatar Edit Page',
+    'edit_avatar' => 'Página de edición de avatar',
 
-    'edit_ignore_list_form' => 'Ignore List Form',
+    'edit_ignore_list_form' => 'Ignorar formulario de lista',
 
-    'edit_ignore_list_rows' => 'Ignore List Rows',
+    'edit_ignore_list_rows' => 'Ignorar lista de filas',
 
-    'edit_photo' => 'Edit Member Photo Page',
+    'edit_photo' => 'Editar página de foto de miembro',
 
-    'edit_profile_form' => 'Member Profile Form',
+    'edit_profile_form' => 'Formulario de perfil de miembro',
 
-    'email_form' => 'Email Console',
+    'email_form' => 'Consola de Email',
 
-    'email_prefs_form' => 'Email Preferences Form',
+    'email_prefs_form' => 'Formulario de preferencias de correo',
 
-    'email_user_message' => 'Email Messages',
+    'email_user_message' => 'Mensajes de Email',
 
-    'emoticon_page' => 'Emoticon Page',
+    'emoticon_page' => 'Página de emoticonos',
 
-    'empty_list' => 'Private Message - Empty List',
+    'empty_list' => 'Mensaje privado - Lista vacía',
 
-    'error_opening_template' => 'Error: Unable to open the template file in order to write its contents.',
+    'error_opening_template' => 'Error: No se puede abrir el archivo de plantilla para escribir su contenido.',
 
-    'forgot_form' => 'Forgot Password Form',
+    'forgot_form' => 'Formulario de contraseña olvidada',
 
-    'full_profile' => 'Full Profile Page',
+    'full_profile' => 'Página de perfil completa',
 
-    'group_description' => 'Member Group Description',
+    'group_description' => 'Descripción del grupo de miembros',
 
-    'home_page' => 'Member Profile Home Page',
+    'home_page' => 'Página de inicio del perfil de miembro',
 
-    'html_footer' => 'HTML Footer',
+    'html_footer' => 'Pie de página HTML',
 
-    'html_header' => 'HTML Header',
+    'html_header' => 'Encabezado HTML',
 
-    'icq_console' => 'ICQ Console',
+    'icq_console' => 'Consola ICQ',
 
-    'import_utilities' => 'Import Utilities',
+    'import_utilities' => 'Importar utilidades',
 
-    'localization_form' => 'Localization Preferences Form',
+    'localization_form' => 'Formulario de preferencias de localización',
 
-    'login_as_member_description' => 'When you click submit, you will be logged in as the member \'%screen_name%\' and redirected to the page below.',
+    'login_as_member_description' => 'Cuando haga clic en enviar, se conectará como miembro \'%screen_name%\' y se redirigirá a la página de abajo.',
 
-    'login_as_user' => 'SuperAdmin Logging In as User',
+    'login_as_user' => 'Inicio de sesión SuperAdmin como usuario',
 
-    'login_form' => 'Login Form',
+    'login_form' => 'Formulario de acceso',
 
-    'member_page' => 'Member Profile Outer Enclosure',
+    'member_page' => 'Ficha del perfil del miembro',
 
-    'member_results' => 'Private Message - Member Search Results',
+    'member_results' => 'Mensaje privado - Resultados de búsqueda de miembros',
 
-    'member_results_row' => 'Private Message - Member Search Result Rows',
+    'member_results_row' => 'Mensaje privado - Resultados de búsqueda de miembros',
 
-    'memberlist' => 'Member List Page',
+    'memberlist' => 'Página de lista de miembros',
 
-    'memberlist_rows' => 'Member List Rows',
+    'memberlist_rows' => 'Filas de lista de miembros',
 
-    'menu' => 'Member Profile Menu',
+    'menu' => 'Menú de Perfil de Miembros',
 
-    'message_attachment_link' => 'Private Message - Attachment Link',
+    'message_attachment_link' => 'Mensaje privado - Enlace adjunto',
 
-    'message_attachment_rows' => 'Private Message - Attachment Rows',
+    'message_attachment_rows' => 'Mensaje privado - Filas de adjunto',
 
-    'message_attachments' => 'Private Message - Attachments',
+    'message_attachments' => 'Mensaje privado - Adjuntos',
 
-    'message_compose' => 'Private Message - Compose Page',
+    'message_compose' => 'Mensaje privado - Página de composición',
 
-    'message_edit_folders' => 'Private Message - Edit Folders',
+    'message_edit_folders' => 'Mensaje privado - Editar Carpetas',
 
-    'message_edit_folders_row' => 'Private Message - Edit Folders Rows',
+    'message_edit_folders_row' => 'Mensaje privado - Editar Filas de Carpetas',
 
-    'message_error' => 'Private Message - Error',
+    'message_error' => 'Mensaje privado - Error',
 
-    'message_folder' => 'Private Message - Message Folder',
+    'message_folder' => 'Mensaje privado - Carpeta de mensajes',
 
-    'message_folder_rows' => 'Private Message - Message Folder Rows',
+    'message_folder_rows' => 'Mensaje privado - Filas de carpeta de mensajes',
 
-    'message_menu' => 'Private Message - Menu',
+    'message_menu' => 'Mensaje privado - Menú',
 
-    'message_menu_rows' => 'Private Message - Menu Rows',
+    'message_menu_rows' => 'Mensaje privado - Filas de menú',
 
-    'message_no_folder_rows' => 'Private Message - Message No Folder Rows',
+    'message_no_folder_rows' => 'Mensaje privado - Mensaje sin filas de carpeta',
 
-    'message_submission_error' => 'Private Message - Submission Error',
+    'message_submission_error' => 'Mensaje privado - Error de envío',
 
-    'message_success' => 'Private Message - Success',
+    'message_success' => 'Mensaje privado - Éxito',
 
-    'new_member_search' => 'New Member Search',
+    'new_member_search' => 'Búsqueda de nuevos miembros',
 
-    'no_subscriptions_message' => 'No Subscriptions Message',
+    'no_subscriptions_message' => 'No hay mensajes de suscripciones',
 
     'notepad_form' => 'Notepad Form',
 
-    'other' => 'Other',
+    'other' => 'Otro',
 
-    'page_header' => 'Page Header',
+    'page_header' => 'Encabezado de página',
 
-    'page_subheader' => 'Page Sub-header',
+    'page_subheader' => 'Sub-encabezado de página',
 
-    'password_change_warning' => 'Password Change Warning',
+    'password_change_warning' => 'Advertencia de cambio de contraseña',
 
-    'preview_message' => 'Private Message - Preview',
+    'preview_message' => 'Mensaje privado - Vista previa',
 
-    'public_custom_profile_fields' => 'Custom Member Fields for Public Profile',
+    'public_custom_profile_fields' => 'Campos de miembros personalizados para el perfil público',
 
-    'public_profile' => 'Public Member Profile',
+    'public_profile' => 'Perfil de miembro público',
 
-    'registration_form' => 'Registration Form',
+    'registration_form' => 'Formulario de registro',
 
-    'resend_activation_email' => 'Resend Activation Email',
+    'resend_activation_email' => 'Reenviar Email de Activación',
 
-    'resend_activation_emails' => 'Resend Activation Emails',
+    'resend_activation_emails' => 'Reenviar Correos de Activación',
 
-    'reset_password_form' => 'Password Reset Form',
+    'reset_password_form' => 'Formulario de cambio de contraseña',
 
-    'search_members' => 'Private Message - Member Search',
+    'search_members' => 'Mensaje privado - Búsqueda de miembros',
 
-    'signature_form' => 'Signature Edit Page',
+    'signature_form' => 'Editar Firma',
 
     'stylesheet' => 'CSS Stylesheet',
 
-    'subscription_pagination' => 'Subscription Pagination',
+    'subscription_pagination' => 'Paginación de la suscripción',
 
-    'subscription_result_heading' => 'Subscription Results Heading',
+    'subscription_result_heading' => 'Encabezado de resultados de la suscripción',
 
-    'subscription_result_rows' => 'Subscription Result Rows',
+    'subscription_result_rows' => 'Resultados de la suscripción',
 
-    'subscriptions_form' => 'Subscriptions Page',
+    'subscriptions_form' => 'Página de suscripciones',
 
-    'template_set' => 'Template Set:',
+    'template_set' => 'Juego de plantillas:',
 
-    'template_set_names' => 'Available Template Sets',
+    'template_set_names' => 'Conjuntos de plantillas disponibles',
 
-    'template_updated' => 'Template Has Been Updated',
+    'template_updated' => 'Plantilla ha sido actualizada',
 
-    'update_un_pw_form' => 'Update Username and Password Form',
+    'update_un_pw_form' => 'Actualizar nombre de usuario y contraseña',
 
-    'username_change_disallowed' => 'Username Change Disallowed Message',
+    'username_change_disallowed' => 'Cambiar nombre de usuario mensaje no permitido',
 
-    'username_password_form' => 'Username and Password Form',
+    'username_password_form' => 'Nombre de usuario y formulario de contraseña',
 
-    'username_row' => 'Username Form Row',
+    'username_row' => 'Nombre de usuario fila',
 
-    'view_message' => 'Private Message - View Message',
+    'view_message' => 'Mensaje privado - Ver mensaje',
 
 );
 
