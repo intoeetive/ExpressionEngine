@@ -2,23 +2,23 @@
 
 $lang = array(
 
-    'check_spelling' => 'Check Spelling',
+    'check_spelling' => 'Comprobar ortografía',
 
-    'no_spelling_errors' => 'No Errors Found',
+    'no_spelling_errors' => 'No se encontraron errores',
 
-    'revert_spellcheck' => 'Revert to Original',
+    'revert_spellcheck' => 'Revertir a Original',
 
-    'save_spellcheck' => 'Save Changes',
+    'save_spellcheck' => 'Guardar Cambios',
 
-    'spell_check' => 'Spell Check',
+    'spell_check' => 'Revisión ortográfica',
 
-    'spell_edit_word' => 'Edit Word',
+    'spell_edit_word' => 'Editar palabra',
 
-    'spell_save_edit' => 'Save Edit',
+    'spell_save_edit' => 'Guardar Edición',
 
-    'spellcheck_in_progress' => 'Check In Progress...',
+    'spellcheck_in_progress' => 'Verificar en progreso...',
 
-    'unsupported_browser' => 'Unsupported Browser',
+    'unsupported_browser' => 'Navegador no soportado',
 
 );
 
