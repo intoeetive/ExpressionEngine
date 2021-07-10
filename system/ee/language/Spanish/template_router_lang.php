@@ -2,35 +2,35 @@
 
 $lang = array(
 
-    'duplicate_route' => 'Route already in use.',
+    'duplicate_route' => 'Ruta ya en uso.',
 
-    'group' => 'Group',
+    'group' => 'Grupo',
 
-    'invalid_regex' => 'Invalid regular expression',
+    'invalid_regex' => 'Expresión regular no válida',
 
-    'invalid_route' => 'Invalid template route: ',
+    'invalid_route' => 'Ruta de plantilla no válida: ',
 
-    'invalid_variable' => 'Invalid variable name, variables must be alphanumeric: ',
+    'invalid_variable' => 'Nombre de variable no válido, las variables deben ser alfanuméricas: ',
 
-    'missing_rule' => 'Rule does not exist: ',
+    'missing_rule' => 'La regla no existe: ',
 
-    'missing_segment_value' => 'Missing value for segment: ',
+    'missing_segment_value' => 'Falta un valor para el segmento: ',
 
-    'new_route' => 'New route',
+    'new_route' => 'Nueva ruta',
 
-    'route' => 'Route',
+    'route' => 'Ruta',
 
-    'route_not_found' => 'Template route not found.',
+    'route_not_found' => 'Ruta de plantilla no encontrada.',
 
-    'segments_required' => 'Segments Required?',
+    'segments_required' => '¿Segmentos requeridos?',
 
-    'template_routes_header' => 'Template Routes',
+    'template_routes_header' => 'Rutas de plantillas',
 
-    'template_routes_header_desc' => 'Routes are listed in the order that the Template Router will match your templates.',
+    'template_routes_header_desc' => 'Las rutas están listadas en el orden en que el enrutador de plantillas coincidirá con sus plantillas.',
 
-    'validation_failed' => 'Validation failed.',
+    'validation_failed' => 'Error de validación.',
 
-    'variable_in_use' => 'Segment variable already in use: ',
+    'variable_in_use' => 'La variable del segmento ya está en uso: ',
 
 );
 
