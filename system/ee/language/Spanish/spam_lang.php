@@ -2,75 +2,75 @@
 
 $lang = array(
 
-    'all_spam' => 'All SPAM',
+    'all_spam' => 'Todo SPAM',
 
-    'approve_spam' => 'NOT SPAM, then approve',
+    'approve_spam' => 'NO ESPAM, luego aprobar',
 
-    'content_type' => 'content type',
+    'content_type' => 'tipo de contenido',
 
-    'deny_spam' => 'SPAM, then remove from spam trap',
+    'deny_spam' => 'SPAM, luego elimina de la trampa de spam',
 
-    'engine_training' => 'Engine Training',
+    'engine_training' => 'Entrenamiento del motor',
 
-    'filter_by_type' => 'filter by type&hellip;',
+    'filter_by_type' => 'filtrar por tipo&hellip;',
 
-    'mark_selected' => 'mark selected',
+    'mark_selected' => 'marcar seleccionados',
 
-    'search_spam' => 'Search Spam',
+    'search_spam' => 'Buscar Spam',
 
-    'show_all_spam' => 'show all spam',
+    'show_all_spam' => 'mostrar todo spam',
 
     'spam' => 'SPAM',
 
-    'spam_content' => 'Content',
+    'spam_content' => 'Contenido',
 
-    'spam_content_limit' => 'Content Limit',
+    'spam_content_limit' => 'Límite de contenido',
 
-    'spam_content_limit_desc' => 'Number of content entries to use, for training.<br>Higher numbers can reduce performance speeds.',
+    'spam_content_limit_desc' => 'Número de entradas de contenido a utilizar, para el entrenamiento.<br>Los números más altos pueden reducir la velocidad de rendimiento.',
 
-    'spam_module_description' => 'Spam filter for comments and forum posts',
+    'spam_module_description' => 'Filtro de spam para comentarios y mensajes del foro',
 
     'spam_module_name' => 'Spam',
 
-    'spam_queue' => 'Spam Queue',
+    'spam_queue' => 'Cola de spam',
 
-    'spam_sensitivity' => 'Sensitivity',
+    'spam_sensitivity' => 'Sensibilidad',
 
-    'spam_sensitivity_desc' => 'Percentage threshold at which content is marked as SPAM. Content will be marked as SPAM, if it has an equal to or higher chance of being SPAM.',
+    'spam_sensitivity_desc' => 'Umbral de porcentaje en el que el contenido está marcado como SPAM. El contenido se marcará como SPAM, si tiene una probabilidad igual o mayor de ser SPAM.',
 
-    'spam_settings' => 'SPAM Settings',
+    'spam_settings' => 'Ajustes de SPAM',
 
-    'spam_settings_updated' => 'Your Spam settings have been saved',
+    'spam_settings_updated' => 'Se han guardado los ajustes de Spam',
 
-    'spam_trap_approved' => '<b>%s</b> items in the Spam Trap have been approved and marked as ham',
+    'spam_trap_approved' => '<b>%s</b> artículos en la Trampa de Spam han sido aprobados y marcados como jamón',
 
-    'spam_trap_removed' => '<b>%s</b> items in the Spam Trap have been removed and marked as spam',
+    'spam_trap_removed' => '<b>%s</b> elementos en la Trampa de Spam han sido eliminados y marcados como spam',
 
-    'spam_type' => 'Type',
+    'spam_type' => 'Tipo',
 
-    'spam_word_limit' => 'Word Limit',
+    'spam_word_limit' => 'Límite de palabras',
 
-    'spam_word_limit_desc' => 'Number of specific words to store, for training. Higher numbers can reduce performance speeds.',
+    'spam_word_limit_desc' => 'Número de palabras específicas a almacenar, para entrenamiento. Un número más alto puede reducir las velocidades de rendimiento.',
 
-    'success' => 'Success',
+    'success' => 'Éxito',
 
-    'training_downloaded' => 'Training data downloaded',
+    'training_downloaded' => 'Datos de entrenamiento descargados',
 
-    'training_finished' => 'Training Finished',
+    'training_finished' => 'Entrenamiento terminado',
 
-    'training_prepared' => 'Training data prepared',
+    'training_prepared' => 'Datos de formación preparados',
 
-    'training_update_failed' => 'Could not update training data',
+    'training_update_failed' => 'No se pudo actualizar los datos de entrenamiento',
 
-    'trap_date' => 'Date',
+    'trap_date' => 'Fecha',
 
-    'update_training' => 'Update Training',
+    'update_training' => 'Actualizar formación',
 
-    'update_training_desc' => 'This will download up-to-date training data from ExpressionEngine and update your database.',
+    'update_training_desc' => 'Esto descargará los datos actualizados de formación de ExpressionEngine y actualizará su base de datos.',
 
-    'updating_parameters' => 'Updating Parameters',
+    'updating_parameters' => 'Actualizando parámetros',
 
-    'updating_vocabulary' => 'Updating Vocabulary',
+    'updating_vocabulary' => 'Actualizando vocabulario',
 
 );
 
